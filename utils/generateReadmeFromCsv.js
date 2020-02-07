@@ -1,7 +1,7 @@
 const Papa = require('papaparse');
 // const Mustache = require('Mustache');
 const Handlebars = require('handlebars');
-
+const { differenceInDays, parse } = require('date-fns');
 const path = require('path');
 const README_PATH = path.join(__dirname, '..', 'README.md');
 const NON_FICTION_PATH = path.join(__dirname, '..', 'data', 'non-fiction.csv');
@@ -11,7 +11,13 @@ let csv = fs.readFileSync(path.join(__dirname, '..', 'data', 'non-fiction.csv'),
 Papa.parse(csv, {
   header: true,
   complete: function(data) {
-    data.data.pop();
+    // if (data.data[data.data.length - 1].media === '') {
+    //   data.data.pop();
+    // }
+    let now = new Date();
+    data.data.map((entry) => {
+      entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
+    });
     fs.readFile(path.join(__dirname, '..', 'template', 'README.handlebars'), 'utf8', function(
       err,
       template

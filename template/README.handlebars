@@ -77,7 +77,7 @@ requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文链�
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 {{#each @this}}
-|{{date}}|{{title}}|[link]({{url}})|[link]({{screenshot}})|[link]({{archive}})|
+|{{date}}|{{#if is_new}}✨{{/if}}{{title}}|{{#unless is_deleted}}[link]({{url}}){{/unless}}{{#if is_deleted}}[❌]({{url}}){{/if}}|[link]({{screenshot}})|[link]({{archive}})|
 {{/each}}
 
 {{/each}}

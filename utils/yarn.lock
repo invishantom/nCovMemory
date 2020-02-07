@@ -12,6 +12,11 @@ convert-array-to-csv@^1.0.9:
   resolved "https://registry.yarnpkg.com/convert-array-to-csv/-/convert-array-to-csv-1.0.9.tgz#3e2bae6aebbb15b2c01e3d1b1a989dcf519ed8e9"
   integrity sha512-fLwMQ7anEfMI8I66rtf9oaUYaYsmrw5w/Fdl1Pw/JziwN0gdScj9Re55z9RtVHf4+aZgPN4iCBblht4Ya1bgHw==
 
+date-fns@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.9.0.tgz#d0b175a5c37ed5f17b97e2272bbc1fa5aec677d2"
+  integrity sha512-khbFLu/MlzLjEzy9Gh8oY1hNt/Dvxw3J6Rbc28cVoYWQaC1S3YI4xwkF9ZWcjDLscbZlY9hISMr66RFzZagLsA==
+
 handlebars@^4.7.3:
   version "4.7.3"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.7.3.tgz#8ece2797826886cf8082d1726ff21d2a022550ee"

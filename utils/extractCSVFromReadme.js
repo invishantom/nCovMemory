@@ -13,9 +13,11 @@ while ((match = regex.exec(data)) != null) {
   let indexLinebreak = data.indexOf('\n', indexHeader);
   let media = data.slice(indexHeader + 4, indexLinebreak);
   extracted.push([
+    '',
     media,
     match[1].trim(),
     match[2].trim(),
+    '',
     match[3].trim(),
     match[4]
       .trim()
@@ -25,7 +27,7 @@ while ((match = regex.exec(data)) != null) {
   ]);
 }
 let csv = convertArrayToCSV(extracted, {
-  header: ['media', 'date', 'title', 'url', 'screenshot', 'archive'],
+  header: ['update', 'media', 'date', 'title', 'url', 'is_deleted', 'screenshot', 'archive'],
   separator: ','
 });
 
