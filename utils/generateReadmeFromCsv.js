@@ -22,6 +22,7 @@ Papa.parse(csv, {
     ) {
       data.data.map((entry) => {
         entry.screenshot = `/archive/png/${entry.screenshot}.png`;
+        entry.title = entry.title.replace('|', '\\|');
       });
 
       let medias = [];
