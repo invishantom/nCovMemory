@@ -1,7 +1,7 @@
 const Papa = require('papaparse');
 // const Mustache = require('Mustache');
 const Handlebars = require('handlebars');
-const { differenceInDays, parse } = require('date-fns');
+const { differenceInDays, parse, compareDesc } = require('date-fns');
 const path = require('path');
 const README_PATH = path.join(__dirname, '..', 'README.md');
 const NON_FICTION_PATH = path.join(__dirname, '..', 'data', 'non-fiction.csv');
@@ -31,9 +31,13 @@ Papa.parse(csv, {
           medias.push(entry.media);
         }
       }
+      medias.sort();
       let articles = {};
       for (media of medias) {
         articles[media] = data.data.filter((entry) => entry.media === media);
+        articles[media].sort((a, b) =>
+          compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
+        );
       }
       let model = {
         medias,
