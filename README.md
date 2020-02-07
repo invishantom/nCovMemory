@@ -205,9 +205,10 @@
 |02-02|一个武汉红十字会志愿者的自述|[link](https://mp.weixin.qq.com/s/f-5AC4hP2M06Va48CsLRxQ)|[link](/archive/png/beiqing-10.png)|[link](https://archive.ph/fc7Td)|
 |02-03|一个高铁密切接触者的“自白”：他就坐在我旁边，没摘过口罩|[link](https://mp.weixin.qq.com/s/emor4QFaVJCKDLitIQcPsw)|[link](/archive/png/beiqing-11.png)|[link](https://archive.vn/pyT50)|
 |02-04|武汉早期感染最重医生：出ICU还要很长康复期，目前呼吸仍困难|[link](https://mp.weixin.qq.com/s/KmyIc8SZIYCWZuUSU2cmRg)|[link](/archive/png/beiqing-12.png)|[link](http://archive.is/wDwnn)|
-|02-05|鄂A牌车30小时归乡记|[link](https://mp.weixin.qq.com/s/3rEWz5fSvPvSJTaGZkEcCQ)|[link](/archive/png/beiqing-13.png)|[link](http://archive.is/pTg0b#selection-41.64-41.75)|
-|02-05|湖北一线心理咨询师：恐慌让他每半个小时测一次体温|[link](https://mp.weixin.qq.com/s/gjBMJkXdcracVbA4TYFVcw)|[link](/archive/png/beiqing-14.png)|[link](http://archive.is/rOlKQ)|
-|02-06|一名中国人在菲律宾的隔离日记|[link](https://mp.weixin.qq.com/s/QT7tuiR7OfFIOHEG9zB-jQ)|[link](/archive/png/beiqing-15.png)|[link](http://archive.is/laQr0)|
+|02-05|鄂A牌车30小时归乡记|[link](https://mp.weixin.qq.com/s/3rEWz5fSvPvSJTaGZkEcCQ)|[link](/archive/png/beiqing-13.png)|[link](http://archive.is/jRkNl)
+|02-05|湖北一线心理咨询师：恐慌让他每半小时测一次体温|[link](https://mp.weixin.qq.com/s/gjBMJkXdcracVbA4TYFVcw)|[link](/archive/png/beiqing-14.png)|[link](http://archive.is/tZdPV)
+|02-06| 一名中国人在菲律宾的隔离日记|[link](https://mp.weixin.qq.com/s/QT7tuiR7OfFIOHEG9zB-jQ)|[link](/archive/png/beiqing-15.png)|[link](http://archive.is/33amd)
+|02-07|送别李文亮医生：愿天堂不再有病毒|[link](https://mp.weixin.qq.com/s/je-2p-N2cCcKYtxIAcuA7A)|[link](/archive/png/beiqing-16.png)|[link](http://archive.is/PjqoS)
 
 ### 冰点周刊
 
