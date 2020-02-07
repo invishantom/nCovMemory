@@ -16,7 +16,7 @@ Papa.parse(csv, {
     // }
     let now = new Date();
     data.data.map((entry) => {
-      entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
+      entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 0;
     });
     fs.readFile(path.join(__dirname, '..', 'template', 'README.handlebars'), 'utf8', function(
       err,
