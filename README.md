@@ -19,7 +19,7 @@
 * [如何贡献](#如何贡献)
 * [工具](#工具)
 * [联系](#联系)
-* [传媒报道与非虚构写作（首字母顺序）](#传媒报道与非虚构写作首字母顺序)
+* [传媒报道与非虚构写作（首字母顺序）](#传媒报道与非虚构写作（首字母顺序）)
   * [北青深一度](#北青深一度)
   * [冰点周刊](#冰点周刊)
   * [剥洋葱people](#剥洋葱people)
@@ -30,7 +30,6 @@
   * [概率论](#概率论)
   * [故事FM](#故事FM)
   * [界面新闻](#界面新闻)
-  * [界面新聞](#界面新聞)
   * [经济观察报](#经济观察报)
   * [棱镜](#棱镜)
   * [轮到你了](#轮到你了)
@@ -178,7 +177,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------:|---|---|---|
-|02-07|🔥 危险无人察觉：“世界梦号”豪华邮轮疫情始末|[link](https://mp.weixin.qq.com/s/wjXyWxVp62Vxpoq7DQE_3A)|[link](/archive/png/.png)|[link](http://archive.ph/fA4xf)|
+|02-07|🔥 危险无人察觉：“世界梦号”豪华邮轮疫情始末|[link](https://mp.weixin.qq.com/s/wjXyWxVp62Vxpoq7DQE_3A)|[link](/archive/png/onion-18.png)|[link](http://archive.ph/fA4xf)|
 |02-03|为家乡医院筹口罩|[link](https://mp.weixin.qq.com/s/Mknh3AVvWcjOSaNPJXFduQ)|[link](/archive/png/people-13.png)|[link](https://archive.vn/2B12I)|
 |02-03|疫情下的心理危机干预：用电话线联结的救援行动|[link](https://mp.weixin.qq.com/s/aLMcuHvTAYvrYoUL6MNcHg)|[link](/archive/png/people-14.png)|[link](https://archive.vn/sfmr4)|
 |02-03|“战友变患者”的武汉医生：我们怕了、退了，武汉怎么办？|[link](https://mp.weixin.qq.com/s/SE6RSOF68h6jUrWZ5SUp6Q)|[link](/archive/png/people-15.png)|[link](https://archive.vn/th1sL)|
@@ -333,11 +332,6 @@
 |01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺|[link](https://new.qq.com/omn/20200125/20200125A0E4IZ00.html)|[link](/archive/png/jiemianxinwen-4.png)|[link](https://archive.ph/8S0kD)|
 |01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|❌<sup>*[转载](https://user.guancha.cn/main/content?id=231432&s=fwzwyzzwzbt)*</sup>|[link](/archive/png/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
 |01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://mp.weixin.qq.com/s/OO7W-6wToMxi7BJE8i-u9w)|[link](/archive/png/jiemianxinwen-2.png)|[link](https://archive.is/RK14U)|
-
-### 界面新聞
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------:|---|---|---|
 |02-05|🔥 疫情下创业者艰难自救：仿佛突然被按下了暂停键|[link](https://mp.weixin.qq.com/s/NyfeQt2F5-pr7-TkslvEHA)|[link](/archive/png/jiemianxinwen-5.png)|[link](http://archive.ph/3Q9Co)|
 
 ### 经济观察报
@@ -502,7 +496,6 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------:|---|---|---|
 |02-07|🔥 普通人李文亮|[link](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)|[link](/archive/png/renwu-22.png)|[link](http://archive.is/nDykY)|
-|02-07|🔥 普通人李文亮|[link](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)|[link](/archive/png/renwu-23.png)|[link](http://archive.is/QC20P)|
 |02-06|和疫情一线的医生聊的越多，就越尊重他们|[link](https://mp.weixin.qq.com/s/GkWo9jxxzU3UFDE_z_X-7w)|[link](/archive/png/renwu-21.png)|[link](http://archive.is/i0d1k)|
 |02-05|专访王广发：快速诊断是当务之急|[link](https://mp.weixin.qq.com/s/9LOM6C7DGD8Meb6O6cZOoA)|[link](/archive/png/renwu-19.png)|[link](http://archive.is/jb532)|
 |02-05|黄冈，疫情下的床位扩张战|[link](https://mp.weixin.qq.com/s/JjRFGDvQT0TI93Tlzst1IQ)|[link](/archive/png/renwu-20.png)|[link](http://archive.is/wDm0h)|
