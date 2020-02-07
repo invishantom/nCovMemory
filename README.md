@@ -73,9 +73,10 @@
 │  └─non-fiction.csv
 ├─template README模板
 │  └─README.handlebars
-└─utils 根据文章数据生成README
-   └─extractCSVFromReadme.js
-   └─generateReadmeFromCsv.js
+├─utils 根据文章数据生成README
+│  └─extractCSVFromReadme.js
+│  └─generateReadmeFromCsv.js
+└─README.md
 ```
 
 ## 如何贡献
