@@ -1,28 +1,47 @@
-var fs = require('fs');
+const fs = require('fs');
 const path = require('path');
 const { convertArrayToCSV } = require('convert-array-to-csv');
+const README_PATH = path.join(__dirname, '..', 'README.md');
+const NON_FICTION_PATH = path.join(__dirname, '..', 'data', 'non-fiction.csv');
 
-fs.readFile(path.join(__dirname, '..', 'README.md'), 'utf8', function(err, data) {
-  if (err) throw err;
-  let regex = /^\|\b(\d\d-\d\d)\|(.*)\|\[link]\((.*)\)\|\[link]\((.*)\)\|\[link]\((.*)\)\|$/gm;
-  var match = regex.exec(data);
-  let extracted = [];
-  while ((match = regex.exec(data)) != null) {
-    let indexHeader = data.slice(0, regex.lastIndex).lastIndexOf('###');
-    let indexLinebreak = data.indexOf('\n', indexHeader);
-    let media = data.slice(indexHeader + 4, indexLinebreak - 1);
-    extracted.push([
-      media,
-      match[1],
-      match[2],
-      match[3],
-      match[4].replace('articles', 'archive/png')
-    ]);
-  }
-  var csv = convertArrayToCSV(extracted, {
-    header: ['media', 'date', 'title', 'url', 'archive', 'screenshot'],
-    separator: ','
-  });
-  // console.log(csv);
-  fs.writeFileSync(path.join(__dirname, '..', 'data', 'non-fiction.csv'), csv, 'utf-8');
+let data = fs.readFileSync(README_PATH, 'utf8');
+let regex = /^\|\b(\d\d-\d\d)\|(.*)\|\[link]\((.*)\)\|\[link]\((.*)\)\|\[link]\((.*)\)\|$/gm;
+var match = regex.exec(data);
+let extracted = [];
+while ((match = regex.exec(data)) != null) {
+  let indexHeader = data.slice(0, regex.lastIndex).lastIndexOf('###');
+  let indexLinebreak = data.indexOf('\n', indexHeader);
+  let media = data.slice(indexHeader + 4, indexLinebreak);
+  extracted.push([
+    media,
+    match[1].trim(),
+    match[2].trim(),
+    match[3].trim(),
+    match[4]
+      .trim()
+      .replace(/articles\/\w*\//, '')
+      .replace('.png', ''),
+    match[5].trim()
+  ]);
+}
+let csv = convertArrayToCSV(extracted, {
+  header: ['media', 'date', 'title', 'url', 'screenshot', 'archive'],
+  separator: ','
 });
+
+// let medias = [];
+// for (entry of extracted) {
+//   if (medias.indexOf(entry[0]) === -1) {
+//     medias.push(entry[0]);
+//   }
+// }
+// for (media of medias) {
+//   let csv = convertArrayToCSV(
+//     extracted.filter((entry) => entry[0] === media),
+//     {
+//       header: ['media', 'date', 'title', 'url', 'screenshot', 'archive'],
+//       separator: ','
+//     }
+//   );
+// console.log(csv);
+fs.writeFileSync(path.join(NON_FICTION_PATH), csv, 'utf-8');
