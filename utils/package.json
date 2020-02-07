@@ -1,0 +1,9 @@
+{
+  "name": "nCov-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "convert-array-to-csv": "^1.0.9"
+  }
+}
