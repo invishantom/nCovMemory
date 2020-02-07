@@ -267,7 +267,9 @@
 |02-05|鄂外重灾区：国内多地重点管控“温州返回人员”|[link](https://mp.weixin.qq.com/s/vzb7EeQjpgI9NO2S1_lCRw)|[link](/archive/png/nanfang-37.png)|[link](http://archive.is/zpJDS)|
 |02-06|广东医疗队援汉日记：带上SARS防治经验，进入武汉疫区|[link](https://mp.weixin.qq.com/s/58vY15giGS0SKGzL3-HD3w)|[link](/archive/png/nanfang-38.png)|[link](http://archive.is/WnrtZ)|
 |02-06|“征用”疫情紧张地区防疫物资，大理太无理|[link](https://mp.weixin.qq.com/s/SIBVrTfti5Nk42BwLvs7EA)|[link](/archive/png/nanfang-39.png)|[link](http://archive.is/TZoof)|
-|02-06|谁是“假阴性”新冠肺炎病人|[link](https://mp.weixin.qq.com/s/AFwRYmcdKjxuSyRj3l7vrA)|[link](/archive/png/nanfang-39.png)|[link](http://archive.is/7rhcJ)|
+|02-06|谁是“假阴性”新冠肺炎病人|[link](https://mp.weixin.qq.com/s/AFwRYmcdKjxuSyRj3l7vrA)|[link](/archive/png/nanfang-40.png)|[link](http://archive.is/7rhcJ)|
+|02-07|✨哀悼李文亮，应给“吹哨人”正名|[link](https://mp.weixin.qq.com/s/32Sj9VICKdP_dox8Ln_z1w)|[link](/archive/png/nanfang-41.png)|[link](http://archive.is/5Oln0)|
+|02-07|✨医生李文亮和他眷恋的城|[link](https://mp.weixin.qq.com/s/BCMERHKeACaLWjiII8f-Sw)|[link](/archive/png/nanfang-42.png)|[link](http://archive.is/MpUFq)|
 
 ### 南都周刊
 
@@ -286,6 +288,7 @@
 |02-01|“无法报销邮费”物资被湖北麻城红十字会拒收 市民政局：直接经手人撤职查办|[link](https://mp.weixin.qq.com/s/gr6WT_MuxsGnOuUAcN9vuA)|[link](/archive/png/nandu-11.png)|[link](https://archive.vn/V8wmc)|
 |02-02|湖北危机之下，饭圈女孩的驰援|[link](https://mp.weixin.qq.com/s/GOFEixDCXSurJgWfYDnwvA)|[link](/archive/png/nandu-12.png)|[link](https://archive.vn/Kmwad)|
 |02-05|武汉留守宠物救助：“我收到了人生中最密集的好意|[link](https://mp.weixin.qq.com/s/aq5QSbcsTXNqznFvKv20lA)|[link](/archive/png/nandu-13.png)|[link](http://archive.ph/bePr8)|
+|02-06|✨一个湖北水果店老板的自救：销售额腰斩仍不裁员，期待帮扶政策出台|[link](https://mp.weixin.qq.com/s/bV3df6Z8IKy8M61X1_wF1g)|[link](/archive/png/nandu-14.png)|[link](http://archive.is/ZZAbP)|
 
 ### 新周刊
 
@@ -304,7 +307,7 @@
 |---|:----------:|:---:|-----|-----|
 |01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link](/archive/png/jiemianxinwen-1.png)|[link]()|
 |01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://m.huxiu.com/article/337099.html)|[link](/archive/png/jiemianxinwen-2.png)|[link]()|
-|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[❌](https://www.jiemian.com/article/3909869.html)|[link](/archive/png/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
+|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|❌[转载](https://user.guancha.cn/main/content?id&#x3D;231432&amp;s&#x3D;fwzwyzzwzbt)|[link](/archive/png/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
 |01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺|[link](http://www.sohu.com/a/368883639_313745)|[link](/archive/png/jiemianxinwen-4.png)|[link](https://archive.is/uF51c)|
 
 ### 棱镜
@@ -361,6 +364,8 @@
 |02-02|肺炎日记｜2月2日：力不从心红会“让路”，双黄连惹质疑|[link](http://www.caixin.com/2020-02-03/101510766.html)|[link](/archive/png/caixin-16.png)|[link](https://web.archive.org/web/20200203104351/http://www.caixin.com/2020-02-03/101510766.html)|
 |02-03|肺炎日记｜2月3日：武汉大量疑似患者获收治 医疗措施是关键|[link](http://www.caixin.com/2020-02-04/101511212.html)|[link](/archive/png/caixin-016a.png)|[link](https://web.archive.org/web/20200204085039/http://www.caixin.com/2020-02-04/101511212.html)|
 |02-04|肺炎日记｜2月4日:确诊破两万，停工停业何时休|[link](http://www.caixin.com/2020-02-05/101511603.html)|[link](/archive/png/caixin-16b.png)|[link](https://web.archive.org/web/20200205074602/http://www.caixin.com/2020-02-05/101511603.html)|
+|02-06|肺炎日记|2月5日：疫情不确定性增加，危重病人三周定生死|[link](http://www.caixin.com/2020-02-06/101512029.html)|[link](/archive/png/caixin-16c.png)|[link](http://archive.is/vWEb6)|
+|02-07|✨肺炎日记|2月6日：心牵吹哨人李文亮 新冠防控进入新阶段 |[link](http://www.caixin.com/2020-02-07/101512484.html)|[link](/archive/png/caixin-16d.png)|[link](http://archive.is/3f21x)|
 |01-22|记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](/archive/png/caixin-17.png)|[link](https://web.archive.org/web/20200202210656/http://www.caixin.com/2020-01-22/101507417.html)|
 |01-23|解读｜武汉肺炎是如何确诊和发布的|[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](/archive/png/caixin-18.png)|[link](https://web.archive.org/web/20200202210707/http://www.caixin.com/2020-01-23/101507556.html)|
 |01-23|武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](/archive/png/caixin-19.png)|[link](https://web.archive.org/web/20200202210722/http://www.caixin.com/2020-01-23/101507508.html)|
@@ -385,6 +390,7 @@
 |02-05|【独家】石正丽回应质疑 专家一致认为新冠病毒非人造|[link](http://www.caixin.com/2020-02-05/101511847.html)|[link](/archive/png/caixin-38.png)|[link](http://archive.is/X8gXV)|
 |02-05|解药-武汉病毒所陷争议：为何此时宣布申请瑞德西韦新用途专利？|[link](http://www.caixin.com/2020-02-05/101511847.html)|[link](/archive/png/caixin-39.png)|[link](http://archive.is/nLBnh)|
 |02-06|记者手记-疫情中的货车司机：每天只吃一顿饭|[link](http://www.caixin.com/2020-02-06/101512091.html)|[link](/archive/png/caixin-40.png)|[link](http://archive.is/W5BXe)|
+||✨|[link]()|[link](/archive/png/.png)|[link]()|
 
 ### 财经杂志
 
