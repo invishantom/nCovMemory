@@ -114,6 +114,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------:|---|---|---|
+|01-22|武汉新型肺炎：为何直到今天才引起更大注意？|[link](https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q)|[link](/archive/png/sanlian-1.png)|[link](https://archive.ph/Dm0pv)|
 |01-23|武汉肺炎一线医生口述：大爆发期或将到来|[link](https://mp.weixin.qq.com/s?__biz&#x3D;MTc5MTU3NTYyMQ&#x3D;&#x3D;&amp;mid&#x3D;2650709421&amp;idx&#x3D;1&amp;sn&#x3D;b643a6cbe426320e5a64bcbbacbd3bb2&amp;chksm&#x3D;5afc8c876d8b059163ff43a650baea29857c1d8cb71010513e24de31c629f01e2e79a2261d32&amp;scene&#x3D;126&amp;sessionid&#x3D;1580366836&amp;key&#x3D;1f3bd73ca2cb19584342f3aa2370c04e7fc6f8e4f82ed6048fa2d6135a7ab3ff22ce7a8f3d9e22056bd52e1bf0de7d462a9aa8995cd08a545868ae7c407c23063ed8b7b044c11ffac1a7c18420ed9177&amp;ascene&#x3D;1&amp;uin&#x3D;MTE4NzU2NTYyOQ%3D%3D&amp;devicetype&#x3D;Windows+10&amp;version&#x3D;6208006f&amp;lang&#x3D;zh_CN&amp;exportkey&#x3D;AyFz3BtC8iCrYiPrNcKDwho%3D&amp;pass_ticket&#x3D;i9btyJOnbdJyPOU5NMCl5joL3LW7wnzSU%2FfpPiBYy%2Fuz50mYZm6MO38z1f3hfOZP)|[link](/archive/png/sanlian-2.png)|[link](http://archive.is/49ZPr)|
 |01-23|武汉肺炎重症患者：一床难求|[link](https://mp.weixin.qq.com/s?__biz&#x3D;MTc5MTU3NTYyMQ&#x3D;&#x3D;&amp;mid&#x3D;2650709439&amp;idx&#x3D;1&amp;sn&#x3D;a3d126f52128e2fcfeee337e32d01034&amp;chksm&#x3D;5afc8c956d8b058381afab4727df60aaf7b7bee5a1da095abf764bd7e11b3a4c685a30f248a9&amp;scene&#x3D;126&amp;sessionid&#x3D;1580366836&amp;key&#x3D;1f3bd73ca2cb195878ba682f0ba71a4250f2092911c01610e9cf86c03941138026079a09127c0da2da82a266f0c1a6af3809c6e9be45624ecdf25d4e65ce02d05d4647727dd15889f9d4711982c6b5aa&amp;ascene&#x3D;1&amp;uin&#x3D;MTE4NzU2NTYyOQ%3D%3D&amp;devicetype&#x3D;Windows+10&amp;version&#x3D;6208006f&amp;lang&#x3D;zh_CN&amp;exportkey&#x3D;A8OoZdJNCTCOaxh%2FwVebzi4%3D&amp;pass_ticket&#x3D;i9btyJOnbdJyPOU5NMCl5joL3LW7wnzSU%2FfpPiBYy%2Fuz50mYZm6MO38z1f3hfOZP)|[link](/archive/png/sanlian-3.png)|[link](https://archive.ph/DD4X3)|
 |01-24|“灯下黑”：武汉周边的疫情危机|[link](https://mp.weixin.qq.com/s/PpEqQsyF2HklmlOvHDLw4A)|[link](/archive/png/sanlian-4.png)|[link](https://archive.ph/mmewS)|
@@ -205,10 +206,9 @@
 |02-02|一个武汉红十字会志愿者的自述|[link](https://mp.weixin.qq.com/s/f-5AC4hP2M06Va48CsLRxQ)|[link](/archive/png/beiqing-10.png)|[link](https://archive.ph/fc7Td)|
 |02-03|一个高铁密切接触者的“自白”：他就坐在我旁边，没摘过口罩|[link](https://mp.weixin.qq.com/s/emor4QFaVJCKDLitIQcPsw)|[link](/archive/png/beiqing-11.png)|[link](https://archive.vn/pyT50)|
 |02-04|武汉早期感染最重医生：出ICU还要很长康复期，目前呼吸仍困难|[link](https://mp.weixin.qq.com/s/KmyIc8SZIYCWZuUSU2cmRg)|[link](/archive/png/beiqing-12.png)|[link](http://archive.is/wDwnn)|
-|02-05|鄂A牌车30小时归乡记|[link](https://mp.weixin.qq.com/s/3rEWz5fSvPvSJTaGZkEcCQ)|[link](/archive/png/beiqing-13.png)|[link](http://archive.is/jRkNl)
-|02-05|湖北一线心理咨询师：恐慌让他每半小时测一次体温|[link](https://mp.weixin.qq.com/s/gjBMJkXdcracVbA4TYFVcw)|[link](/archive/png/beiqing-14.png)|[link](http://archive.is/tZdPV)
-|02-06| 一名中国人在菲律宾的隔离日记|[link](https://mp.weixin.qq.com/s/QT7tuiR7OfFIOHEG9zB-jQ)|[link](/archive/png/beiqing-15.png)|[link](http://archive.is/33amd)
-|02-07|送别李文亮医生：愿天堂不再有病毒|[link](https://mp.weixin.qq.com/s/je-2p-N2cCcKYtxIAcuA7A)|[link](/archive/png/beiqing-16.png)|[link](http://archive.is/PjqoS)
+|02-05|鄂A牌车30小时归乡记|[link](https://mp.weixin.qq.com/s/3rEWz5fSvPvSJTaGZkEcCQ)|[link](/archive/png/beiqing-13.png)|[link](http://archive.is/pTg0b#selection-41.64-41.75)|
+|02-05|湖北一线心理咨询师：恐慌让他每半个小时测一次体温|[link](https://mp.weixin.qq.com/s/gjBMJkXdcracVbA4TYFVcw)|[link](/archive/png/beiqing-14.png)|[link](http://archive.is/rOlKQ)|
+|02-06|一名中国人在菲律宾的隔离日记|[link](https://mp.weixin.qq.com/s/QT7tuiR7OfFIOHEG9zB-jQ)|[link](/archive/png/beiqing-15.png)|[link](http://archive.is/laQr0)|
 
 ### 冰点周刊
 

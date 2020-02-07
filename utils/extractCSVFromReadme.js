@@ -5,9 +5,9 @@ const README_PATH = path.join(__dirname, 'README-backup.md');
 const NON_FICTION_PATH = path.join(__dirname, '..', 'data', 'non-fiction.csv');
 
 let data = fs.readFileSync(README_PATH, 'utf8');
-let regex = /^\|\b(\d\d-\d\d)\|(.*)\|\[link]\((.*)\)\|\[link]\((.*)\)\|\[link]\((.*)\)\|?$/gm;
-var match = regex.exec(data);
+let regex = /^\|(\d\d-\d\d)\|(.*)\|\[link\]\((.*)\)\|\[link\]\((.*)\)\|\[link\]\((.*)\)\|?$/gm;
 let extracted = [];
+let match;
 while ((match = regex.exec(data)) != null) {
   let indexHeader = data.slice(0, regex.lastIndex).lastIndexOf('###');
   let indexLinebreak = data.indexOf('\n', indexHeader);
