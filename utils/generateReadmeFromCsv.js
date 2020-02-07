@@ -31,7 +31,7 @@ Papa.parse(csv, {
           medias.push(entry.media);
         }
       }
-      medias.sort();
+      // medias.sort((a,b)=>(media));
       let articles = {};
       for (media of medias) {
         articles[media] = data.data.filter((entry) => entry.media === media);

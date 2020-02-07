@@ -108,7 +108,7 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------:|---|---|---|
 {{#each @this}}
-|{{date}}|{{#if is_new}}🔥 {{/if}}{{title}}|{{#unless is_deleted}}[link]({{{url}}}){{/unless}}{{#if is_deleted}}❌{{#if url}}<sup>*[转载]({{{url}}})*</sup>{{/if}}{{/if}}|[link]({{{screenshot}}})|[link]({{{archive}}})|
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link](url){{/if}}|{{#if screenshot}}[link]({{{screenshot}}}){{else}}⚠️待补充{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补充{{/if}}|
 {{/each}}
 
 {{/each}}
