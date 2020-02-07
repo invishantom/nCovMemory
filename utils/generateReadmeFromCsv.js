@@ -21,7 +21,7 @@ Papa.parse(csv, {
       template
     ) {
       data.data.map((entry) => {
-        entry.screenshot = `/archive/png/${entry.screenshot}.png`;
+        entry.screenshot = entry.screenshot ? `/archive/png/${entry.screenshot}.png` : null;
         entry.title = entry.title.replace('|', '\\|');
       });
 
