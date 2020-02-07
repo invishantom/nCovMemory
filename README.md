@@ -65,18 +65,18 @@
 **项目结构**
 
 ```
-├─archive 文章的存档，目前仅有png格式
+├─archive                          文章的存档，目前仅有png格式
 │  └─png
 │    └─beiqing-1.png
 │    └─...
-├─data csv格式的文章数据
+├─data                             csv格式的文章数据
 │  └─non-fiction.csv
-├─template README模板
+├─template                         README模板
 │  └─README.handlebars
-├─utils 根据文章数据生成README
+├─utils                            根据文章数据生成README
 │  └─extractCSVFromReadme.js
 │  └─generateReadmeFromCsv.js
-└─README.md
+└─README.md                        主文档
 ```
 
 ## 如何贡献
