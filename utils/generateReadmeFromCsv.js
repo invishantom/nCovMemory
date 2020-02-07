@@ -31,7 +31,9 @@ Papa.parse(csv, {
           medias.push(entry.media);
         }
       }
-      // medias.sort((a,b)=>(media));
+      medias.sort(function compareFunction(param1, param2) {
+        return param1.localeCompare(param2, 'zh');
+      });
       let articles = {};
       for (media of medias) {
         articles[media] = data.data.filter((entry) => entry.media === media);
