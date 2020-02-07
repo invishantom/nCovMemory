@@ -62,9 +62,25 @@
 若详尽细致或角度新颖，且来自较可信赖的传媒，原则上均予收录，尤其重视对一线、基层（不只是最受关注的，而是包括各地、各群体、各行业）的非虚构写作和描述性报道，也收入摄影报道。来源包括各主流媒体及网络自媒体的微信公众号、网站等。
 希望这一选编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
 
+## 项目结构
+
+```
+├─archive 文章的存档，目前仅有png格式
+│  └─png
+│    └─beiqing-1.png
+│    └─...
+├─data csv格式的文章数据
+│  └─non-fiction.csv
+├─template README模板
+│  └─README.handlebars
+└─utils 根据文章数据生成README
+   └─extractCSVFromReadme.js
+   └─generateReadmeFromCsv.js
+```
+
 ## 如何贡献
 
-欢迎网友参与贡献，为本站更新、补充、推荐文章，成为贡献者。贡献的方式是通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文链接，archive，与截图。一些工具请参见[工具](#工具)。
+欢迎网友参与贡献，为本站更新、补充、推荐文章，成为贡献者。贡献的方式是通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 提交原文链接，archive，与截图。一些工具请参见[工具](#工具)。
 
 为了方便整理与阅读，请贡献者在提交新文章时，遵循以下的指南。我们将会优先考虑收录符合 **指南标准** 的贡献。
 
