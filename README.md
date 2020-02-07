@@ -322,7 +322,7 @@
 |02-02|“每只利润四五厘”，中国口罩产业17年沉浮 |[link](https://mp.weixin.qq.com/s/zvWu8S0oy8stR2XmaOoRAg)|[link](articles/lengjing/lengjing-12.png)|[link](http://archive.is/dwUMH)|
 |02-03|一位湖北村支书的“硬核”防疫样本：封村第九天，无确诊病例 |[link](https://mp.weixin.qq.com/s/uoqXdSU0k64MliChSml4Dw)|[link](articles/lengjing/lengjing-13.png)|[link](http://archive.is/sqT0L)|
 |02-04|审批时限两年变四天，试剂盒“一路狂奔”进武汉|[link](https://mp.weixin.qq.com/s/H-nB72VGs3eUQ5l5UDxkBg)|[link](articles/lengjing/lengjing-14.png)|[link](http://archive.is/TQPm9)|
-|02-05|中小企业“抗疫”：安全放第一；创业者总得乐观一些|[link](https://mp.weixin.qq.com/s/mVAi8JzrCPM9xBj3vMiM7Q)|[link](articles/lengjing/lengjing-14.png)|[link](http://archive.ph/wip/msJkG)|
+|02-05|中小企业“抗疫”：安全放第一；创业者总得乐观一些|[link](https://mp.weixin.qq.com/s/mVAi8JzrCPM9xBj3vMiM7Q)|[link](articles/lengjing/lengjing-15.png)|[link](http://archive.ph/wip/msJkG)|
 
 
 
@@ -563,7 +563,7 @@
 |02-02|京东武汉战事：金银潭医院500米处，为机枪手递上子弹|[link]( https://mp.weixin.qq.com/s/0BvECo4bwvmx6fc-807scw)|[link](articles/shenwang/shenwang-8.png)|[link](http://archive.is/bzOey)|
 |02-03|33吨钢材火线驰援：19个小时、1100公里直抵雷神山 |[link]( https://mp.weixin.qq.com/s/1eCvcbovu1G_1D5BzqVgKw)|[link](articles/shenwang/shenwang-9.png)|[link](http://archive.is/wq2sq)|
 |02-04|一位治愈患者的抗疫日记：走过生死考验，我总结了这六个建议 |[link](https://mp.weixin.qq.com/s/3oTkd0s4OsrqM1EiPoys3Q)|[link](articles/shenwang/shenwang-10.png)|[link](http://archive.is/lHHg8)|
-|02-06|一位教育培训创业者的抗疫计划：我们准备这样扛过三个月|[link](https://mp.weixin.qq.com/s/O00QQMVXRuLAaLIbcN5XuQ)|[link](articles/shenwang/shenwang-10.png)|[link](http://archive.ph/wip/tgCBm)|
+|02-06|一位教育培训创业者的抗疫计划：我们准备这样扛过三个月|[link](https://mp.weixin.qq.com/s/O00QQMVXRuLAaLIbcN5XuQ)|[link](articles/shenwang/shenwang-11.png)|[link](http://archive.ph/wip/tgCBm)|
 
 
 
@@ -644,10 +644,13 @@
 ### 本站相关的翻译和存档
 很多网友为文章做了翻译、备份等，如：
 #### [Mainland News Outlets Coverage on 2019-nCoV](https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing)
-由Muyi Xiao, Shen Lu,Ye Ming, Nancy Tang, Bessie Du, Miles Goscha翻译了文章标题，并附有archive，截止02-01。
+由Muyi Xiao, Shen Lu, Ye Ming, Nancy Tang, Bessie Du, Miles Goscha翻译了文章标题，并附有archive，截止02-01。
 
 #### [GitHub repo: NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan)
-尚有[文档版本](https://drive.google.com/file/d/0ByRCPj_-SsMwcjgwWWlKZmxlYThCNkJJUFItMnBPY1I1UXRR/view?usp=sharing)，包含截止02-02前的文章archive。
+文字版本的备份。可于[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)阅读。
+
+#### [GitHub repo: wuhan2019](https://github.com/lestweforget/wuhan2019)
+pdf版本的备份，有日期、标题备查。
 
 尚有其他网友制作了截图、pdf和archive备份。一并致谢！
 
