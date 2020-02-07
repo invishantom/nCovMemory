@@ -87,10 +87,10 @@
 {{#each articles}}
 ### {{@key}}
 
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------:|---|---|---|
 {{#each @this}}
-|{{date}}|{{#if is_new}}✨{{/if}}{{title}}|{{#unless is_deleted}}[link]({{url}}){{/unless}}{{#if is_deleted}}❌{{#if url}}[转载]({{url}}){{/if}}{{/if}}|[link]({{screenshot}})|[link]({{archive}})|
+|{{date}}|{{#if is_new}}<sup>✨</sup>{{/if}}{{title}}|{{#unless is_deleted}}[link]({{url}}){{/unless}}{{#if is_deleted}}❌{{#if url}}<sup>*[转载]({{url}})*</sup>{{/if}}{{/if}}|[link]({{screenshot}})|[link]({{archive}})|
 {{/each}}
 
 {{/each}}
