@@ -283,7 +283,7 @@ requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文链�
 |---|:----------:|:---:|-----|-----|
 |01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link](/archive/png/jiemianxinwen-1.png)|[link]()|
 |01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://m.huxiu.com/article/337099.html)|[link](/archive/png/jiemianxinwen-2.png)|[link]()|
-|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[link](https://www.jiemian.com/article/3909869.html)|[link](/archive/png/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
+|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[❌](https://www.jiemian.com/article/3909869.html)|[link](/archive/png/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
 |01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺|[link](http://www.sohu.com/a/368883639_313745)|[link](/archive/png/jiemianxinwen-4.png)|[link](https://archive.is/uF51c)|
 
 ### 棱镜
