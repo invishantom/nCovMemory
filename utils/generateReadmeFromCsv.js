@@ -13,7 +13,7 @@ Papa.parse(csv, {
   complete: function(data) {
     let now = new Date();
     data.data.map((entry) => {
-      entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 0;
+      entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
       entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     });
     fs.readFile(path.join(__dirname, '..', 'template', 'README.handlebars'), 'utf8', function(
