@@ -11,12 +11,10 @@ let csv = fs.readFileSync(path.join(__dirname, '..', 'data', 'non-fiction.csv'),
 Papa.parse(csv, {
   header: true,
   complete: function(data) {
-    // if (data.data[data.data.length - 1].media === '') {
-    //   data.data.pop();
-    // }
     let now = new Date();
     data.data.map((entry) => {
       entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 0;
+      entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     });
     fs.readFile(path.join(__dirname, '..', 'template', 'README.handlebars'), 'utf8', function(
       err,

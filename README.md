@@ -205,6 +205,9 @@
 |02-02|一个武汉红十字会志愿者的自述|[link](https://mp.weixin.qq.com/s/f-5AC4hP2M06Va48CsLRxQ)|[link](/archive/png/beiqing-10.png)|[link](https://archive.ph/fc7Td)|
 |02-03|一个高铁密切接触者的“自白”：他就坐在我旁边，没摘过口罩|[link](https://mp.weixin.qq.com/s/emor4QFaVJCKDLitIQcPsw)|[link](/archive/png/beiqing-11.png)|[link](https://archive.vn/pyT50)|
 |02-04|武汉早期感染最重医生：出ICU还要很长康复期，目前呼吸仍困难|[link](https://mp.weixin.qq.com/s/KmyIc8SZIYCWZuUSU2cmRg)|[link](/archive/png/beiqing-12.png)|[link](http://archive.is/wDwnn)|
+|02-05|鄂A牌车30小时归乡记|[link](https://mp.weixin.qq.com/s/3rEWz5fSvPvSJTaGZkEcCQ)|[link](/archive/png/beiqing-13.png)|[link](http://archive.is/pTg0b#selection-41.64-41.75)|
+|02-05|湖北一线心理咨询师：恐慌让他每半个小时测一次体温|[link](https://mp.weixin.qq.com/s/gjBMJkXdcracVbA4TYFVcw)|[link](/archive/png/beiqing-14.png)|[link](http://archive.is/rOlKQ)|
+|02-06|一名中国人在菲律宾的隔离日记|[link](https://mp.weixin.qq.com/s/QT7tuiR7OfFIOHEG9zB-jQ)|[link](/archive/png/beiqing-15.png)|[link](http://archive.is/laQr0)|
 
 ### 冰点周刊
 
@@ -267,7 +270,7 @@
 |02-05|鄂外重灾区：国内多地重点管控“温州返回人员”|[link](https://mp.weixin.qq.com/s/vzb7EeQjpgI9NO2S1_lCRw)|[link](/archive/png/nanfang-37.png)|[link](http://archive.is/zpJDS)|
 |02-06|广东医疗队援汉日记：带上SARS防治经验，进入武汉疫区|[link](https://mp.weixin.qq.com/s/58vY15giGS0SKGzL3-HD3w)|[link](/archive/png/nanfang-38.png)|[link](http://archive.is/WnrtZ)|
 |02-06|“征用”疫情紧张地区防疫物资，大理太无理|[link](https://mp.weixin.qq.com/s/SIBVrTfti5Nk42BwLvs7EA)|[link](/archive/png/nanfang-39.png)|[link](http://archive.is/TZoof)|
-|02-06|谁是“假阴性”新冠肺炎病人|[link](https://mp.weixin.qq.com/s/AFwRYmcdKjxuSyRj3l7vrA)|[link](/archive/png/nanfang-40.png)|[link](http://archive.is/7rhcJ)|
+|02-06|谁是“假阴性”新冠肺炎病人|[link](https://mp.weixin.qq.com/s/AFwRYmcdKjxuSyRj3l7vrA)|[link](/archive/png/nanfang-39.png)|[link](http://archive.is/7rhcJ)|
 
 ### 南都周刊
 
@@ -304,7 +307,7 @@
 |---|:----------:|---|---|---|
 |01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link](/archive/png/jiemianxinwen-1.png)|[link]()|
 |01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://m.huxiu.com/article/337099.html)|[link](/archive/png/jiemianxinwen-2.png)|[link]()|
-|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|❌<sup>*[转载](https://user.guancha.cn/main/content?id&#x3D;231432&amp;s&#x3D;fwzwyzzwzbt)*</sup>|[link](/archive/png/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
+|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[link](https://www.jiemian.com/article/3909869.html)|[link](/archive/png/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
 |01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺|[link](http://www.sohu.com/a/368883639_313745)|[link](/archive/png/jiemianxinwen-4.png)|[link](https://archive.is/uF51c)|
 
 ### 棱镜
@@ -501,6 +504,11 @@
 |02-02|我在金银潭重症监护室|[link](https://mp.weixin.qq.com/s/yvdG6Svo6m71118C3ASpvQ)|[link](/archive/png/renwu-14.png)|[link](https://archive.vn/H6xQB)|
 |02-03|那些储备的医用物资都去了哪儿|[link](https://mp.weixin.qq.com/s/Vqi5j05wgNy83Nwnn61Ywg)|[link](/archive/png/renwu-15.png)|[link](https://archive.vn/K592l)|
 |02-03|穿梭在疫区的摆渡人：武汉的每个人都在努力|[link](https://mp.weixin.qq.com/s/53pDJgSyEkm4DJtQ75zm0w)|[link](/archive/png/renwu-16.png)|[link](https://archive.ph/TfQpz)|
+|02-04|关于火神山医院的七个细节|[link](https://mp.weixin.qq.com/s/g0gn0kmT0k5_8cozb1IMTg)|[link](/archive/png/renwu-17.png)|[link](http://archive.is/AxVEq)|
+|02-04|武汉一线送奶工：我们只能相互依靠|[link](https://mp.weixin.qq.com/s/5HgREEYkLH91Yq04FrPvjg)|[link](/archive/png/renwu-18.png)|[link](http://archive.is/LSIYq)|
+|02-05|专访王广发：快速诊断是当务之急|[link](https://mp.weixin.qq.com/s/9LOM6C7DGD8Meb6O6cZOoA)|[link](/archive/png/renwu-19.png)|[link](http://archive.is/jb532)|
+|02-05|黄冈，疫情下的床位扩张战|[link](https://mp.weixin.qq.com/s/JjRFGDvQT0TI93Tlzst1IQ)|[link](/archive/png/renwu-20.png)|[link](http://archive.is/wDm0h)|
+|02-06|和疫情一线的医生聊的越多，就越尊重他们|[link](https://mp.weixin.qq.com/s/GkWo9jxxzU3UFDE_z_X-7w)|[link](/archive/png/renwu-21.png)|[link](http://archive.is/i0d1k)|
 
 ### 在人间living
 
@@ -515,6 +523,7 @@
 |01-31|一辆载着15万副医用手套的车向武汉开去|[link](https://mp.weixin.qq.com/s/qCY1T3MV0_hTvlGxQBlQaQ)|[link](/archive/png/living-7.png)|[link](https://archive.vn/HVzKl)|
 |02-02|疫情中一夜长大的少年|[link](https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A)|[link](/archive/png/living-8.png)|[link](https://archive.ph/V5GvI)|
 |02-03|我在电话这头，试图帮武汉人平复“被现实打蒙的感觉”|[link](https://mp.weixin.qq.com/s/Wt0wXiHClJvkO6-ksxZ1hQ)|[link](/archive/png/living-9.png)|[link](https://archive.ph/ihIGd)|
+|02-05|我走了50公里，回武汉送外卖|[link](https://mp.weixin.qq.com/s/kLAdvBG3UAQqEFYQoU9BSA)|[link](/archive/png/article/living/living-10.png)|[link](http://archive.is/0ea7J)|
 
 ### GQ报道
 
@@ -522,6 +531,7 @@
 |---|:----------:|---|---|---|
 |01-27|10000个临时发往武汉的口罩|[link](https://mp.weixin.qq.com/s/p-uPky_zB6XKcAetthqkKg)|[link](/archive/png/gq-1.png)|[link](https://archive.ph/9s1ug)|
 |01-28|我家离华南海鲜市场很近：返乡、封城、过年，一位武汉大学生的过去一周|[link](https://mp.weixin.qq.com/s/n7dXGHh-79d6VEzDhhOUbQ)|[link](/archive/png/gq-2.png)|[link](https://archive.ph/RSmFx)|
+|01-28|武汉隔离：疫区、信息孤岛与一辆鄂A车的漂流|[link](https://mp.weixin.qq.com/s/M-hVivF7NQmZHlu8YMnL_w)|[link](/archive/png/gq-14.png)|[link](http://archive.is/3XKZD)|
 |01-29|孝感前线医生：武汉更难，我们下面不好意思提要求|[link](https://mp.weixin.qq.com/s/uGaFeqrqmLBQe5qdRSTeSQ)|[link](/archive/png/gq-3.png)|[link](https://archive.ph/MnZrn)|
 |01-29|疫情危机中不被看见的人们：武汉周边城市百姓的自救行动|[link](https://mp.weixin.qq.com/s/D8Ob8pNmecHKXg7yR7EWFg)|[link](/archive/png/gq-4.png)|[link](https://archive.ph/vDSj5)|
 |01-30|恐慌很正常，当疫情结束，才是心理问题高发期|[link](https://mp.weixin.qq.com/s/3Ox4w365hKqDU-_MAZJmbg)|[link](/archive/png/gq-5.png)|[link](https://archive.ph/WVjSQ)|
@@ -531,6 +541,8 @@
 |02-01|鸡在瘟疫蔓延时|[link](https://mp.weixin.qq.com/s/yJ2ygq2NrMAhTFWYZsC3QA)|[link](/archive/png/gq-9.png)|[link](https://archive.ph/ykEub)|
 |02-02|一群00后留学生的捐赠行动：“我们和真实的社会接上了”|[link](https://mp.weixin.qq.com/s/JtBYRWZADzEF5fT9k7PgsQ)|[link](/archive/png/gq-10.png)|[link](https://archive.vn/uNEOx)|
 |02-03|疫情中的武汉孕妇：我想活命，我的孩子也是|[link](https://mp.weixin.qq.com/s/-RADC529RPq099XE6-kwyw)|[link](/archive/png/gq-11.png)|[link](https://archive.vn/HMvOi)|
+|02-05|饭圈救援2020|[link](https://mp.weixin.qq.com/s/Wj0P1aT-1oHRbVij_Icbgg)|[link](/archive/png/gq-12.png)|[link](http://archive.is/tvF2p)|
+|02-06|被感染护士治愈后重新上岗：如果我也害怕，大家可能都不干了|[link](https://mp.weixin.qq.com/s/Uqf4mm_axUnDpkkBIqYPVA)|[link](/archive/png/gq-13.png)|[link](http://archive.is/MoK4z)|
 
 ### 腾讯深网
 
