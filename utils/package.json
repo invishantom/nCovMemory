@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "convert-array-to-csv": "^1.0.9"
+    "convert-array-to-csv": "^1.0.9",
+    "handlebars": "^4.7.3",
+    "mustache": "^4.0.0",
+    "papaparse": "^5.1.1"
   }
 }
