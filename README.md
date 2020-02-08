@@ -624,6 +624,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
+|02-08|🔥 假阴性引发担忧，拐点还言之尚早，以及其他 33 条疫情新闻|[link](https://mp.weixin.qq.com/s?__biz=MzA5OTgwNTQwMA==&mid=100000070&idx=1&sn=8a5ac8e2e2036b2d47fae0457ca21324&chksm=10fdf0f1278a79e7cd7ccf2e424728888a430ffa20ed8e8dbdee6d169657db61017a8cdd2f04)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/fish-9.png)|[link](http://archive.ph/xvm2L)|
 |02-07|🔥 疫情新闻汇总 2.7|[link](https://mp.weixin.qq.com/s?__biz=MzA5OTgwNTQwMA==&mid=100000068&idx=1&sn=c0bc9d78a4fc99a8f99a19c8aa7ef657&chksm=10fdf0f3278a79e5618672d91c338d426c0eb919d78791c822592f7a686cf86167d066da2412)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/fish-8.png)|[link](http://archive.ph/B6Lsn)|
 |02-06|🔥 方舱医院正式启用，内部条件有待完善，以及其他 36 条疫情新闻|[link](https://mp.weixin.qq.com/s/na6lpXcc3xQu-EUH1oZ8kw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/fish-7.png)|[link](http://archive.is/dMWHG)|
 |02-04|🔥 武汉兴建方舱医院、各大城市防控越发严格，以及 30 条疫情新闻|[link](https://mp.weixin.qq.com/s/l8klV7LhsswOvu9VnsQtSQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/fish-6.png)|[link](http://archive.is/wf7PO)|
