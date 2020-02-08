@@ -30,7 +30,9 @@ async function parseData(csvPath) {
   let now = new Date();
   let csv = fs.readFileSync(csvPath, 'utf8');
   let data = await Papa.parsePromise(csv, { header: true });
-  data.data = data.data.filter((entry) => entry.title && entry.media && entry.date && entry.update);
+  data.data = data.data.filter(
+    (entry) => entry.title && entry.media && entry.date && entry.update && entry.url
+  );
   let medias = [];
   for (let entry of data.data) {
     entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;

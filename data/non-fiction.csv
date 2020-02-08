@@ -16,7 +16,7 @@ update,media,date,title,url,is_deleted,screenshot,archive
 02-06,北青深一度,01-23,抗击新型冠状病毒的基层医院：发热门诊排长队，防疫物资现短缺，送检需有疫区接触史,https://mp.weixin.qq.com/s/f-mER12NzQPQBjVlXgpUYA,,beiqing-2,https://archive.ph/pwuCZ
 02-06,北青深一度,01-21,一个武汉肺炎康复患者的样本观察：我与新型冠状病毒搏斗的22天,https://mp.weixin.qq.com/s/Ps5lUon8LMCxLrPGwqKjMg,,beiqing-1,https://archive.ph/cMxZj
 02-07,冰点周刊,02-07,湖北多地告急 16省“一省包一市”支援武汉以外地市,https://mp.weixin.qq.com/s/zZ-WsZKneDxGlDgW63je5Q,,bingdian-17,http://archive.ph/dGlkr
-02-07,冰点周刊,02-07,与“吹哨者”李文亮的最后对话：如果再来一次我还是会说,https://news.ifeng.com/c/7trthoYMTLh,,bingdian-14,https://web.archive.org/web/20200207065239/https://news.ifeng.com/c/7trthoYMTLh
+02-07,冰点周刊,02-07,与“吹哨者”李文亮的最后对话：如果再来一次我还是会说,https://news.ifeng.com/c/7trthoYMTLh,TRUE,bingdian-14,https://web.archive.org/web/20200207065239/https://news.ifeng.com/c/7trthoYMTLh
 02-07,冰点周刊,02-07,与李文亮的最后对话：如果康复了，我还会当大夫,https://mp.weixin.qq.com/s/Y8FCwR9zjXomg_A6YjXf0g,,bingdian-15,http://archive.ph/uteOz
 02-07,冰点周刊,02-07,送别李文亮医生,https://mp.weixin.qq.com/s/X8C92GYQVXrz2Mz07cevXA,,bingdian-16,http://archive.ph/c87dD
 02-06,冰点周刊,02-05,最后一道防线,https://mp.weixin.qq.com/s/akX0GrqhjKtsm6s-crVttA,,bingdian-12,http://archive.ph/iJOOF
@@ -312,7 +312,6 @@ update,media,date,title,url,is_deleted,screenshot,archive
 02-06,三联生活周刊,01-23,武汉肺炎一线医生口述：大爆发期或将到来,https://mp.weixin.qq.com/s/9Lgl9h44gO9-XkPUrtfxRQ,,sanlian-2,http://archive.is/49ZPr
 02-06,三联生活周刊,01-23,武汉肺炎重症患者：一床难求,https://mp.weixin.qq.com/s/S6oKrc_CbO7ywWiRYiqbfQ,,sanlian-3,https://archive.ph/DD4X3
 02-06,三联生活周刊,01-22,武汉新型肺炎：为何直到今天才引起更大注意？,https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q,,sanlian-1,https://archive.ph/Dm0pv
-02-07,腾讯深网,02-07,一位教育老板给中小企业支招：关店后，如何熬过接下来三个月？,https://new.qq.com/omn/20200206/20200206A06K9V00.html,,shenwang-12,https://archive.is/SAB37
 02-06,腾讯深网,02-06,一位教育培训创业者的抗疫计划：我们准备这样扛过三个月,https://mp.weixin.qq.com/s/O00QQMVXRuLAaLIbcN5XuQ,,shenwang-11,http://archive.ph/tgCBm
 02-06,腾讯深网,02-04,一位治愈患者的抗疫日记：走过生死考验，我总结了这六个建议,https://mp.weixin.qq.com/s/3oTkd0s4OsrqM1EiPoys3Q,,shenwang-10,http://archive.is/lHHg8
 02-06,腾讯深网,02-03,33吨钢材火线驰援：19个小时、1100公里直抵雷神山,https://mp.weixin.qq.com/s/1eCvcbovu1G_1D5BzqVgKw,,shenwang-9,http://archive.is/wq2sq
@@ -441,13 +440,14 @@ update,media,date,title,url,is_deleted,screenshot,archive
 02-08,经济观察报,02-08,没有人想做这座英雄城市的“城市英雄”,http://www.eeo.com.cn/2020/0208/375909.shtml,,jingji-20,http://archive.is/Kyvx4
 ,,,,,,,
 02-08,中国经营报,02-04,武汉病人：以家庭为单位的患者越来越多，去殡仪馆也得排队,https://www.aigupiao.com/news/agpdetail/id/156037,TRUE,zhongguojingyingbao-5,https://web.archive.org/web/20200208123128/https://www.aigupiao.com/news/agpdetail/id/156037
+02-08,在人间living,02-08,武汉七旬健美冠军，没能度过这个冬天,https://mp.weixin.qq.com/s/JNyKUZkWuCdtbu9VF--EHg,,living-12,http://archive.is/a1M8A
+02-08,人物,02-08,「在疫区，中年人没有地方可以哭」｜武汉心理咨询师的510通电话,https://mp.weixin.qq.com/s/Kit-OpeYNiHF2z7n4lNDeQ,,renwu-23,http://archive.is/58C4I
+02-08,人物,02-06,「临时抗疫」第7天，我开出了第一张死亡证明,https://mp.weixin.qq.com/s/ipQxveryl4NoSO1NJbgq8w,,renwu-24,http://archive.is/xdOff
 ,,,,,,,
+02-08,冰点周刊,02-08,政府该如何公开疫情信息,https://mp.weixin.qq.com/s/irhUiT-J7wACtp1Mi9968Q,,bingdian-18,http://archive.ph/aC4ze
+02-08,冰点周刊,02-08,疫情的第二条战线,https://mp.weixin.qq.com/s/PJCWbGq9HQJmsOeJRJ2Wbg,,bingdian-19,http://archive.ph/j01Ft
 ,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+02-08,云林街十七号,02-08,我们是武汉市民，想为这个城市做点事情,https://mp.weixin.qq.com/s/63-CK34CkgWyZYw6dJLPYA,,yunlin-6,http://archive.ph/fnphC
 ,,,,,,,
 02-08,所有的鱼,01-28,如果流感疫苗接种率达到 40%，发热门诊还会被挤爆吗？,https://mp.weixin.qq.com/s/N9ROJdJ8IRI85BqKe1oJxQ,,fish-1,http://archive.is/ujhB3
 02-08,所有的鱼,01-30,三名一线志愿者口述：红会、校友会、物资信息平台,https://mp.weixin.qq.com/s/fzpv4h19IXccA_FpNX5Rsg,,fish-2,http://archive.is/RS1lr
@@ -474,3 +474,40 @@ update,media,date,title,url,is_deleted,screenshot,archive
 02-08,财经杂志,02-08,疫情蔓延，拿到逆势红包的在线游戏接下来怎么走？,https://mp.weixin.qq.com/s/GirdObnHT2DgDellqE9bTA,,caijing-47,http://archive.today/rkHnT
 02-08,财经杂志,02-08,数说疫情0208：武汉数据反弹，治愈远超病死,https://mp.weixin.qq.com/s/2QSwPVySg3WM-tZ94qjpcA,,caijing-48,http://archive.today/nTZhs
 02-08,财经杂志,02-08,香港全力抗疫：即日实施检疫新政，抗疫体系轮廓清晰,https://mp.weixin.qq.com/s/aURd5Tc7w6lASA-koeWaJw,,caijing-49,http://archive.today/q1Yjx
+02-08,剥洋葱,02-08,一个视频博主眼中的武汉,https://mp.weixin.qq.com/s/yS4NG8sWCZdhj4Vf8Npn2Q,,onion-19,http://archive.is/7PVCs
+02-08,第一财经YiMagazine,02-08,武汉游子的回家“挣扎”：归心似箭却又忐忑不安,https://mp.weixin.qq.com/s/mCRKm8tLoqhpBhVvpWs7iQ,,diyicaijing-10,http://archive.is/CnP0V
+02-08,第一财经YiMagazine,02-08,李文亮和他的最后十天,https://mp.weixin.qq.com/s/WhjmyowQhL-Oa4JDHfWtKA,,diyicaijing-11,http://archive.is/ZC7kx
+02-08,第一财经YiMagazine,02-08,电话被打爆了！疫情下“共享员工”意外走红,https://mp.weixin.qq.com/s/VEcXPTyHXqGVWq5DRrmBEg,,diyicaijing-12,http://archive.is/vO8Sp
+02-08,第一财经YiMagazine,02-06,新增病例严重超速，“堰塞湖即将泄洪”，武汉疫情正面临这三大挑战,https://mp.weixin.qq.com/s/GOT-O2h5mlKR7hNrJ68uBQ,,diyicaijing-13,http://archive.is/TOl8m
+02-08,第一财经YiMagazine,02-05,一位自我救助肺炎患者的后续：发烧第11天，进入火神山医院,https://mp.weixin.qq.com/s/mGsGWoQ2tmsXrhaxNMs18g,,diyicaijing-14,http://archive.is/FEiQD
+02-08,第一财经YiMagazine,02-02,疫情信息还有多少个未解之谜？,https://mp.weixin.qq.com/s/CtX_POfxLGnTWJVNW0xuxQ,,diyicaijing-15,http://archive.is/ixvkE
+02-08,第一财经YiMagazine,01-21,从“未见明显人传人”到“人传人”，复盘武汉疫情二十天,https://mp.weixin.qq.com/s/9_KV6KtG0jCsrOQjIwiAaQ,,diyicaijing-16,http://archive.is/WkxtS
+02-08,第一财经YiMagazine,01-22,直击武汉、广州、上海：口罩大脱销，商家紧急加班加产,https://mp.weixin.qq.com/s/4ulB8C08JjX7rNJxOTtCMg,,diyicaijing-17,http://archive.is/kVcSx
+02-08,第一财经YiMagazine,01-23,口罩比高铁票难买,https://mp.weixin.qq.com/s/cBpcpeNQGK0YjoPgiV0q6w,,diyicaijing-18,http://archive.is/KyxhT
+02-08,第一财经YiMagazine,01-23,实地探访 | 封城的第一天，武汉怎么样了？,https://mp.weixin.qq.com/s/xXWPeNp0z6xGviYVnhEcBQ,,diyicaijing-19,http://archive.is/1xQxl
+02-08,第一财经YiMagazine,01-25,武汉周边城市也紧缺医疗物资，黄冈医生一个口罩用好几天,https://mp.weixin.qq.com/s/BiQepSq6E9cxXye4F_58gQ,,diyicaijing-20,http://archive.is/pPMRE
+02-08,第一财经YiMagazine,01-25,UP主实拍：“空城”武汉的物价、交通 、生活状态,https://mp.weixin.qq.com/s/t2-QXb9kiacplQv3aABHmQ,,diyicaijing-21,http://archive.is/Ryrio
+02-08,第一财经YiMagazine,01-27,武汉人在琼粤两地的“特殊待遇”,https://mp.weixin.qq.com/s/O8l_Z6FCEjSWuiH6pg0aSA,,diyicaijing-22,http://archive.is/SA6i5
+02-08,第一财经YiMagazine,01-27,直击河南“硬核”防疫：老实待在家，就是对社会的最大贡献,https://mp.weixin.qq.com/s/Jx6N7xmKhj6PMxMWb3v4fA,,diyicaijing-23,http://archive.is/TDLjM
+02-08,第一财经YiMagazine,01-27,武汉网约车司机自述：“恨不得奉献出自己的每一分每一秒”,https://mp.weixin.qq.com/s/OkGeTLBvSy8UWK8qW4VnmQ,,diyicaijing-24,http://archive.is/R5NkB
+02-08,第一财经YiMagazine,01-27,武汉新增病例0增长的12天，发生了什么？,https://mp.weixin.qq.com/s/YWzSavxJJJusj-I-QXlzNA,,diyicaijing-25,http://archive.is/ls743
+02-08,第一财经YiMagazine,01-28,各国如何对待武汉游客？,https://mp.weixin.qq.com/s/CuD7NcwrEuC8GmD_PBLNnA,,diyicaijing-26,http://archive.is/K6sup
+02-08,第一财经YiMagazine,01-28,探访“滞留群”：出游回不了家的武汉人，你们还好吗？,https://mp.weixin.qq.com/s/Tka5Uyc-pmwNO4FZXRcDWA,,diyicaijing-27,http://archive.is/3RNwA
+02-08,第一财经YiMagazine,01-28,疫情阴影下的异乡湖北人：难回家乡、住不进酒店,https://mp.weixin.qq.com/s/HM0GhbvImHBeRoIrjxvENw,,diyicaijing-28,http://archive.is/fDNIz
+02-08,第一财经YiMagazine,01-28,华南海鲜市场的动物去哪了？,https://mp.weixin.qq.com/s/ioFnizOUKaWeqo8TDUjDaQ,,diyicaijing-29,http://archive.is/Csrkv
+02-08,第一财经YiMagazine,01-28,触目惊心的中国野生动物黑市,https://mp.weixin.qq.com/s/PgeibAVz-Zt3G_yPi1RMaw,,diyicaijing-30,http://archive.is/15LJR
+02-08,第一财经YiMagazine,01-29,湖北基层疫情防控实录：设备资源紧缺，人员排查压力大,https://mp.weixin.qq.com/s/Dtxbtrpd-yEw_-rkoflJ5g,,diyicaijing-31,http://archive.is/eA8HS
+02-08,第一财经YiMagazine,01-29,一位疑似新冠病人的自我救助：换着药方吃药，隔着房门聊天,https://mp.weixin.qq.com/s/oNWaZHDH4awGmkIiWwTwCQ,,diyicaijing-32,http://archive.is/P0tjd
+02-08,第一财经YiMagazine,01-29,武汉以外湖北各地防护物资依然紧缺：雨衣、垃圾袋上阵,https://mp.weixin.qq.com/s/6j0T_J3bPTZbfxpmf3FNqw,,diyicaijing-33,http://archive.is/P02tw
+02-08,第一财经YiMagazine,01-30,多家外航取消或削减到中国航线，国内航班现零乘客,https://mp.weixin.qq.com/s/p8oXVC8FtZL9sTCgtPF4eA,,diyicaijing-34,http://archive.is/wDF8k
+02-08,第一财经YiMagazine,01-30,一家口罩工厂的春节：24小时不停工，原材料每天都在上涨,https://mp.weixin.qq.com/s/5swQyrGz-M0JgCSjAFjY1g,,diyicaijing-35,http://archive.is/kRFWl
+02-08,第一财经YiMagazine,01-31,对话协和护士：防护物资依然紧缺，主任医生戴泳镜查房,https://mp.weixin.qq.com/s/ehTWhJ0NdgZ86pSjOUm7ZQ,,diyicaijing-36,http://archive.is/nZEYq
+02-08,第一财经YiMagazine,01-31,千里之外的温州，为何成湖北以外疫情最严重的城市,https://mp.weixin.qq.com/s/1wRkVSPUaTotyeIWQBiJdQ,,diyicaijing-37,http://archive.is/uOmAe
+02-08,第一财经YiMagazine,02-01,一天三顿改一顿，物流阻、饲料缺导致湖北种猪被限食,https://mp.weixin.qq.com/s/evEKgER-Z0IqfIkNmZddAw,,diyicaijing-38,http://archive.is/dgjM8
+02-08,第一财经YiMagazine,02-01,疫情阻断春节出游：1天10万通电话、退单至少数百万单,https://mp.weixin.qq.com/s/tdOjSfYTd0C-lZOiTRmB7g,,diyicaijing-39,http://archive.is/flDOw
+02-08,第一财经YiMagazine,02-01,机场等7个小时才拉到客！出租车司机呼吁减免份子钱,https://mp.weixin.qq.com/s/xOFGBx4GsntK21YRNz5leg,,diyicaijing-40,http://archive.is/vih3h
+02-08,第一财经YiMagazine,02-01,武汉官方称红会“调配不及时”， 医院拿捐赠文件却取不到物资,https://mp.weixin.qq.com/s/CqOEDTHW1MJaIAu2PAT1NA,,diyicaijing-41,http://archive.is/xnB4F
+02-08,第一财经YiMagazine,02-01,月减收上千万忧心还能撑多长，餐饮酒店业盼免租减税费支持,https://mp.weixin.qq.com/s/njJcWSHev77W4H2Gs3j1aA,,diyicaijing-42,
+02-08,第一财经YiMagazine,02-02,黄冈确诊病例突破一千，何以至此？,https://mp.weixin.qq.com/s/OeeZOdd2AJNTqjxqK0jdQw,,diyicaijing-43,
+02-08,第一财经YiMagazine,02-03,新冠肺炎确诊病例TOP5城市，收治能力究竟如何？,https://mp.weixin.qq.com/s/VihEchLZ-mBLZfLqK7xNHA,,diyicaijing-44,
+02-08,,,,,,,
