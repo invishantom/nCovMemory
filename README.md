@@ -56,20 +56,20 @@
   * [中国经营报](#中国经营报)
   * [GQ报道](#GQ报道)
 * [亲历者个人叙述](#亲历者个人叙述)
-  * [冰点周刊(个体)](#冰点周刊个体)
+  * [冰点周刊（个体）](#冰点周刊个体)
   * [单读](#单读)
   * [二毛的杂笔](#二毛的杂笔)
   * [江与湖](#江与湖)
   * [阑夕](#阑夕)
-  * [南方周末(个体)](#南方周末个体)
-  * [全民故事计划(个体)](#全民故事计划个体)
+  * [南方周末（个体）](#南方周末个体)
+  * [全民故事计划（个体）](#全民故事计划个体)
   * [人间theLivings](#人间theLivings)
-  * [三联生活周刊(个体)](#三联生活周刊个体)
-  * [三明治(个体)](#三明治个体)
-  * [腾讯新闻《潜望》(个体)](#腾讯新闻《潜望》个体)
+  * [三联生活周刊（个体）](#三联生活周刊个体)
+  * [三明治（个体）](#三明治个体)
+  * [腾讯新闻《潜望》（个体）](#腾讯新闻《潜望》个体)
   * [硝美丽](#硝美丽)
   * [央视新闻](#央视新闻)
-  * [在人间living(个体)](#在人间living个体)
+  * [在人间living（个体）](#在人间living个体)
 * [友情站点](#友情站点)
 
 ## 介绍
@@ -779,14 +779,6 @@
 
 ## 亲历者个人叙述
 
-### 冰点周刊
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-06|🔥 500万人离开武汉，我是其中之一|[link](https://mp.weixin.qq.com/s/XwGAE0pOFF0GncN-IJlNhg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-bingdian-3.png)|[link](http://archive.ph/vPgvG)|
-|01-26|🔥 我的县城防疫笔记：200个口罩也不能让我安心|[link](https://mp.weixin.qq.com/s/p6itVMxOUzvrCv8E6fciFw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-bingdian-2.png)|[link](http://archive.ph/6q6uF)|
-|01-25|🔥 一位武汉妈妈的除夕日志：今年年夜饭有消毒水味道|[link](https://mp.weixin.qq.com/s/lQOnRQhpt-fK1nLSUfgxZA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-bingdian-1.png)|[link](http://archive.ph/GNL5j)|
-
 ### 单读
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
@@ -836,23 +828,6 @@
 |01-27|🔥 武汉封城日记｜第五天|[link](https://mp.weixin.qq.com/s/kCtzW8GROlIKZbXLrv9JqQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-lanxi-3.png)|[link](http://archive.today/219Rk)|
 |01-26|🔥 武汉封城日记（上，第一至三天）|[link](https://mp.weixin.qq.com/s/CaYLixxJAYcmmsvaZS6anw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-lanxi-1.png)|[link](http://archive.today/M5vCz)|
 
-### 南方周末
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|01-28|🔥 回家过年，我遇到了“封村”|[link](https://mp.weixin.qq.com/s/RMylxhOvEokvaT-Xy23Lpg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-nanfang-1.png)|[link](http://archive.ph/wip/ltzwm)|
-|01-28|🔥 从武汉返回后的第20天，我在隔离病房独自过年|[link](https://mp.weixin.qq.com/s/V8bGDfT3F5xXkpEpW4EH0A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-nanfang-2.png)|[link](http://archive.ph/xFLYI)|
-|01-28|🔥 在我家，恐慌未必都是坏事|[link](https://mp.weixin.qq.com/s/OWQCYW3uhVdIb-YPct5QPA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-nanfang-3.png)|[link](http://archive.ph/5ecdf)|
-
-### 全民故事计划
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-08|🔥 我坐上了一辆有确诊患者的公交车|[link](https://mp.weixin.qq.com/s/t5tnmr64WWOlxTlvcBmf7w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-4.png)|[link](http://archive.ph/V6HNj)|
-|02-02|🔥 武汉封城后，我的公司还能撑多久|[link](https://mp.weixin.qq.com/s/kj9hCYGMHaxfUFrNsdyJlg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-3.png)|[link](http://archive.is/SHr1V)|
-|02-01|🔥 在黄冈医院做保洁的母亲，被人举报后|[link](https://mp.weixin.qq.com/s/booNSK5o-zu65VO-C2HgUA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-2.png)|[link](http://archive.is/d98ov)|
-|01-28|🔥 封城后的武汉，我都买了些什么|[link](https://mp.weixin.qq.com/s/k00Oqm0vhna5r0Mh9tNNCw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-1.png)|[link](http://archive.is/oKZMa)|
-
 ### 人间theLivings
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
@@ -865,14 +840,54 @@
 |01-30|🔥 风暴眼中武汉人：我再也忍不住失声痛哭|[link](https://mp.weixin.qq.com/s/rgJTnLr4MWyqfjfVVXlO2w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-renjian-2.png)|[link](http://archive.ph/aIsRY)|
 |01-29|🔥 为了能去支援武汉，护士妻子取消了我们的婚礼|[link](https://mp.weixin.qq.com/s/E9mAeW1PpPG1jSg3UbRvDQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-renjian-1.png)|[link](http://archive.ph/e3mbt)|
 
-### 三联生活周刊
+### 硝美丽
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|02-04|🔥 人可以被困住，但不能因此停住\|郭晶的武汉封城日记|2/2-2/4|[link](https://mp.weixin.qq.com/s/wo-nfXfThWOWVnejj2U1fA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-4.png)|[link](http://archive.today/dkiaD)|
+|02-01|🔥 与无力感共处\|郭晶的武汉封城日记|1/30-2/1|[link](https://mp.weixin.qq.com/s/RWpZvANAzEoSbx-RtAe2-w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-3.png)|[link](http://archive.today/XnDVS)|
+|01-29|🔥 在孤城中重新寻找我的位置\|郭晶的武汉封城日记|27—29日|[link](https://mp.weixin.qq.com/s/Q8EcNvdo3CH4aV2wC5T2fQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-2.png)|[link](http://archive.today/cAmei)|
+|01-26|🔥 一个独居女性的武汉封城日记\|1月23—26日|[link](https://mp.weixin.qq.com/s/Vnv77rXEKcJWcMdmtsuPBA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-1.png)|[link](http://archive.today/b7PCE)|
+
+### 央视新闻
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|02-03|🔥 城中十日：一个武汉隔离者的自述|[link](https://mp.weixin.qq.com/s/V_d06OF1djSpU2vTy-U8vg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-yangshi-1.png)|[link](http://archive.ph/yoW3z)|
+
+### 冰点周刊（个体）
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|02-06|🔥 500万人离开武汉，我是其中之一|[link](https://mp.weixin.qq.com/s/XwGAE0pOFF0GncN-IJlNhg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-bingdian-3.png)|[link](http://archive.ph/vPgvG)|
+|01-26|🔥 我的县城防疫笔记：200个口罩也不能让我安心|[link](https://mp.weixin.qq.com/s/p6itVMxOUzvrCv8E6fciFw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-bingdian-2.png)|[link](http://archive.ph/6q6uF)|
+|01-25|🔥 一位武汉妈妈的除夕日志：今年年夜饭有消毒水味道|[link](https://mp.weixin.qq.com/s/lQOnRQhpt-fK1nLSUfgxZA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-bingdian-1.png)|[link](http://archive.ph/GNL5j)|
+
+### 南方周末（个体）
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|01-28|🔥 回家过年，我遇到了“封村”|[link](https://mp.weixin.qq.com/s/RMylxhOvEokvaT-Xy23Lpg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-nanfang-1.png)|[link](http://archive.ph/wip/ltzwm)|
+|01-28|🔥 从武汉返回后的第20天，我在隔离病房独自过年|[link](https://mp.weixin.qq.com/s/V8bGDfT3F5xXkpEpW4EH0A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-nanfang-2.png)|[link](http://archive.ph/xFLYI)|
+|01-28|🔥 在我家，恐慌未必都是坏事|[link](https://mp.weixin.qq.com/s/OWQCYW3uhVdIb-YPct5QPA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-nanfang-3.png)|[link](http://archive.ph/5ecdf)|
+
+### 全民故事计划（个体）
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|02-08|🔥 我坐上了一辆有确诊患者的公交车|[link](https://mp.weixin.qq.com/s/t5tnmr64WWOlxTlvcBmf7w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-4.png)|[link](http://archive.ph/V6HNj)|
+|02-02|🔥 武汉封城后，我的公司还能撑多久|[link](https://mp.weixin.qq.com/s/kj9hCYGMHaxfUFrNsdyJlg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-3.png)|[link](http://archive.is/SHr1V)|
+|02-01|🔥 在黄冈医院做保洁的母亲，被人举报后|[link](https://mp.weixin.qq.com/s/booNSK5o-zu65VO-C2HgUA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-2.png)|[link](http://archive.is/d98ov)|
+|01-28|🔥 封城后的武汉，我都买了些什么|[link](https://mp.weixin.qq.com/s/k00Oqm0vhna5r0Mh9tNNCw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-quanmin-1.png)|[link](http://archive.is/oKZMa)|
+
+### 三联生活周刊（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 |02-03|🔥 吾心安处即是家|[link](https://mp.weixin.qq.com/s/YOrDRRZfopRdVHUqcs926Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-sanlian-2.png)|[link](http://archive.ph/lAhQT)|
 |01-23|🔥 除夕夜，浙江一线医护人员给孩子的一封信|[link](https://mp.weixin.qq.com/s/Cqpx5LpRy2Kcu7x4JsOjrQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-sanlian-1.png)|[link](http://archive.ph/wip/p7bUd)|
 
-### 三明治
+### 三明治（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
@@ -895,28 +910,13 @@
 |01-25|🔥 2020武汉除夕夜：危机、亲情、祈祷 \| 三明治持续更新中|[link](https://mp.weixin.qq.com/s/mHcRvR9_svB-c2R7az2bLQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-sandwich-2.png)|[link](http://archive.is/MAr0m)|
 |01-24|🔥 50位武汉人，亲笔写下他们“封城”第一天的生活 \| 三明治持续更新中|[link](https://mp.weixin.qq.com/s/RlfYxEjJ7hWGblp8WG0YTg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-sandwich-1.png)|[link](http://archive.is/Ymscl)|
 
-### 腾讯新闻《潜望》
+### 腾讯新闻《潜望》（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 |01-28|🔥 武汉封城五日记：人与人之间不再信任 一天换了三套衣服|[link](https://mp.weixin.qq.com/s/UsTn-zcsZ_hjfmsIbj4WjQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-qianwang-1.png)|[link](http://archive.ph/rl5zj)|
 
-### 硝美丽
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-04|🔥 人可以被困住，但不能因此停住\|郭晶的武汉封城日记|2/2-2/4|[link](https://mp.weixin.qq.com/s/wo-nfXfThWOWVnejj2U1fA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-4.png)|[link](http://archive.today/dkiaD)|
-|02-01|🔥 与无力感共处\|郭晶的武汉封城日记|1/30-2/1|[link](https://mp.weixin.qq.com/s/RWpZvANAzEoSbx-RtAe2-w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-3.png)|[link](http://archive.today/XnDVS)|
-|01-29|🔥 在孤城中重新寻找我的位置\|郭晶的武汉封城日记|27—29日|[link](https://mp.weixin.qq.com/s/Q8EcNvdo3CH4aV2wC5T2fQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-2.png)|[link](http://archive.today/cAmei)|
-|01-26|🔥 一个独居女性的武汉封城日记\|1月23—26日|[link](https://mp.weixin.qq.com/s/Vnv77rXEKcJWcMdmtsuPBA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-xiaomeili-1.png)|[link](http://archive.today/b7PCE)|
-
-### 央视新闻
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-03|🔥 城中十日：一个武汉隔离者的自述|[link](https://mp.weixin.qq.com/s/V_d06OF1djSpU2vTy-U8vg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/narr-yangshi-1.png)|[link](http://archive.ph/yoW3z)|
-
-### 在人间living
+### 在人间living（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|

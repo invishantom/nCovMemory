@@ -16,6 +16,15 @@ Papa.parsePromise = function(file, options) {
 Handlebars.registerHelper('encode', function(string) {
   return (string = string.replace(/[\(|\)|（|）]/g, ''));
 });
+Handlebars.registerHelper('index', function(string) {
+  return (string = string.replace('（个体）', ''));
+});
+function renameKey(o, old_key, new_key) {
+  if (old_key !== new_key) {
+    Object.defineProperty(o, new_key, Object.getOwnPropertyDescriptor(o, old_key));
+    delete o[old_key];
+  }
+}
 async function parseData(csvPath) {
   let now = new Date();
   let csv = fs.readFileSync(csvPath, 'utf8');
@@ -61,7 +70,9 @@ async function generate() {
   );
   for (let [index, media] of model['narrative'].medias.entries()) {
     if (model['non_fiction'].medias.indexOf(media) !== -1) {
-      model['narrative'].medias[index] = `${media}(个体)`;
+      let newName = `${media}（个体）`;
+      renameKey(model['narrative'].articles, media, newName);
+      model['narrative'].medias[index] = newName;
     }
   }
   let runtime = Handlebars.compile(template);
