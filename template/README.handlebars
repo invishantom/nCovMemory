@@ -19,16 +19,14 @@
 * [如何贡献](#如何贡献)
 * [工具](#工具)
 * [联系](#联系)
-* [传媒报道与非虚构写作（首字母顺序）](#传媒报道与非虚构写作（首字母顺序）)
-{{#each medias}}
-  * [{{@this}}](#{{@this}})
+* [传媒报道与非虚构写作（首字母顺序）](#传媒报道与非虚构写作首字母顺序)
+{{#each non_fiction.medias}}
+  * [{{@this}}](#{{encode @this}})
 {{/each}}
-* [亲历者叙述](#亲历者叙述)
-  * [系列：疫区日记](#疫区日记)
-  * [系列：一个独居女性的武汉封城日记](#一个独居女性的武汉封城日记)
-  * [系列：武汉封城日记](#武汉封城日记)
-  * [系列：疫区影像日记](#疫区影像日记)
-  * [单篇](#单篇)
+* [亲历者个人叙述](#亲历者个人叙述)
+{{#each narrative.medias}}
+  * [{{@this}}](#{{encode @this}})
+{{/each}}
 * [友情站点](#友情站点)
 
 ## 介绍
@@ -37,7 +35,7 @@
 若详尽细致或角度新颖，且来自较可信赖的传媒，原则上均予收录，尤其重视对一线、基层（不只是最受关注的，而是包括各地、各群体、各行业）的非虚构写作和描述性报道，也收入摄影报道。来源包括各主流媒体及网络自媒体的微信公众号、网站等。
 希望这一选编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
 
-**项目结构**
+### 项目结构
 
 ```
 ├─archive                          文章的存档，目前仅有png格式
@@ -46,6 +44,9 @@
 │    └─...
 ├─data                             csv格式的文章数据
 │  └─non-fiction.csv
+│  └─narrative.csv
+├─docs                             一个用于展示README的github page (施工中)
+├─gh-page
 ├─template                         README模板
 │  └─README.handlebars
 ├─utils                            根据文章数据生成README的工具
@@ -84,8 +85,7 @@
 
   * ![#fef2c0](https://placehold.it/15/fef2c0/000000?text=+) 讨论：讨论其他事宜。
 
-需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写（[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)）。后者尚未同步至本站，欢迎网友协助。
-
+需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写。
 人力所限，本站将不再大规模增收媒体、公众号。同时，我们不收录评论、分析、科普等类别的作品，希望理解。欢迎网友自行整理、备份，并告知地址，以补本站之不足，我们将列入[友情站点](#友情站点)内。
 
 ## 工具
@@ -102,25 +102,28 @@
 
 ## 传媒报道与非虚构写作（首字母顺序）
 
-{{#each articles}}
+{{#each non_fiction.articles}}
 ### {{@key}}
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------:|---|---|---|
+|---|:----------|---|---|---|
 {{#each @this}}
 |{{date}}|{{#if is_new}}🔥 {{/if}}{{title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link]({{{url}}}){{/if}}|{{#if screenshot}}[link]({{{screenshot}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
 {{/each}}
 
 {{/each}}
-## 亲历者叙述
+## 亲历者个人叙述
 
-尚未同步，请见[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)。
+{{#each narrative.articles}}
+### {{@key}}
 
-### 疫区日记
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+{{#each @this}}
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link]({{{url}}}){{/if}}|{{#if screenshot}}[link]({{{screenshot}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
+{{/each}}
 
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-
+{{/each}}
 ## 友情站点
 
 ### 本站相关的翻译和存档
@@ -140,7 +143,6 @@
 pdf版本的备份，有日期、标题备查。
 
 尚有其他网友制作了截图、pdf和archive备份。一并致谢！
-
 
 ### 独立的工作
 
