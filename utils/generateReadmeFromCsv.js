@@ -14,7 +14,7 @@ Papa.parsePromise = function(file, options) {
   });
 };
 Handlebars.registerHelper('encode', function(string) {
-  return (string = string.replace(/[\(|\)|（|）]/g, ''));
+  return (string = string.replace(/[\(|\)|（|）]/g, '').toLowerCase());
 });
 Handlebars.registerHelper('index', function(string) {
   return (string = string.replace('（个体）', ''));
