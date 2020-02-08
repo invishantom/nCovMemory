@@ -1,6 +1,24 @@
 <template>
   <div id="app">
     <el-scrollbar class="scrollbar">
+      <div id="github-button-group">
+        <!-- Place this tag where you want the button to render. -->
+        <github-button
+          href="https://github.com/2019ncovmemory/nCovMemory"
+          data-color-scheme="no-preference: light; light: light; dark: light;"
+          data-icon="octicon-repo-forked"
+          data-show-count="true"
+          aria-label="Star 2019ncovmemory/nCovMemory on GitHub"
+        >Star</github-button>
+        <!-- Place this tag where you want the button to render. -->
+        <github-button
+          href="https://github.com/2019ncovmemory/nCovMemory/issues"
+          data-color-scheme="no-preference: light; light: light; dark: light;"
+          data-icon="octicon-repo-forked"
+          data-show-count="true"
+          aria-label="Issue 2019ncovmemory/nCovMemory on GitHub"
+        >Issue</github-button>
+      </div>
       <div class="markdown-body">
         <VueMarkdown :source="readme" :toc="true" :postrender="afterRender"></VueMarkdown>
         <el-backtop target=".el-scrollbar__wrap"></el-backtop>
@@ -16,11 +34,13 @@ import template from "../../template/README.handlebars";
 import data from "../../data/non-fiction.csv";
 import generateReadmeFromCsv from "./utils/generateReadmeFromCsv";
 import VueMarkdown from "vue-markdown";
+import GithubButton from "vue-github-button";
 
 export default {
   name: "App",
   components: {
-    VueMarkdown
+    VueMarkdown,
+    GithubButton
   },
   data: () => {
     return {
@@ -33,7 +53,6 @@ export default {
       this.readme = await generateReadmeFromCsv(data, template);
     },
     afterRender(string) {
-      console.log(string);
       return string;
     }
   },
@@ -58,18 +77,29 @@ html,
   overflow: auto;
 }
 .markdown-body {
+  position: relative;
+  top: -15px;
   width: 100vw;
-  padding: 50px 15vw;
+  padding: 0px 15vw;
   box-sizing: border-box;
+}
+#github-button-group {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0px calc(15vw - 2px);
+  margin: 13px 0px 8px 0px;
+  height: 10px;
 }
 tr :first-child {
   white-space: nowrap;
 }
 @media only screen and (max-width: 600px) {
   .markdown-body {
-    padding: 15px 15px;
-    box-sizing: border-box;
+    padding: 0px 15px;
     font-size: 0.8em !important;
+  }
+  #github-button-group {
+    padding: 0px 13px;
   }
 }
 .markdown-body,
