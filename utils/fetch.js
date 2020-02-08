@@ -9,7 +9,7 @@ async function build() {
     let file = fs.createWriteStream(CSV_PATHS[key].path);
     let response = await fetch(CSV_PATHS[key].fetch_url);
     await awaitWriteStream(response.body.pipe(file));
+    console.log(`Fetch ${key} succeed!`);
   }
-  require('./generateReadmeFromCsv');
 }
 build();

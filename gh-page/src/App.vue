@@ -1,27 +1,43 @@
 <template>
   <div id="app">
     <el-scrollbar class="scrollbar">
-      <div id="github-button-group">
-        <!-- Place this tag where you want the button to render. -->
-        <github-button
-          href="https://github.com/2019ncovmemory/nCovMemory"
-          data-color-scheme="no-preference: light; light: light; dark: light;"
-          data-icon="octicon-repo-forked"
-          data-show-count="true"
-          aria-label="Star 2019ncovmemory/nCovMemory on GitHub"
-        >Star</github-button>
-        <!-- Place this tag where you want the button to render. -->
-        <github-button
-          href="https://github.com/2019ncovmemory/nCovMemory/issues"
-          data-color-scheme="no-preference: light; light: light; dark: light;"
-          data-icon="octicon-repo-forked"
-          data-show-count="true"
-          aria-label="Issue 2019ncovmemory/nCovMemory on GitHub"
-        >Issue</github-button>
-      </div>
-      <div class="markdown-body">
-        <VueMarkdown :source="readme" :toc="true" :postrender="afterRender"></VueMarkdown>
-        <el-backtop target=".el-scrollbar__wrap"></el-backtop>
+      <div>
+        <div id="github-button-group">
+          <!-- Place this tag where you want the button to render. -->
+          <!-- Place this tag where you want the button to render. -->
+          <github-button
+            id="repo-button"
+            href="https://github.com/2019ncovmemory/nCovMemory"
+            data-icon="octicon-repo-follow"
+            data-size="large"
+            aria-label="Watch 2019ncovmemory/nCovMemory on GitHub"
+          >Visit Our Repo</github-button>
+          <!-- Place this tag where you want the button to render. -->
+          <!-- Place this tag where you want the button to render. -->
+          <div>
+            <github-button
+              id="star-button"
+              href="https://github.com/2019ncovmemory/nCovMemory"
+              data-icon="octicon-star"
+              data-show-count="true"
+              data-size="large"
+              aria-label="Star 2019ncovmemory/nCovMemory on GitHub"
+            >Star</github-button>
+            <!-- Place this tag where you want the button to render. -->
+            <github-button
+              href="https://github.com/2019ncovmemory/nCovMemory/issues"
+              data-color-scheme="no-preference: light; light: light; dark: light;"
+              data-icon="octicon-repo-forked"
+              data-show-count="true"
+              data-size="large"
+              aria-label="Issue 2019ncovmemory/nCovMemory on GitHub"
+            >Issue</github-button>
+          </div>
+        </div>
+        <div class="markdown-body">
+          <VueMarkdown :source="readme" :toc="true" :postrender="afterRender"></VueMarkdown>
+          <el-backtop target=".el-scrollbar__wrap"></el-backtop>
+        </div>
       </div>
     </el-scrollbar>
   </div>
@@ -74,24 +90,31 @@ html,
   overflow: hidden;
 }
 .el-scrollbar__wrap {
-  overflow: auto;
+  overflow: auto !important;
 }
 .markdown-body {
-  position: relative;
-  top: -15px;
   width: 100vw;
   padding: 0px 15vw;
   box-sizing: border-box;
 }
 #github-button-group {
   display: flex;
-  justify-content: flex-start;
-  padding: 0px calc(15vw - 2px);
-  margin: 13px 0px 8px 0px;
-  height: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px 10px;
+  margin: 8px 0px 8px 0px;
 }
-#github-button-group:first-child {
-  margin-right: 1px;
+#star-button {
+  margin-right: 8px;
+}
+.social-count {
+  width: 38px;
+}
+#repo-button {
+  margin-right: 30px;
+}
+h1 {
+  margin-top: 0 !important;
 }
 tr :first-child {
   white-space: nowrap;
@@ -100,9 +123,6 @@ tr :first-child {
   .markdown-body {
     padding: 0px 15px;
     font-size: 0.8em !important;
-  }
-  #github-button-group {
-    padding: 0px 13px;
   }
 }
 .markdown-body,

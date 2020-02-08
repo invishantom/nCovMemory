@@ -440,6 +440,7 @@ update,media,date,title,url,is_deleted,screenshot,archive
 02-08,经济观察报,02-07,武汉时间：从专家组抵达到封城的谜之20天,http://www.eeo.com.cn/2020/0207/375826.shtml,,jingji-19,http://archive.is/z8vjn
 02-08,经济观察报,02-08,没有人想做这座英雄城市的“城市英雄”,http://www.eeo.com.cn/2020/0208/375909.shtml,,jingji-20,http://archive.is/Kyvx4
 ,,,,,,,
+02-08,中国经营报,02-04,武汉病人：以家庭为单位的患者越来越多，去殡仪馆也得排队,https://www.aigupiao.com/news/agpdetail/id/156037,TRUE,zhongguojingyingbao-5,https://web.archive.org/web/20200208123128/https://www.aigupiao.com/news/agpdetail/id/156037
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
@@ -448,12 +449,27 @@ update,media,date,title,url,is_deleted,screenshot,archive
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
+02-08,所有的鱼,01-28,如果流感疫苗接种率达到 40%，发热门诊还会被挤爆吗？,https://mp.weixin.qq.com/s/N9ROJdJ8IRI85BqKe1oJxQ,,fish-1,http://archive.is/ujhB3
+02-08,所有的鱼,01-30,三名一线志愿者口述：红会、校友会、物资信息平台,https://mp.weixin.qq.com/s/fzpv4h19IXccA_FpNX5Rsg,,fish-2,http://archive.is/RS1lr
+02-08,所有的鱼,01-30,刷屏、阻滞、信任危机，民间救援力量的处境,https://mp.weixin.qq.com/s/xGo_DzVA7b7dnEiDGhTYgg,,fish-3,http://archive.is/BM6ZS
+02-08,所有的鱼,01-31,新冠疫情发生前，疾控系统已面临危机,https://mp.weixin.qq.com/s/Q1V7jGb8reQiAm3-VjX4mA,,fish-4,http://archive.is/z72Oe
+02-08,所有的鱼,02-01,新型冠状肺炎之后，中国经济会走向何方,https://mp.weixin.qq.com/s/fZgYqtTSUTmwztUVlS5OSg,,fish-5,http://archive.ph/N7QPe
+02-08,所有的鱼,02-04,武汉兴建方舱医院、各大城市防控越发严格，以及 30 条疫情新闻,https://mp.weixin.qq.com/s/l8klV7LhsswOvu9VnsQtSQ,,fish-6,http://archive.is/wf7PO
+02-08,所有的鱼,02-06,方舱医院正式启用，内部条件有待完善，以及其他 36 条疫情新闻,https://mp.weixin.qq.com/s/na6lpXcc3xQu-EUH1oZ8kw,,fish-7,http://archive.is/dMWHG
+02-08,所有的鱼,02-07,疫情新闻汇总 2.7,https://mp.weixin.qq.com/s?__biz=MzA5OTgwNTQwMA==&mid=100000068&idx=1&sn=c0bc9d78a4fc99a8f99a19c8aa7ef657&chksm=10fdf0f3278a79e5618672d91c338d426c0eb919d78791c822592f7a686cf86167d066da2412,,fish-8,http://archive.ph/B6Lsn
 ,,,,,,,
-,所有的鱼,01-28,如果流感疫苗接种率达到 40%，发热门诊还会被挤爆吗？,https://mp.weixin.qq.com/s/N9ROJdJ8IRI85BqKe1oJxQ,,,http://archive.is/ujhB3
-,,01-30,三名一线志愿者口述：红会、校友会、物资信息平台,https://mp.weixin.qq.com/s/fzpv4h19IXccA_FpNX5Rsg,,,http://archive.is/RS1lr
-,,01-30,刷屏、阻滞、信任危机，民间救援力量的处境,https://mp.weixin.qq.com/s/xGo_DzVA7b7dnEiDGhTYgg,,,http://archive.is/BM6ZS
-,,01-31,新冠疫情发生前，疾控系统已面临危机,https://mp.weixin.qq.com/s/Q1V7jGb8reQiAm3-VjX4mA,,,http://archive.is/z72Oe
-,,02-01,新型冠状肺炎之后，中国经济会走向何方,https://mp.weixin.qq.com/s/fZgYqtTSUTmwztUVlS5OSg,,,http://archive.ph/N7QPe
-,,02-04,武汉兴建方舱医院、各大城市防控越发严格，以及 30 条疫情新闻,https://mp.weixin.qq.com/s/l8klV7LhsswOvu9VnsQtSQ,,,http://archive.is/wf7PO
-,,02-06,方舱医院正式启用，内部条件有待完善，以及其他 36 条疫情新闻,https://mp.weixin.qq.com/s/na6lpXcc3xQu-EUH1oZ8kw,,,http://archive.is/dMWHG
-,,02-07,疫情新闻汇总 2.7,https://mp.weixin.qq.com/s?__biz=MzA5OTgwNTQwMA==&mid=100000068&idx=1&sn=c0bc9d78a4fc99a8f99a19c8aa7ef657&chksm=10fdf0f3278a79e5618672d91c338d426c0eb919d78791c822592f7a686cf86167d066da2412,,,http://archive.ph/B6Lsn
+02-08,三联生活周刊,02-07,从1988年的30万人甲肝到新冠肺炎：上海是如何应对的？,https://mp.weixin.qq.com/s/LfrU1MAIse-XXhmcHSloXw,,sanlian-33,http://archive.today/r5dsE
+02-08,三联生活周刊,02-07,是他们在救助留守武汉的动物​,https://mp.weixin.qq.com/s/ekTc8cTZrqySdXAZnbYCZA,,sanlian-34,http://archive.today/3ibMj
+02-08,三联生活周刊,02-08,告慰并前行,https://mp.weixin.qq.com/s/QiOAsdmzlo6B301TSjG7JA,,sanlian-35,http://archive.today/f97AN
+02-08,三联生活周刊,02-08,专访高文斌：疫情期间心理建设尤其重要,https://mp.weixin.qq.com/s/PqqH9ZsuOEo8PWq7xnCI5w,,sanlian-36,http://archive.today/t1rOa
+02-08,三联生活周刊,02-08,返程高峰，坐飞机你需要知道这些,https://mp.weixin.qq.com/s/xn2DoPZLUTG_-7ISbh_5Wg,,sanlian-37,http://archive.today/EVK5I
+02-08,财经杂志,02-07,数说疫情0207：疫情增势继续趋缓,https://mp.weixin.qq.com/s/bEphleMwCImBTcy4dI89lw,,caijing-40,http://archive.today/IGwYh
+02-08,财经杂志,02-07,四部委“加码”企业扶持：增加贴息资金规模，税收优惠指引将出,https://mp.weixin.qq.com/s/ZHgMRHVEw6VuK1wER4PNdQ,,caijing-41,http://archive.today/gE9tb
+02-08,财经杂志,02-07,“神药”瑞德西韦离患者还有多远 | 图说,https://mp.weixin.qq.com/s/xF2N7eFdDr_flJ54sUAKng,,caijing-42,http://archive.today/Vcs6B
+02-08,财经杂志,02-07,病死率逐渐下降，会出现转机么？,https://mp.weixin.qq.com/s/AlIKAtlPOyk1kIZOhow7kg,,caijing-43,http://archive.today/oQch0
+02-08,财经杂志,02-07,李铁：大规模人口流动和疫情的体制关联,https://mp.weixin.qq.com/s/VsB71b1PLC5GhfMJlGIONA,,caijing-44,http://archive.today/QqmU7
+02-08,财经杂志,02-08,提升新冠肺炎核酸检测准确度， 专家建议系统比对试剂,https://mp.weixin.qq.com/s/rblr088rultZh2gG7ZlwRQ,,caijing-45,http://archive.today/px6qR
+02-08,财经杂志,02-08,制造企业谋划复工大计，期待3月开始安全自救,https://mp.weixin.qq.com/s/EHKbXIreSmV5uSM7n_n3vg,,caijing-46,http://archive.today/JFoIo
+02-08,财经杂志,02-08,疫情蔓延，拿到逆势红包的在线游戏接下来怎么走？,https://mp.weixin.qq.com/s/GirdObnHT2DgDellqE9bTA,,caijing-47,http://archive.today/rkHnT
+02-08,财经杂志,02-08,数说疫情0208：武汉数据反弹，治愈远超病死,https://mp.weixin.qq.com/s/2QSwPVySg3WM-tZ94qjpcA,,caijing-48,http://archive.today/nTZhs
+02-08,财经杂志,02-08,香港全力抗疫：即日实施检疫新政，抗疫体系轮廓清晰,https://mp.weixin.qq.com/s/aURd5Tc7w6lASA-koeWaJw,,caijing-49,http://archive.today/q1Yjx

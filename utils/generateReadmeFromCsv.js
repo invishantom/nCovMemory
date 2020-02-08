@@ -39,7 +39,7 @@ async function parseData(csvPath) {
   });
 
   let articles = {};
-  for (media of medias) {
+  for (let media of medias) {
     articles[media] = data.data.filter((entry) => entry.media === media);
     articles[media].sort((a, b) =>
       compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
@@ -59,9 +59,15 @@ async function generate() {
     path.join(__dirname, '..', 'template', 'README.handlebars'),
     'utf8'
   );
+  for (let [index, media] of model['narrative'].medias.entries()) {
+    if (model['non_fiction'].medias.indexOf(media) !== -1) {
+      model['narrative'].medias[index] = `${media}(个体)`;
+    }
+  }
   let runtime = Handlebars.compile(template);
   const output = runtime(model);
   fs.writeFileSync(README_PATH, output, 'utf-8');
+  console.log('Generate README succeed!');
 }
 
 generate();
