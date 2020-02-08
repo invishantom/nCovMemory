@@ -80,6 +80,10 @@ export default {
 </script>
 
 <style>
+* {
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+}
 body,
 html,
 #app,
@@ -104,7 +108,7 @@ html,
   flex-direction: row;
   justify-content: space-between;
   padding: 5px 15px 0px 15px;
-  margin: 8px 0px 5px 0px;
+  margin: 8px 0px 10px 0px;
 }
 #star-button {
   margin-right: 8px;
