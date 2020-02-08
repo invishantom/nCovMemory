@@ -1,18 +1,22 @@
 {
-  "name": "nCov-utils",
+  "name": "ncov-utils",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "node build.js && cd ../ncov-memory-gitpage && yarn build",
-    "test": "jest"
+    "build": "node build.js && cd ../gitpage && yarn build",
+    "test": "cp ./dist/* -Destination ../"
   },
   "dependencies": {
     "await-stream-ready": "^1.0.1",
     "convert-array-to-csv": "^1.0.9",
     "date-fns": "^2.9.0",
+    "fs-extra": "^8.1.0",
     "handlebars": "^4.7.3",
     "node-fetch": "^2.6.0",
     "papaparse": "^5.1.1"
+  },
+  "devDependencies": {
+    "fs-extra-cli": "^0.0.4"
   }
 }

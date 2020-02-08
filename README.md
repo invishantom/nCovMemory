@@ -54,8 +54,8 @@
   * [中国经营报](#中国经营报)
   * [GQ报道](#GQ报道)
 * [亲历者个人叙述](#亲历者个人叙述)
-  * [全民故事计划](#全民故事计划)
-  * [三明治](#三明治)
+  * [全民故事计划（个体）](#全民故事计划（个体）)
+  * [三明治（个体）](#三明治（个体）)
 * [友情站点](#友情站点)
 
 ## 介绍
@@ -488,9 +488,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
-|01-31|🔥 封城后的鄂州：这里没有太多新闻|[link](https://mp.weixin.qq.com/s/XyhH_y9d4qOfURRmFnGkAg)|[link](/archive/png/quanmin-4.png)|[link](http://archive.is/b4Om7)|
-|01-29|🔥 封城后的黄冈：确诊病例仅次武汉|[link](https://mp.weixin.qq.com/s/hSvrH8ACUSYn-uU5leE8wQ)|[link](/archive/png/quanmin-3.png)|[link](http://archive.is/6qirF)|
-|01-28|🔥 封城后的武汉，我都买了些什么|[link](https://mp.weixin.qq.com/s/k00Oqm0vhna5r0Mh9tNNCw)|[link](/archive/png/quanmin-2.png)|[link](http://archive.is/oKZMa)|
+|01-31|🔥 封城后的鄂州：这里没有太多新闻|[link](https://mp.weixin.qq.com/s/XyhH_y9d4qOfURRmFnGkAg)|[link](/archive/png/quanmin-3.png)|[link](http://archive.is/b4Om7)|
+|01-29|🔥 封城后的黄冈：确诊病例仅次武汉|[link](https://mp.weixin.qq.com/s/hSvrH8ACUSYn-uU5leE8wQ)|[link](/archive/png/quanmin-2.png)|[link](http://archive.is/6qirF)|
 |01-26|🔥 身在武汉：此刻的我在经历着什么|[link](https://mp.weixin.qq.com/s/3Oce6xJj27f_fHcV1DF7Dw)|[link](/archive/png/quanmin-1.png)|[link](http://archive.is/lC0J5)|
 
 ### 人物
@@ -699,15 +698,16 @@
 
 ## 亲历者*个人*叙述
 
-### 全民故事计划
+### 全民故事计划（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
-|02-08|🔥 我坐上了一辆有确诊患者的公交车|[link](https://mp.weixin.qq.com/s/t5tnmr64WWOlxTlvcBmf7w)|[link](/archive/png/narr-quanmin-3.png)|[link](http://archive.ph/V6HNj)|
-|02-02|🔥 武汉封城后，我的公司还能撑多久|[link](https://mp.weixin.qq.com/s/kj9hCYGMHaxfUFrNsdyJlg)|[link](/archive/png/narr-quanmin-2.png)|[link](http://archive.is/SHr1V)|
-|02-01|🔥 在黄冈医院做保洁的母亲，被人举报后|[link](https://mp.weixin.qq.com/s/booNSK5o-zu65VO-C2HgUA)|[link](/archive/png/narr-quanmin-1.png)|[link](http://archive.is/d98ov)|
+|02-08|🔥 我坐上了一辆有确诊患者的公交车|[link](https://mp.weixin.qq.com/s/t5tnmr64WWOlxTlvcBmf7w)|[link](/archive/png/narr-quanmin-4.png)|[link](http://archive.ph/V6HNj)|
+|02-02|🔥 武汉封城后，我的公司还能撑多久|[link](https://mp.weixin.qq.com/s/kj9hCYGMHaxfUFrNsdyJlg)|[link](/archive/png/narr-quanmin-3.png)|[link](http://archive.is/SHr1V)|
+|02-01|🔥 在黄冈医院做保洁的母亲，被人举报后|[link](https://mp.weixin.qq.com/s/booNSK5o-zu65VO-C2HgUA)|[link](/archive/png/narr-quanmin-2.png)|[link](http://archive.is/d98ov)|
+|01-28|🔥 封城后的武汉，我都买了些什么|[link](https://mp.weixin.qq.com/s/k00Oqm0vhna5r0Mh9tNNCw)|[link](/archive/png/narr-quanmin-1.png)|[link](http://archive.is/oKZMa)|
 
-### 三明治
+### 三明治（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|

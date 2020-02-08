@@ -1,6 +1,7 @@
 const path = require('path');
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/nCovMemory/' : '/',
+  indexPath: '../../index.html',
+  publicPath: process.env.NODE_ENV === 'production' ? '/nCovMemory/gitpage/dist' : '/',
   configureWebpack: {
     module: {
       rules: [
