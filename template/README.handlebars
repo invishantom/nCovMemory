@@ -20,15 +20,13 @@
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作（首字母顺序）](#传媒报道与非虚构写作（首字母顺序）)
-{{#each medias}}
+{{#each non_fiction.medias}}
   * [{{@this}}](#{{@this}})
 {{/each}}
 * [亲历者叙述](#亲历者叙述)
-  * [系列：疫区日记](#疫区日记)
-  * [系列：一个独居女性的武汉封城日记](#一个独居女性的武汉封城日记)
-  * [系列：武汉封城日记](#武汉封城日记)
-  * [系列：疫区影像日记](#疫区影像日记)
-  * [单篇](#单篇)
+{{#each narrative.medias}}
+  * [{{@this}}](#{{@this}})
+{{/each}}
 * [友情站点](#友情站点)
 
 ## 介绍
@@ -102,7 +100,7 @@
 
 ## 传媒报道与非虚构写作（首字母顺序）
 
-{{#each articles}}
+{{#each non_fiction.articles}}
 ### {{@key}}
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
@@ -114,13 +112,16 @@
 {{/each}}
 ## 亲历者叙述
 
-尚未同步，请见[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)。
+{{#each narrative.articles}}
+### {{@key}}
 
-### 疫区日记
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+{{#each @this}}
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link]({{{url}}}){{/if}}|{{#if screenshot}}[link]({{{screenshot}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
+{{/each}}
 
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-
+{{/each}}
 ## 友情站点
 
 ### 本站相关的翻译和存档
