@@ -90,6 +90,9 @@ html,
   margin: 13px 0px 8px 0px;
   height: 10px;
 }
+#github-button-group:first-child {
+  margin-right: 1px;
+}
 tr :first-child {
   white-space: nowrap;
 }

@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import App from './App.vue';
-import ElementUI from 'element-ui';
 import VueGitHubButtons from 'vue-github-buttons';
+import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import 'vue-github-buttons/dist/vue-github-buttons.css';
 
