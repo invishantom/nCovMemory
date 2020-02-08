@@ -14,7 +14,7 @@ Papa.parsePromise = function(file, options) {
   });
 };
 Handlebars.registerHelper('encode', function(string) {
-  return string.replace('）', '%29');
+  return string.replace('）', '%29').replace('（', '%28');
 });
 async function parseData(csvPath) {
   let now = new Date();
