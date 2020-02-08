@@ -26,7 +26,7 @@ async function parseData(csvPath) {
     entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
     entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     entry.screenshot = entry.screenshot
-      ? `https://github.com/2019ncovmemory/nCovMemory/archive/png/${entry.screenshot}.png`
+      ? `https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/${entry.screenshot}.png`
       : null;
     entry.title = entry.title.replace('|', '\\|');
 
