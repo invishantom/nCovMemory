@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "node build.js && cd ../gitpage && yarn build",
+    "build": "node build.js && cd ../gh-page && yarn build",
     "test": "cp ./dist/* -Destination ../"
   },
   "dependencies": {

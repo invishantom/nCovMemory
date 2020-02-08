@@ -44,6 +44,7 @@
   * [三联生活周刊](#三联生活周刊)
   * [三明治](#三明治)
   * [腾讯深网](#腾讯深网)
+  * [腾讯新闻《潜望》](#腾讯新闻《潜望》)
   * [消费新声](#消费新声)
   * [潇湘晨报](#潇湘晨报)
   * [新京报](#新京报)
@@ -56,6 +57,7 @@
 * [亲历者个人叙述](#亲历者个人叙述)
   * [全民故事计划（个体）](#全民故事计划个体)
   * [三明治（个体）](#三明治个体)
+  * [腾讯新闻《潜望》（个体）](#腾讯新闻《潜望》个体)
 * [友情站点](#友情站点)
 
 ## 介绍
@@ -73,6 +75,9 @@
 │    └─...
 ├─data                             csv格式的文章数据
 │  └─non-fiction.csv
+│  └─...
+├─docs                             一个用于展示README的github page (施工中)
+├─gh-page
 ├─template                         README模板
 │  └─README.handlebars
 ├─utils                            根据文章数据生成README的工具
@@ -111,8 +116,7 @@
 
   * ![#fef2c0](https://placehold.it/15/fef2c0/000000?text=+) 讨论：讨论其他事宜。
 
-需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写（[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)）。后者尚未同步至本站，欢迎网友协助。
-
+需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写。
 人力所限，本站将不再大规模增收媒体、公众号。同时，我们不收录评论、分析、科普等类别的作品，希望理解。欢迎网友自行整理、备份，并告知地址，以补本站之不足，我们将列入[友情站点](#友情站点)内。
 
 ## 工具
@@ -154,7 +158,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
-|02-08|🔥 湖北多地告急 16省“一省包一市”支援武汉以外地市|[link](https://mp.weixin.qq.com/s/zZ-WsZKneDxGlDgW63je5Q)|[link](/archive/png/bingdian-17.png)|[link](http://archive.ph/dGlkr)|
+|02-07|🔥 湖北多地告急 16省“一省包一市”支援武汉以外地市|[link](https://mp.weixin.qq.com/s/zZ-WsZKneDxGlDgW63je5Q)|[link](/archive/png/bingdian-17.png)|[link](http://archive.ph/dGlkr)|
 |02-07|🔥 与“吹哨者”李文亮的最后对话：如果再来一次我还是会说|[link](https://news.ifeng.com/c/7trthoYMTLh)|[link](/archive/png/bingdian-14.png)|[link](https://web.archive.org/web/20200207065239/https://news.ifeng.com/c/7trthoYMTLh)|
 |02-07|🔥 与李文亮的最后对话：如果康复了，我还会当大夫|[link](https://mp.weixin.qq.com/s/Y8FCwR9zjXomg_A6YjXf0g)|[link](/archive/png/bingdian-15.png)|[link](http://archive.ph/uteOz)|
 |02-07|🔥 送别李文亮医生|[link](https://mp.weixin.qq.com/s/X8C92GYQVXrz2Mz07cevXA)|[link](/archive/png/bingdian-16.png)|[link](http://archive.ph/c87dD)|
@@ -241,9 +245,14 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
+|02-08|🔥 黑龙江聚集性疫情多发 齐齐哈尔市第一医院十余人病房感染|[link](http://www.caixin.com/2020-02-08/101512992.html)|[link](/archive/png/caixin-46.png)|[link](http://archive.ph/73kxH)|
+|02-08|🔥 肺炎日记\|2月7日：重症患者近五千 一线医生全力奋战|[link](http://www.caixin.com/2020-02-08/101512942.html)|[link](/archive/png/caixin-16e.png)|[link](http://archive.ph/HF4b0)|
 |02-07|🔥 新冠肺炎“吹哨人”李文亮：真相最重要（更新）|[link](http://china.caixin.com/2020-01-31/101509761.html)|[link](/archive/png/caixin-42.png)|[link](https://archive.ph/mxV8E)|
 |02-07|🔥 肺炎日记\|2月6日：心牵吹哨人李文亮 新冠防控进入新阶段 |[link](http://www.caixin.com/2020-02-07/101512484.html)|[link](/archive/png/caixin-16d.png)|[link](http://archive.is/3f21x)|
+|02-07|🔥 解药\|新冠核酸检测有多少假阴性？准确诊断是当务之急|[link](http://www.caixin.com/2020-02-07/101512517.html)|[link](/archive/png/caixin-45.png)|[link](http://archive.is/OtVIR)|
+|02-07|🔥 随州医用库存物资告急 广水市政府公开求援|[link](http://www.caixin.com/2020-02-07/101512773.html)|[link](/archive/png/caixin-44.png)|[link](http://archive.is/14j4N)|
 |02-06|记者手记-疫情中的货车司机：每天只吃一顿饭|[link](http://www.caixin.com/2020-02-06/101512091.html)|[link](/archive/png/caixin-40.png)|[link](http://archive.is/W5BXe)|
+|02-06|🔥 鄂州感染率居湖北第二 急召离退休医护返岗|[link](http://www.caixin.com/2020-02-06/101512154.html)|[link](/archive/png/caixin--43.png)|[link](http://archive.is/uG9IB)|
 |02-05|武汉百步亭社区多个门栋现发热患者 中老年人为主|[link](http://www.caixin.com/2020-02-05/101511617.html)|[link](/archive/png/caixin-37.png)|[link](https://web.archive.org/web/20200205031020/http://www.caixin.com/2020-02-05/101511617.html)|
 |02-05|【独家】石正丽回应质疑 专家一致认为新冠病毒非人造|[link](http://www.caixin.com/2020-02-05/101511847.html)|[link](/archive/png/caixin-38.png)|[link](http://archive.is/X8gXV)|
 |02-05|解药-武汉病毒所陷争议：为何此时宣布申请瑞德西韦新用途专利？|[link](http://www.caixin.com/2020-02-05/101511847.html)|[link](/archive/png/caixin-39.png)|[link](http://archive.is/nLBnh)|
@@ -331,6 +340,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
+|02-06|🔥 抗疫一线 \| 华润武钢总医院80后护士余芳：“我们自己是很无畏的”|[link](http://www.eeo.com.cn/2020/0206/375748.shtml)|[link](/archive/png/jingji-16.png)|[link](http://archive.is/nDILU)|
+|02-06|🔥 万家宴后的百步亭|[link](http://www.eeo.com.cn/2020/0206/375757.shtml)|[link](/archive/png/jingji-17.png)|[link](http://archive.is/3EUh0)|
 |02-05|接待医疗队、隔离疑似病例 这些酒店扛得很艰难|[link](http://www.eeo.com.cn/2020/0205/375613.shtml)|[link](/archive/png/jingji-13.png)|[link](https://web.archive.org/web/20200205081335/http://www.eeo.com.cn/2020/0205/375613.shtml)|
 |02-05|“万家宴”社区百步亭确诊多例新冠肺炎 一小区55栋楼中33栋有发热病人|[link](http://www.eeo.com.cn/2020/0205/375577.shtml)|[link](/archive/png/jingji-14.png)|[link](http://archive.ph/qmflg)|
 |02-05|【独家】红会等非定向捐赠医疗物资分配方案明确 3日前的一件不留|[link](http://www.eeo.com.cn/2020/0204/375571.shtml)|[link](/archive/png/jingji-15.png)|[link](http://archive.ph/aQNYu)|
@@ -378,6 +389,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
+|02-08|🔥 “爸爸妈妈是医生，现在他们在抗疫前线”|[link](https://mp.weixin.qq.com/s/d2ZCZ0ppli67c-R6CFesLA)|[link](/archive/png/nandu-15.png)|[link](http://archive.is/iEbVm)|
 |02-06|🔥 一个湖北水果店老板的自救：销售额腰斩仍不裁员，期待帮扶政策出台|[link](https://mp.weixin.qq.com/s/bV3df6Z8IKy8M61X1_wF1g)|[link](/archive/png/nandu-14.png)|[link](http://archive.is/ZZAbP)|
 |02-05|武汉留守宠物救助：“我收到了人生中最密集的好意|[link](https://mp.weixin.qq.com/s/aq5QSbcsTXNqznFvKv20lA)|[link](/archive/png/nandu-13.png)|[link](http://archive.ph/bePr8)|
 |02-02|湖北危机之下，饭圈女孩的驰援|[link](https://mp.weixin.qq.com/s/GOFEixDCXSurJgWfYDnwvA)|[link](/archive/png/nandu-12.png)|[link](https://archive.vn/Kmwad)|
@@ -404,6 +416,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
+|02-08|🔥 湖北随州：31名外援医生终于来了|[link](https://mp.weixin.qq.com/s/kMJR1eRHEHDY7Kix7N15Dw)|[link](/archive/png/nanfang-44.png)|[link](http://archive.is/iEbVm)|
+|02-08|🔥 李文亮医生离世的第一夜，市民自发悼念： “谢谢你的勇敢”|[link](https://mp.weixin.qq.com/s/kwtXCrll0S75b6bqsK-gZA)|[link](/archive/png/nanfang-43.png)|[link](http://archive.is/AeXjw)|
 |02-07|🔥 哀悼李文亮，应给“吹哨人”正名|[link](https://mp.weixin.qq.com/s/32Sj9VICKdP_dox8Ln_z1w)|[link](/archive/png/nanfang-41.png)|[link](http://archive.is/5Oln0)|
 |02-07|🔥 医生李文亮和他眷恋的城|[link](https://mp.weixin.qq.com/s/BCMERHKeACaLWjiII8f-Sw)|[link](/archive/png/nanfang-42.png)|[link](http://archive.is/MpUFq)|
 |02-06|广东医疗队援汉日记：带上SARS防治经验，进入武汉疫区|[link](https://mp.weixin.qq.com/s/58vY15giGS0SKGzL3-HD3w)|[link](/archive/png/nanfang-38.png)|[link](http://archive.is/WnrtZ)|
@@ -579,6 +593,19 @@
 |01-27|95后小伙除夕春节蹲守工厂三天，为湖北亲朋抢寄出上万个口罩|[link](https://mp.weixin.qq.com/s/IzizQkZlR1CVgLZPTD8mRw)|[link](/archive/png/shenwang-2.png)|[link](http://archive.is/zh3Tf)|
 |01-25|九个武汉普通人家的别样除夕|[link](https://mp.weixin.qq.com/s/mP9BJ-7Jjvkg-5dd2cvRqQ)|[link](/archive/png/shenwang-1.png)|[link](http://archive.is/95tQJ)|
 
+### 腾讯新闻《潜望》
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|02-07|🔥 记录武汉疫情下第一道防线：超300台“红外卫士”守护这个城市|[link](https://mp.weixin.qq.com/s/R17nmHKiuN5PLWxjsR-41g)|[link](/archive/png/qianwang-8.png)|[link](http://archive.ph/V5E9K)|
+|02-06|🔥 史上最大规模在家办公开始：孩子是最大障碍 频繁拉群是常态|[link](https://mp.weixin.qq.com/s/MJEMwYG2YtGkZ1PmhKUU1Q)|[link](/archive/png/qianwang-7.png)|[link](http://archive.ph/wip/pAUxw)|
+|02-05|🔥 “特效药”老树开新花，艾滋病和甲流药物是新冠肺炎的救命稻草吗？|[link](https://mp.weixin.qq.com/s/OuPnw66Xn-Gi1tGNxpNcPA)|[link](/archive/png/qianwang-6.png)|[link](http://archive.ph/xuZK5)|
+|02-04|🔥 新冠病毒检测：试剂盒产能达每天90万人份 日检万人实验室将建成|[link](https://mp.weixin.qq.com/s/HCBP7ZrFooG9XNsdbiNyIQ)|[link](/archive/png/qianwang-5.png)|[link](http://archive.ph/LPijx)|
+|02-02|🔥 在美华人驰援武汉：陌生人的微信捐款、艰难的分发与最后的100万只口罩|[link](https://mp.weixin.qq.com/s/_r5DpjXOIE1hkDLd7GY1IA)|[link](/archive/png/qianwang-4.png)|[link](http://archive.ph/oX2tz)|
+|01-30|🔥 数十亿善款下的艰难一面：假冒航空公司诈骗、口罩临时毁约涨价|[link](https://mp.weixin.qq.com/s/24JcPg71L3ePE_mS-bIk_Q)|[link](/archive/png/qianwang-3.png)|[link](http://archive.ph/ebsIq)|
+|01-29|🔥 小米驰援湖北 驰援武汉：一家公司如何组织救援“供应链”？|[link](https://mp.weixin.qq.com/s/L3P6EwBcDIwwfbkYX-5f2Q)|[link](/archive/png/qianwang-2.png)|[link](http://archive.ph/orxci)|
+|01-27|🔥 “武汉小汤山”迅速建设一面：三大运营商如何联手铺设5G网络|[link](https://mp.weixin.qq.com/s/jKHJEQk3BkAR9sb8EAqqWg)|[link](/archive/png/qianwang-1.png)|[link](http://archive.ph/lChez)|
+
 ### 消费新声
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
@@ -640,7 +667,16 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 |02-07|🔥 一个武汉志愿者的封城16天|[link](https://mp.weixin.qq.com/s/mZyzqZbvWNC_zCe5sq45Hw)|[link](/archive/png/yitiao-2.png)|[link](http://archive.ph/9Ea5i)|
+|02-07|🔥 疫情爆发之初，一对武汉母女的生死20天|[link](https://mp.weixin.qq.com/s/gTVDbZD3Lot6F9Pap2La2w)|[link](/archive/png/yitiao-11.png)|[link](http://archive.ph/OC8l1)|
+|02-06|🔥 武汉女孩得肺炎后写遗书，在家隔离16天治愈|[link](https://mp.weixin.qq.com/s/ht-0jMhVeAo-S8yIJGuMlA)|[link](/archive/png/yitiao-10.png)|[link](http://archive.ph/hHaRO)|
+|02-05|🔥 火神山医院，大有玄机！|[link](https://mp.weixin.qq.com/s/nnaIFG9Y48gyP3FyRLdlBw)|[link](/archive/png/yitiao-9.png)|[link](http://archive.ph/NTcpG)|
+|02-04|🔥 封城11日，武汉众生图|[link](https://mp.weixin.qq.com/s/YSIb6E0G7-6Wy6PMPRYoeg)|[link](/archive/png/yitiao-8.png)|[link](http://archive.ph/sdZ0t)|
+|02-03|🔥 封城10日，武汉人的自救行动|[link](https://mp.weixin.qq.com/s/_XMt7zbvFMH2Zif7yVZBKA)|[link](/archive/png/yitiao-7.png)|[link](http://archive.ph/Sd5Jb)|
+|02-02|🔥 保护逆行天使：绕开红会，他们点对点把物资送进了武汉周边医院|[link](https://mp.weixin.qq.com/s/-DOE0RYGsVgOcbjY1NOCpw)|[link](/archive/png/yitiao-6.png)|[link](http://archive.ph/mkNfF)|
+|02-01|🔥 武汉疫情被全球通报后，华人都遭遇了什么？|[link](https://mp.weixin.qq.com/s/Af5zLuSQwitz-VZhKgqUBg)|[link](/archive/png/yitiao-5.png)|[link](http://archive.ph/PoPLs)|
 |01-29|媒体不死！武汉一线记者口述实录|[link](https://mp.weixin.qq.com/s/zvYFAwO3mTm50HS8RA_PpQ)|[link](/archive/png/yitiao-1.png)|[link](https://archive.vn/KhdKV)|
+|01-25|🔥 让信息快速流通，是我们对抗疫情的最好方式|[link](https://mp.weixin.qq.com/s/5fvDG_P3YxbAPdTiQLUpSw)|[link](/archive/png/yitiao-4.png)|[link](http://archive.ph/O7Sac)|
+|01-24|🔥 武汉肺炎疫情成全球焦点：我们知道得太少，最坏的还没到来|[link](https://mp.weixin.qq.com/s/FwV1ejfNicMtSfWNc2lv7w)|[link](/archive/png/yitiao-3.png)|[link](http://archive.ph/HfypJ)|
 
 ### 云林街十七号
 
@@ -656,7 +692,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
-|02-05|我走了50公里，回武汉送外卖|[link](https://mp.weixin.qq.com/s/kLAdvBG3UAQqEFYQoU9BSA)|[link](/archive/png/article/living/living-10.png)|[link](http://archive.is/0ea7J)|
+|02-05|我走了50公里，回武汉送外卖|[link](https://mp.weixin.qq.com/s/kLAdvBG3UAQqEFYQoU9BSA)|[link](/archive/png/living/living-10.png)|[link](http://archive.is/0ea7J)|
 |02-04|🔥 饭圈女孩支援疫区：做公益是追星的另一种方式|[link](https://mp.weixin.qq.com/s/k0VwZkUbMjEVSSguU9GWiQ)|[link](/archive/png/living-11.png)|[link](http://archive.is/71Ok9)|
 |02-03|我在电话这头，试图帮武汉人平复“被现实打蒙的感觉”|[link](https://mp.weixin.qq.com/s/Wt0wXiHClJvkO6-ksxZ1hQ)|[link](/archive/png/living-9.png)|[link](https://archive.ph/ihIGd)|
 |02-02|疫情中一夜长大的少年|[link](https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A)|[link](/archive/png/living-8.png)|[link](https://archive.ph/V5GvI)|
@@ -729,6 +765,12 @@
 |01-26|🔥 视频麻将，做个美食，武汉人宅着的解压法 \| 三明治武汉每日书03|[link](https://mp.weixin.qq.com/s/Hhc2X5PQUnxp7kTBGZn-ag)|[link](/archive/png/narr-sandwich-3.png)|[link](http://archive.is/Zo7c2)|
 |01-25|🔥 2020武汉除夕夜：危机、亲情、祈祷 \| 三明治持续更新中|[link](https://mp.weixin.qq.com/s/mHcRvR9_svB-c2R7az2bLQ)|[link](/archive/png/narr-sandwich-2.png)|[link](http://archive.is/MAr0m)|
 |01-24|🔥 50位武汉人，亲笔写下他们“封城”第一天的生活 \| 三明治持续更新中|[link](https://mp.weixin.qq.com/s/RlfYxEjJ7hWGblp8WG0YTg)|[link](/archive/png/narr-sandwich-1.png)|[link](http://archive.is/Ymscl)|
+
+### 腾讯新闻《潜望》（个体）
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|01-28|🔥 武汉封城五日记：人与人之间不再信任 一天换了三套衣服|[link](https://mp.weixin.qq.com/s/UsTn-zcsZ_hjfmsIbj4WjQ)|[link](/archive/png/narr-qianwang-1.png)|[link](http://archive.ph/rl5zj)|
 
 ## 友情站点
 
