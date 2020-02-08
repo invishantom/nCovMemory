@@ -25,9 +25,10 @@
             >Star</github-button>
             <!-- Place this tag where you want the button to render. -->
             <github-button
+              id="issue-button"
               href="https://github.com/2019ncovmemory/nCovMemory/issues"
               data-color-scheme="no-preference: light; light: light; dark: light;"
-              data-icon="octicon-repo-forked"
+              data-icon="octicon-issue-opened"
               data-show-count="true"
               data-size="large"
               aria-label="Issue 2019ncovmemory/nCovMemory on GitHub"
@@ -95,18 +96,20 @@ html,
 .markdown-body {
   width: 100vw;
   padding: 0px 15vw;
+  font-size: 1.1em !important;
   box-sizing: border-box;
 }
 #github-button-group {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 0px 10px;
-  margin: 8px 0px 8px 0px;
+  padding: 5px 15px 0px 15px;
+  margin: 8px 0px 5px 0px;
 }
 #star-button {
   margin-right: 8px;
 }
+
 .social-count {
   width: 38px;
 }
@@ -123,6 +126,9 @@ tr :first-child {
   .markdown-body {
     padding: 0px 15px;
     font-size: 0.8em !important;
+  }
+  #issue-button {
+    display: none;
   }
 }
 .markdown-body,
