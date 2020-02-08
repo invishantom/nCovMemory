@@ -12,6 +12,10 @@ module.exports = {
         {
           test: /\.handlebars$/,
           use: 'raw-loader'
+        },
+        {
+          test: /\.md$/,
+          use: 'raw-loader'
         }
       ]
     }

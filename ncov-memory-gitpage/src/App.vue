@@ -11,6 +11,7 @@
 
 <script>
 import "whatwg-fetch";
+import readme from "../../README.md";
 import template from "../../template/README.handlebars";
 import data from "../../data/non-fiction.csv";
 import generateReadmeFromCsv from "./utils/generateReadmeFromCsv";
@@ -23,7 +24,7 @@ export default {
   },
   data: () => {
     return {
-      readme: undefined,
+      readme: readme,
       watch: ["readme"]
     };
   },
@@ -37,7 +38,7 @@ export default {
     }
   },
   mounted: function() {
-    this.generateMarkdown();
+    // this.generateMarkdown();
   }
 };
 </script>
@@ -52,6 +53,9 @@ html,
   padding: 0;
   margin: 0;
   overflow: hidden;
+}
+.el-scrollbar__wrap {
+  overflow: auto;
 }
 .markdown-body {
   width: 100vw;
@@ -114,7 +118,7 @@ tr :first-child {
 .markdown-body pre {
   font-size: 1em;
   font-family: monospace, monospace;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .markdown-body hr {
