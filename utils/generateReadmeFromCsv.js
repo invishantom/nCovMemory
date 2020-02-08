@@ -1,7 +1,7 @@
 const Papa = require('papaparse');
 // const Mustache = require('Mustache');
 const Handlebars = require('handlebars');
-const { differenceInDays, parse } = require('date-fns');
+const { differenceInDays, parse, compareDesc } = require('date-fns');
 const path = require('path');
 const README_PATH = path.join(__dirname, '..', 'README.md');
 const NON_FICTION_PATH = path.join(__dirname, '..', 'data', 'non-fiction.csv');
@@ -13,7 +13,7 @@ Papa.parse(csv, {
   complete: function(data) {
     let now = new Date();
     data.data.map((entry) => {
-      entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 0;
+      entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
       entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     });
     fs.readFile(path.join(__dirname, '..', 'template', 'README.handlebars'), 'utf8', function(
@@ -21,7 +21,8 @@ Papa.parse(csv, {
       template
     ) {
       data.data.map((entry) => {
-        entry.screenshot = `/archive/png/${entry.screenshot}.png`;
+        entry.screenshot = entry.screenshot ? `/archive/png/${entry.screenshot}.png` : null;
+        entry.title = entry.title.replace('|', '\\|');
       });
 
       let medias = [];
@@ -30,9 +31,15 @@ Papa.parse(csv, {
           medias.push(entry.media);
         }
       }
+      medias.sort(function compareFunction(param1, param2) {
+        return param1.localeCompare(param2, 'zh');
+      });
       let articles = {};
       for (media of medias) {
         articles[media] = data.data.filter((entry) => entry.media === media);
+        articles[media].sort((a, b) =>
+          compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
+        );
       }
       let model = {
         medias,
