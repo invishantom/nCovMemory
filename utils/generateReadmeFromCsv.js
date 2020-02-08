@@ -5,7 +5,7 @@ const { differenceInDays, parse, compareDesc } = require('date-fns');
 const path = require('path');
 const README_PATH = path.join(__dirname, '..', 'README.md');
 const CSV_PATHS = require('../data/index');
-
+var querystring = require('querystring');
 var fs = require('fs');
 
 Papa.parsePromise = function(file, options) {
@@ -13,6 +13,9 @@ Papa.parsePromise = function(file, options) {
     Papa.parse(file, { complete, error, ...options });
   });
 };
+Handlebars.registerHelper('encode', function(string) {
+  return querystring.escape(string);
+});
 async function parseData(csvPath) {
   let now = new Date();
   let csv = fs.readFileSync(csvPath, 'utf8');
@@ -24,6 +27,7 @@ async function parseData(csvPath) {
     entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     entry.screenshot = entry.screenshot ? `/archive/png/${entry.screenshot}.png` : null;
     entry.title = entry.title.replace('|', '\\|');
+
     if (medias.indexOf(entry.media) === -1) {
       medias.push(entry.media);
     }
