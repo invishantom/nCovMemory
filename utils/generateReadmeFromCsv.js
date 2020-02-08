@@ -32,7 +32,7 @@ async function parseData(csvPath) {
   data.data = data.data.filter((entry) => entry.title && entry.media && entry.date && entry.update);
   let medias = [];
   for (let entry of data.data) {
-    entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 0;
+    entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
     entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     entry.screenshot = entry.screenshot
       ? `https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/${entry.screenshot}.png`
