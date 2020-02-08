@@ -90,7 +90,7 @@
   * 报道和非虚构写作：详尽细致或角度新颖，且来自较可信赖的媒体或公众号，尤其是对一线、基层（不只是最受关注的，而是包括各地、各群体、各行业）的非虚构写作和描述性报道。有少量摄影报道。作者不是文中的叙述者或受访者。
 
   * 亲历者个人叙述：疫情影响下的个体记录其见闻和思考的文章。文中的叙述者是作者本人。主要来自微信公众号。
-  
+
   * 本站不收录评论、分析、科普等类别的作品。
 
 ### 项目结构
@@ -422,7 +422,7 @@
 |02-08|🔥 没有人想做这座英雄城市的“城市英雄”|[link](http://www.eeo.com.cn/2020/0208/375909.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-20.png)|[link](http://archive.is/Kyvx4)|
 |02-07|🔥 疯狂的口罩：抢购、运钞车待遇与复工的通行证|[link](http://www.eeo.com.cn/2020/0207/375786.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-18.png)|[link](http://archive.is/CvWwS)|
 |02-07|🔥 武汉时间：从专家组抵达到封城的谜之20天|[link](http://www.eeo.com.cn/2020/0207/375826.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-19.png)|[link](http://archive.is/z8vjn)|
-|02-06|🔥 漩涡中的红十字会|[link](http://www.eeo.com.cn/2020/0208/375909.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-15.png)|[link](http://archive.is/wip/4m4Lf)|
+|02-06|🔥 漩涡中的红十字会|[link](http://www.eeo.com.cn/2020/0206/375753.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-21.png)|[link](http://archive.is/wip/4m4Lf)|
 |02-06|🔥 抗疫一线 \| 华润武钢总医院80后护士余芳：“我们自己是很无畏的”|[link](http://www.eeo.com.cn/2020/0206/375748.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-16.png)|[link](http://archive.is/nDILU)|
 |02-06|🔥 万家宴后的百步亭|[link](http://www.eeo.com.cn/2020/0206/375757.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-17.png)|[link](http://archive.is/3EUh0)|
 |02-05|接待医疗队、隔离疑似病例 这些酒店扛得很艰难|[link](http://www.eeo.com.cn/2020/0205/375613.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/png/jingji-13.png)|[link](https://web.archive.org/web/20200205081335/http://www.eeo.com.cn/2020/0205/375613.shtml)|
