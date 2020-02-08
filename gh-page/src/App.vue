@@ -3,8 +3,6 @@
     <el-scrollbar class="scrollbar">
       <div>
         <div id="github-button-group">
-          <!-- Place this tag where you want the button to render. -->
-          <!-- Place this tag where you want the button to render. -->
           <github-button
             id="repo-button"
             href="https://github.com/2019ncovmemory/nCovMemory"
@@ -12,8 +10,6 @@
             data-size="large"
             aria-label="Watch 2019ncovmemory/nCovMemory on GitHub"
           >Visit Our Repo</github-button>
-          <!-- Place this tag where you want the button to render. -->
-          <!-- Place this tag where you want the button to render. -->
           <div>
             <github-button
               id="star-button"
@@ -23,7 +19,6 @@
               data-size="large"
               aria-label="Star 2019ncovmemory/nCovMemory on GitHub"
             >Star</github-button>
-            <!-- Place this tag where you want the button to render. -->
             <github-button
               id="issue-button"
               href="https://github.com/2019ncovmemory/nCovMemory/issues"
@@ -45,11 +40,10 @@
 </template>
 
 <script>
-import "whatwg-fetch";
+// import template from "../../template/README.handlebars";
+// import data from "../../data/non-fiction.csv";
+// import generateReadmeFromCsv from "./utils/generateReadmeFromCsv";
 import readme from "../../README.md";
-import template from "../../template/README.handlebars";
-import data from "../../data/non-fiction.csv";
-import generateReadmeFromCsv from "./utils/generateReadmeFromCsv";
 import VueMarkdown from "vue-markdown";
 import GithubButton from "vue-github-button";
 
@@ -66,12 +60,12 @@ export default {
     };
   },
   methods: {
-    generateMarkdown: async function() {
-      this.readme = await generateReadmeFromCsv(data, template);
-    },
-    afterRender(string) {
-      return string;
-    }
+    // generateMarkdown: async function() {
+    //   this.readme = await generateReadmeFromCsv(data, template);
+    // },
+    // afterRender(string) {
+    //   return string;
+    // }
   },
   mounted: function() {
     // this.generateMarkdown();
