@@ -221,7 +221,7 @@
 |02-02|双黄连口服液能治新冠肺炎？一场闹剧|[link](https://mp.weixin.qq.com/s/rGMgkgyFifOqKvCd7pkqFA)|[link](/archive/png/caijing-23.png)|[link](https://archive.vn/6D5kz)|
 |02-01|小区封门堵截返城者，这样的防疫措施真的好吗|[link](https://mp.weixin.qq.com/s/orP7RFJfZlOlHQcxN994iQ)|[link](/archive/png/caijing-14.png)|[link](https://archive.vn/WPgUc)|
 |02-01|疫情严重、人员滞留，基层防疫面临重压|[link](https://mp.weixin.qq.com/s/Y4aLKt6waKZeCGAbE0QySA)|[link](/archive/png/caijing-15.png)|[link](https://archive.vn/QHMDF)|
-|02-01|统计数字之外的人：他们死于“普通肺炎”？|[link](https://mp.weixin.qq.com/s/OQGVZlrJWID9Gn4A_T5u_g)|[link](/archive/png/caijing-16A) [link](articles/caijing/caijing-16B.png.png)|[link](https://archive.vn/ZCYfz)|
+|02-01|统计数字之外的人：他们死于“普通肺炎”？|[link](https://mp.weixin.qq.com/s/OQGVZlrJWID9Gn4A_T5u_g)|[link](/archive/png/caijing-16.png)|[link](https://archive.vn/ZCYfz)|
 |02-01|直击武汉：红会掌控物资待发，协和另获捐赠应急|[link](https://mp.weixin.qq.com/s/drRaJ0n09x0iGg7VdzoV0w)|[link](/archive/png/caijing-17.png)|[link](https://archive.vn/bRYws)|
 |02-01|疫情严重、人员滞留，基层防疫面临重压|[link](https://mp.weixin.qq.com/s/Y4aLKt6waKZeCGAbE0QySA)|[link](/archive/png/caijing-18.png)|[link](https://archive.vn/QHMDF)|
 |01-31|餐饮业疫情寒冬：餐厅营收普降八成，外卖小哥一天只接七单|[link](https://mp.weixin.qq.com/s/DVE6WpaKRDE2oMfjrGEPPw)|[link](/archive/png/caijing-12.png)|[link](https://archive.vn/E5Gay)|
