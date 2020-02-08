@@ -27,7 +27,6 @@
   * [财新网](#财新网)
   * [大米和小米](#大米和小米)
   * [第一财经YiMagazine](#第一财经YiMagazine)
-  * [概率论](#概率论)
   * [故事FM](#故事FM)
   * [界面新闻](#界面新闻)
   * [经济观察报](#经济观察报)
@@ -54,7 +53,7 @@
   * [在人间living](#在人间living)
   * [中国经营报](#中国经营报)
   * [GQ报道](#GQ报道)
-* [亲历者叙述](#亲历者叙述)
+* [亲历者个人叙述](#亲历者个人叙述)
   * [全民故事计划](#全民故事计划)
   * [三明治](#三明治)
 * [友情站点](#友情站点)
@@ -309,12 +308,6 @@
 |01-27|封城之前，500多万离开武汉的人都去了哪里？|[link](https://mp.weixin.qq.com/s/r_y_pUAH1hBtRNkHBUYBKA)|[link](/archive/png/diyicaijing-3.png)|[link](https://archive.is/ohZHg)|
 |01-24|面对疫情升级，我们追问10个关键问题|[link](https://mp.weixin.qq.com/s/a4ZV2rUOiWpCb69icJdLtA)|[link](/archive/png/diyicaijing-2.png)|[link](https://archive.is/MSE5V)|
 |01-23|“封城”前的武汉72小时|[link](https://mp.weixin.qq.com/s/y0hV8ICGcI9FxZGAzK2Sbw)|[link](/archive/png/diyicaijing-1.png)|[link](https://archive.is/btkuA)|
-
-### 概率论
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-07|🔥 抱歉，李文亮医生。|[link](https://mp.weixin.qq.com/s/qsVykfA9LW0oN5NddzBnNA)|[link](/archive/png/gailv-1.png)|[link](https://archive.is/7wC5F)|
 
 ### 故事FM
 
@@ -704,7 +697,7 @@
 |01-28|武汉隔离：疫区、信息孤岛与一辆鄂A车的漂流|[link](https://mp.weixin.qq.com/s/M-hVivF7NQmZHlu8YMnL_w)|[link](/archive/png/gq-14.png)|[link](http://archive.is/3XKZD)|
 |01-27|10000个临时发往武汉的口罩|[link](https://mp.weixin.qq.com/s/p-uPky_zB6XKcAetthqkKg)|[link](/archive/png/gq-1.png)|[link](https://archive.ph/9s1ug)|
 
-## 亲历者叙述
+## 亲历者*个人*叙述
 
 ### 全民故事计划
 
