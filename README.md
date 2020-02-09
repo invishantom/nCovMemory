@@ -116,20 +116,19 @@
 ### 项目结构
 
 ```
-├─archive                          文章的存档，目前仅有png格式
-│  └─png
-│    └─beiqing-1.png
+├─archive                          文章的存档，目前提供jpg格式
+│  └─jpg
+│    ├─1.jpg
 │    └─...
 ├─data                             csv格式的文章数据
-│  └─non-fiction.csv
-│  └─narrative.csv
-├─docs                             一个用于展示README的github page (施工中)
+│  └─data.csv
+├─docs                             一个用于展示README的github page
 ├─gh-page
 ├─template                         README模板
 │  └─README.handlebars
-├─utils                            根据文章数据生成README的工具
-│  └─extractCSVFromReadme.js
-│  └─generateReadmeFromCsv.js
+├─utils                            构建README的工具
+│  ├─generateReadmeFromCsv.js
+│  └─...
 └─README.md                        主文档
 ```
 
