@@ -4,9 +4,9 @@ const Handlebars = require('handlebars');
 const { differenceInDays, parse, compareDesc } = require('date-fns');
 var querystring = require('querystring');
 var fs = require('fs-extra');
-const ARCHIVE = require('../archive/index');
+const ARCHIVE = require('../archive/index.js');
 const README_PATH = path.join(__dirname, '..', 'README.md');
-const DATA = require('../data/index');
+const DATA = require('../data/index.js');
 
 Papa.parsePromise = function(file, options) {
   return new Promise(function(complete, error) {
