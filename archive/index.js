@@ -5,7 +5,8 @@ const PUBLIC_PATH =
 const fs = require('fs');
 let index = {};
 
-let cats = fs.readdirSync(__dirname).filter((cat) => cat !== 'index.js');
+const isDirectory = (source) => fs.lstatSync(source).isDirectory();
+let cats = fs.readdirSync(__dirname).filter((cat) => isDirectory(cat));
 for (cat of cats) {
   fs.readdirSync(path.join(__dirname, cat)).forEach((name) => {
     let id = name.replace(/\.\w*$/, '');
