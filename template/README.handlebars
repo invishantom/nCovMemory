@@ -23,11 +23,11 @@
 * [联系](#联系)
 * [传媒报道与非虚构写作](#传媒报道与非虚构写作)
 {{#each non_fiction.medias}}
-  * [{{@this}}](#{{encode @this}})
+  * [{{@this}}](#{{link @this}})
 {{/each}}
 * [亲历者个人叙述](#亲历者个人叙述)
 {{#each narrative.medias}}
-  * [{{@this}}](#{{encode @this}})
+  * [{{@this}}](#{{link @this}})
 {{/each}}
 * [友情站点](#友情站点)
 
@@ -121,7 +121,7 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 {{#each @this}}
-|{{date}}|{{#if is_new}}🔥 {{/if}}{{title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link]({{{url}}}){{/if}}|{{#if screenshot}}[link]({{{screenshot}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link]({{{url}}}){{/if}}|{{#if webp}}[link]({{{webp}}}){{else if png}}[link]({{{png}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
 {{/each}}
 
 {{/each}}
@@ -133,7 +133,7 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 {{#each @this}}
-|{{date}}|{{#if is_new}}🔥 {{/if}}{{title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link]({{{url}}}){{/if}}|{{#if screenshot}}[link]({{{screenshot}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title}}|{{#if is_deleted}}❌<sup>*[转载]({{{url}}})*</sup>{{else}}[link]({{{url}}}){{/if}}|{{#if webp}}[link]({{{webp}}}){{else if png}}[link]({{{png}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
 {{/each}}
 
 {{/each}}
