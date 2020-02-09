@@ -69,11 +69,11 @@ async function generate() {
     model[cat].medias.sort(function compareFunction(param1, param2) {
       return param1.localeCompare(param2, 'zh');
     });
-    for (let media in model[cat].articles) {
-      model[cat].articles[media].sort((a, b) =>
-        compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
-      );
+    let orderedArticles = {};
+    for (media of model[cat].medias) {
+      orderedArticles[media] = model[cat].articles;
     }
+    model.articles = orderedArticles;
   }
 
   let template = fs.readFileSync(
