@@ -15,7 +15,7 @@ Papa.parsePromise = function(file, options) {
 };
 Handlebars.registerHelper('encode', function(string) {
   // return encodeURIComponent(string);
-  return (string = string.replace(/[\(|\)|（|）|<|>|《|》|【|】|\[|\]]/g, '').toLowerCase());
+  return (string = string.replace(/[\(|\)|（|）|<|>|《|》|【|】|\[|\]|、|\/]/g, '').toLowerCase());
 });
 Handlebars.registerHelper('index', function(string) {
   return (string = string.replace('（个体）', ''));
