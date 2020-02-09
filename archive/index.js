@@ -1,5 +1,7 @@
 var path = require('path');
-const PUBLIC_PATH = 'https://github.com/2019ncovmemory/nCovMemory/blob/master/archive';
+// const PUBLIC_PATH = 'https://github.com/2019ncovmemory/nCovMemory/blob/master/archive';
+const PUBLIC_PATH =
+  'https://github.com/2019ncovmemory/nCovMemory/tree/features/picture-compression/archive';
 const fs = require('fs');
 let index = {};
 
