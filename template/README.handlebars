@@ -121,7 +121,7 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 {{#each @this}}
-|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title}}|{{#if is_deleted}}[❌]({{{url}}}){{#if alternative}}<sup>*[转载]({{{alternative}}})*</sup>{{/if}}{{else}}[link]({{{url}}}){{/if}}|{{#if jpg}}[link]({{{jpg}}}){{else if png}}[link]({{{png}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title}}|{{#if is_deleted}}[❌]({{{url}}}){{#if alternative}}<sup>*[转载]({{{alternative}}})*</sup>{{/if}}{{else}}[link]({{{url}}}){{/if}}|{{#if jpg}}[link]({{{jpg}}}){{else if png}}[link]({{{png}}}){{else}}待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}待补{{/if}}|
 {{/each}}
 
 {{/each}}
@@ -133,7 +133,7 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 {{#each @this}}
-|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title}}|{{#if is_deleted}}[❌]({{{url}}}){{#if alternative}}<sup>*[转载]({{{alternative}}})*</sup>{{/if}}{{else}}[link]({{{url}}}){{/if}}|{{#if webp}}[link]({{{webp}}}){{else if png}}[link]({{{png}}}){{else}}⚠️待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}⚠️待补{{/if}}|
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title}}|{{#if is_deleted}}[❌]({{{url}}}){{#if alternative}}<sup>*[转载]({{{alternative}}})*</sup>{{/if}}{{else}}[link]({{{url}}}){{/if}}|{{#if webp}}[link]({{{webp}}}){{else if png}}[link]({{{png}}}){{else}}待补{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}待补{{/if}}|
 {{/each}}
 
 {{/each}}
