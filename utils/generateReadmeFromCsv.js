@@ -48,6 +48,8 @@ async function generate() {
   // Extract medias and articles
   for (let entry of data) {
     // Calculate attributes
+    entry.title = entry.title.trim();
+    entry.media = entry.media.trim();
     entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
     entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     if (ARCHIVE.hasOwnProperty(entry.id)) {
