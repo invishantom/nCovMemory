@@ -43,7 +43,7 @@ async function generate() {
   // Read csv
   let { data } = await Papa.parsePromise(csv, { header: true });
   data = data.filter(
-    (entry) => entry.id && entry.title && entry.media && entry.date && entry.update && entry.url
+    (entry) => entry.id && entry.title && entry.media && entry.date && entry.update
   );
   // Extract medias and articles
   for (let entry of data) {
