@@ -214,7 +214,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
-|02-08|🔥 被声讨的“晋江毒王”：感到很抱歉，可我没撒谎|❌<sup>*[转载](https://mp.weixin.qq.com/s/bJH5M8ZH05x4OasdXiJ72w)*</sup>|⚠️待补|[link](https://archive.is/UgYVA)|
+|02-08|🔥 被声讨的“晋江毒王”：感到很抱歉，可我没撒谎|[❌](https://mp.weixin.qq.com/s/bJH5M8ZH05x4OasdXiJ72w)|⚠️待补|[link](https://archive.is/UgYVA)|
 |02-07|送别李文亮医生：愿天堂不再有病毒|[link](https://mp.weixin.qq.com/s/je-2p-N2cCcKYtxIAcuA7A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/390.png)|[link](http://archive.is/PjqoS)|
 |02-06|一名中国人在菲律宾的隔离日记|[link](https://mp.weixin.qq.com/s/QT7tuiR7OfFIOHEG9zB-jQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/364.png)|[link](http://archive.is/laQr0)|
 |02-05|鄂A牌车30小时归乡记|[link](https://mp.weixin.qq.com/s/3rEWz5fSvPvSJTaGZkEcCQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/363.png)|[link](http://archive.is/pTg0b#selection-41.64-41.75)|
@@ -442,8 +442,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
-|02-04|🔥 武汉病人：以家庭为单位的患者越来越多，去殡仪馆也得排队|❌<sup>*[转载](https://www.aigupiao.com/news/agpdetail/id/156037)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/467.png)|[link](https://web.archive.org/web/20200208123128/https://www.aigupiao.com/news/agpdetail/id/156037)|
-|02-05|拉医生的武汉“司机们”：约好了“战后”酒局却不知彼此长相|❌<sup>*[转载](http://archive.ph/Ul3qi)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/370.png)|[link](http://archive.ph/Ul3qi)|
+|02-04|🔥 武汉病人：以家庭为单位的患者越来越多，去殡仪馆也得排队|[❌](https://www.aigupiao.com/news/agpdetail/id/156037)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/467.png)|[link](https://web.archive.org/web/20200208123128/https://www.aigupiao.com/news/agpdetail/id/156037)|
+|02-05|拉医生的武汉“司机们”：约好了“战后”酒局却不知彼此长相|[❌](http://archive.ph/Ul3qi)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/370.png)|[link](http://archive.ph/Ul3qi)|
 |02-05|卖菜、扔菜、闭店 疫情影响下的京城餐饮|[link](https://mp.weixin.qq.com/s/dmm5iWN-jHEkLGevr1hcjA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/369.png)|[link](http://archive.ph/nXAnh)|
 |02-02|武汉疫情“吹哨人”李文亮：每天都要打抗生素丨新冠肺炎亲历|[link](https://mp.weixin.qq.com/s/_CQ-yspTT2OQNHjVf9jVSg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/368.png)|[link](http://archive.ph/AsbNP)|
 |01-26|重回武汉肺炎起点：卖野味的华南市场老板是谁？|[link](https://mp.weixin.qq.com/s/Sy78Nr4y5rxn28jdjJlJbA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/15.png)|[link](https://archive.is/yTFp3)|
@@ -455,7 +455,7 @@
 |02-08|🔥 政府该如何公开疫情信息|[link](https://mp.weixin.qq.com/s/irhUiT-J7wACtp1Mi9968Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/463.png)|[link](http://archive.ph/aC4ze)|
 |02-08|🔥 疫情的第二条战线|[link](https://mp.weixin.qq.com/s/PJCWbGq9HQJmsOeJRJ2Wbg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/462.png)|[link](http://archive.ph/j01Ft)|
 |02-07|湖北多地告急 16省“一省包一市”支援武汉以外地市|[link](https://mp.weixin.qq.com/s/zZ-WsZKneDxGlDgW63je5Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/389.png)|[link](http://archive.ph/dGlkr)|
-|02-07|与“吹哨者”李文亮的最后对话：如果再来一次我还是会说|❌<sup>*[转载](https://news.ifeng.com/c/7trthoYMTLh)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/388.png)|[link](https://web.archive.org/web/20200207065239/https://news.ifeng.com/c/7trthoYMTLh)|
+|02-07|与“吹哨者”李文亮的最后对话：如果再来一次我还是会说|[❌](https://news.ifeng.com/c/7trthoYMTLh)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/388.png)|[link](https://web.archive.org/web/20200207065239/https://news.ifeng.com/c/7trthoYMTLh)|
 |02-07|与李文亮的最后对话：如果康复了，我还会当大夫|[link](https://mp.weixin.qq.com/s/Y8FCwR9zjXomg_A6YjXf0g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/387.png)|[link](http://archive.ph/uteOz)|
 |02-07|送别李文亮医生|[link](https://mp.weixin.qq.com/s/X8C92GYQVXrz2Mz07cevXA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/386.png)|[link](http://archive.ph/c87dD)|
 |02-05|最后一道防线|[link](https://mp.weixin.qq.com/s/akX0GrqhjKtsm6s-crVttA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/349.png)|[link](http://archive.ph/iJOOF)|
@@ -663,7 +663,7 @@
 |02-05|疫情下创业者艰难自救：仿佛突然被按下了暂停键|[link](https://mp.weixin.qq.com/s/NyfeQt2F5-pr7-TkslvEHA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/382.png)|[link](http://archive.ph/3Q9Co)|
 |01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/225.png)|[link](https://web.archive.org/web/20200206043047/https://www.jiemian.com/article/3911556.html)|
 |01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺|[link](https://new.qq.com/omn/20200125/20200125A0E4IZ00.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/224.png)|[link](https://archive.ph/8S0kD)|
-|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|❌<sup>*[转载](https://user.guancha.cn/main/content?id=231432&s=fwzwyzzwzbt)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/223.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
+|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[❌](https://user.guancha.cn/main/content?id=231432&s=fwzwyzzwzbt)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/223.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
 |01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://mp.weixin.qq.com/s/OO7W-6wToMxi7BJE8i-u9w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/features/archive-with-id/archive/png/222.png)|[link](https://archive.is/RK14U)|
 
 ### 南方都市报

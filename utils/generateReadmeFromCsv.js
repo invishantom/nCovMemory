@@ -71,9 +71,16 @@ async function generate() {
     });
     let orderedArticles = {};
     for (media of model[cat].medias) {
-      orderedArticles[media] = model[cat].articles;
+      orderedArticles[media] = model[cat].articles[media];
+      orderedArticles[media].sort(
+        (a, b) =>
+          compareDesc(
+            parse(a.update, 'MM-dd', new Date()),
+            parse(b.update, 'MM-dd', new Date())
+          ) !== 1
+      );
+      model.articles = orderedArticles;
     }
-    model.articles = orderedArticles;
   }
 
   let template = fs.readFileSync(
