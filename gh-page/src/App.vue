@@ -60,35 +60,20 @@ export default {
     };
   },
   methods: {
-    // generateMarkdown: async function() {
-    //   this.readme = await generateReadmeFromCsv(data, template);
-    // },
-    // afterRender(string) {
-    //   return string;
-    // }
-    scroll(hash) {
+    scroll(hash, smooth) {
       let target = document.querySelector(
         `.toc-anchor[href="${decodeURIComponent(hash)}"]`
       );
-      target.scrollIntoView();
+      if (target) {
+        target.scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
+      }
     }
   },
   mounted: function() {
-    // this.generateMarkdown();
-    window.addEventListener(
-      "hashchange",
-      function(e) {
-        this.scroll(e.newURL.hash);
-      },
-      false
-    );
-    window.addEventListener(
-      "load",
-      () => {
-        this.scroll(location.hash);
-      },
-      false
-    );
+    this.scroll(window.location.hash);
+    window.addEventListener("hashchange", e => {
+      this.scroll(e.target.document.location.hash);
+    });
   }
 };
 </script>
