@@ -19,31 +19,39 @@ let model = {
   narrative: { articles: {}, medias: [] },
   non_fiction: { articles: {}, medias: [] }
 };
+
+// Escape Markdown Link
 Handlebars.registerHelper('link', function(string) {
   // return encodeURIComponent(string);
   return (string = string.replace(/[\(|\)|（|）|<|>|《|》|【|】|\[|\]|、|\/]/g, '').toLowerCase());
 });
+
+// Escape Markdown Table
 Handlebars.registerHelper('table', function(string) {
   return (string = string.replace(/\|/g, '\\|'));
 });
+
+// Indicate Narratives
 Handlebars.registerHelper('narrative', function(string) {
   if (Object.keys(model['non_fiction'].articles).indexOf(string) !== -1) {
     string = `${string}（个体）`;
   }
   return string;
 });
+
 Handlebars.registerHelper('narrative_link', function(string) {
   if (Object.keys(model['non_fiction'].articles).indexOf(string) !== -1) {
     string = `${string}（个体）`;
   }
   return (string = string.replace(/[\(|\)|（|）|<|>|《|》|【|】|\[|\]|、|\/]/g, '').toLowerCase());
 });
-function renameKey(o, old_key, new_key) {
-  if (old_key !== new_key) {
-    Object.defineProperty(o, new_key, Object.getOwnPropertyDescriptor(o, old_key));
-    delete o[old_key];
-  }
-}
+
+// function renameKey(o, old_key, new_key) {
+//   if (old_key !== new_key) {
+//     Object.defineProperty(o, new_key, Object.getOwnPropertyDescriptor(o, old_key));
+//     delete o[old_key];
+//   }
+// }
 
 async function generate() {
   let now = new Date();
@@ -84,11 +92,12 @@ async function generate() {
         compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
       );
     }
+    model[cat].articles = orderedArticles;
+    model[cat].medias = Object.keys(model[cat].articles);
+    // Sort by name, no longer used
     // model[cat].medias.sort(function compareFunction(param1, param2) {
     //   return param1.localeCompare(param2, 'zh');
     // });
-    model[cat].articles = orderedArticles;
-    model[cat].medias = Object.keys(model[cat].articles);
   }
 
   // for (media in model['narrative'].articles) {
