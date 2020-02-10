@@ -31,7 +31,7 @@
           </div>
         </div>
         <div class="markdown-body">
-          <VueMarkdown :source="readme" :toc="true" :postrender="afterRender"></VueMarkdown>
+          <VueMarkdown :source="readme" :toc="true"></VueMarkdown>
           <el-backtop target=".el-scrollbar__wrap"></el-backtop>
         </div>
       </div>
@@ -66,9 +66,29 @@ export default {
     // afterRender(string) {
     //   return string;
     // }
+    scroll(hash) {
+      let target = document.querySelector(
+        `.toc-anchor[href="${decodeURIComponent(hash)}"]`
+      );
+      target.scrollIntoView();
+    }
   },
   mounted: function() {
     // this.generateMarkdown();
+    window.addEventListener(
+      "hashchange",
+      function(e) {
+        this.scroll(e.newURL.hash);
+      },
+      false
+    );
+    window.addEventListener(
+      "load",
+      () => {
+        this.scroll(location.hash);
+      },
+      false
+    );
   }
 };
 </script>
