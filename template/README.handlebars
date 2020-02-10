@@ -27,7 +27,7 @@
 {{/each}}
 * [亲历者个人叙述](#亲历者个人叙述)
 {{#each narrative.medias}}
-  * [{{@this}}](#{{link @this}})
+  * [{{narrative @this}}](#{{narrative_link @this}})
 {{/each}}
 * [友情站点](#友情站点)
 
@@ -125,7 +125,7 @@
 ## 亲历者个人叙述
 
 {{#each narrative.articles}}
-### {{@key}}
+### {{narrative @key}}
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
