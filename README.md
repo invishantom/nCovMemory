@@ -22,7 +22,6 @@
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](#传媒报道与非虚构写作)
-  * [女孩别怕](#女孩别怕)
   * [北青深一度](#北青深一度)
   * [冰点周刊](#冰点周刊)
   * [剥洋葱people](#剥洋葱people)
@@ -67,6 +66,7 @@
   * [人间像素](#人间像素)
   * [世间有味](#世间有味)
   * [大米和小米](#大米和小米)
+  * [女孩别怕](#女孩别怕)
 * [亲历者个人叙述](#亲历者个人叙述)
   * [央视新闻](#央视新闻)
   * [单读](#单读)
@@ -170,15 +170,6 @@
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
 
 ## 传媒报道与非虚构写作
-
-### 女孩别怕
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-03|我的「抗疫」日记：濒临死亡时，我给家人留了告别视频|[link](https://mp.weixin.qq.com/s/gmj0YbodxxTTmxVBdmU7WQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/136.jpg)|[link](http://archive.ph/RgCQt)|
-|01-31|外国人眼里的疫情中国：唱国歌，喝蝙蝠汤和只相信政府的中国人|[link](https://mp.weixin.qq.com/s/qF9UYXx0q-tDTJ9AJDaaaw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/135.jpg)|[link](https://archive.vn/zxSzD)|
-|01-30|疫情下的海外华人：孤立、恐慌、种族歧视和鼓励|[link](https://mp.weixin.qq.com/s/-Z0FwcTUQezsdoUAArhWMA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/134.jpg)|[link](https://archive.vn/yvdyW)|
-|01-27|确诊两天后去世，但官方没有他的名字：六个湖北女孩的封城日记|[link](https://mp.weixin.qq.com/s/bdMSA_DDTYkZhUout2KauQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/133.jpg)|[link](https://archive.vn/OF4n5)|
 
 ### 北青深一度
 
@@ -977,6 +968,15 @@
 |---|:----------|---|---|---|
 |01-31|湖北17岁脑瘫儿死亡前一天，父亲多次拨打120和110求助无果|[link](https://mp.weixin.qq.com/s/_kgcFgzKW_tPNuzXlLVllg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/239.jpg)|[link](https://archive.vn/mJdmX)|
 |01-29|家人疑似新冠肺炎被隔离，湖北17岁脑瘫儿独自在家6天后死亡|[link](https://mp.weixin.qq.com/s/SBEprNCnqygInRWWXbywEw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/238.jpg)|[link](https://archive.is/idasq)|
+
+### 女孩别怕
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|02-03|我的「抗疫」日记：濒临死亡时，我给家人留了告别视频|[link](https://mp.weixin.qq.com/s/gmj0YbodxxTTmxVBdmU7WQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/136.jpg)|[link](http://archive.ph/RgCQt)|
+|01-31|外国人眼里的疫情中国：唱国歌，喝蝙蝠汤和只相信政府的中国人|[link](https://mp.weixin.qq.com/s/qF9UYXx0q-tDTJ9AJDaaaw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/135.jpg)|[link](https://archive.vn/zxSzD)|
+|01-30|疫情下的海外华人：孤立、恐慌、种族歧视和鼓励|[link](https://mp.weixin.qq.com/s/-Z0FwcTUQezsdoUAArhWMA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/134.jpg)|[link](https://archive.vn/yvdyW)|
+|01-27|确诊两天后去世，但官方没有他的名字：六个湖北女孩的封城日记|[link](https://mp.weixin.qq.com/s/bdMSA_DDTYkZhUout2KauQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/133.jpg)|[link](https://archive.vn/OF4n5)|
 
 ## 亲历者个人叙述
 
