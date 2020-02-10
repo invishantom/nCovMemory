@@ -7,7 +7,10 @@
     "update": "yarn fetch && yarn build ",
     "fetch": "node fetch.js",
     "build": "node generateReadmeFromCsv.js && cd ../gh-page && yarn build",
-    "test": "cp ./dist/* -Destination ../"
+    "test": "cp ./dist/* -Destination ../",
+    "cron": "pm2 start cron.js",
+    "stop": "pm2 stop cron.js",
+    "deploy": "git add -A && git commit -m \"automatic build && git push\""
   },
   "dependencies": {
     "await-stream-ready": "^1.0.1",

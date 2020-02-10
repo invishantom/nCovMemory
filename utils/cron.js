@@ -3,10 +3,11 @@ var CronJob = require('cron').CronJob;
 const DATA = require('../data/index');
 var diff = require('diff');
 var fs = require('fs');
-let execAsync = function(command) {
+var path = require('path');
+let execAsync = function(command, cwd) {
   return new Promise((resolve, reject) => {
-    child.exec(command, (e, o, err) => {
-      if (e || err) {
+    child.exec(command, { detached: true, windowsHide: true, cwd }, (e, o, err) => {
+      if (err) {
         reject(err);
       } else {
         resolve(o);
@@ -16,14 +17,14 @@ let execAsync = function(command) {
 };
 
 var job = new CronJob(
-  '*/5 * * * * *',
+  '*/15 * * * * *',
   async function() {
     let oldCsv = fs.readFileSync(DATA['data'].path, 'utf8');
     await execAsync('yarn fetch');
     let newCsv = fs.readFileSync(DATA['data'].path, 'utf8');
     if (oldCsv !== newCsv) {
-      await execAsync('git add .');
-      await execAsync('git commit -m "automatic build"');
+      await execAsync('yarn build');
+      await execAsync('git add -A && git commit -m "automatic build && git push"');
     }
   },
   null,
