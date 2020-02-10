@@ -80,7 +80,6 @@ async function generate() {
       );
     }
     model[cat].articles = orderedArticles;
-    console.log(model[cat].articles);
   }
 
   let template = fs.readFileSync(
