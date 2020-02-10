@@ -24,7 +24,7 @@ var job = new CronJob(
     let newCsv = fs.readFileSync(DATA['data'].path, 'utf8');
     if (oldCsv !== newCsv) {
       await execAsync('yarn build');
-      await execAsync('git add -A && git commit -m "automatic build" && git push');
+      await execAsync('yarn deploy');
     }
   },
   null,

@@ -10,7 +10,7 @@
     "test": "cp ./dist/* -Destination ../",
     "cron": "pm2 start cron.js",
     "stop": "pm2 stop cron.js",
-    "deploy": "git add -A && git commit -m \"automatic build\" && git push"
+    "deploy": "git add -A && git commit -m \"deploy\" && git push"
   },
   "dependencies": {
     "await-stream-ready": "^1.0.1",
