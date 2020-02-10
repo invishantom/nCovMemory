@@ -4,9 +4,9 @@ const Handlebars = require('handlebars');
 const { differenceInDays, parse, compareDesc } = require('date-fns');
 var querystring = require('querystring');
 var fs = require('fs-extra');
-const ARCHIVE = require('../archive/index.js');
+const ARCHIVE = require('../archive/index');
 const README_PATH = path.join(__dirname, '..', 'README.md');
-const DATA = require('../data/index.js');
+const DATA = require('../data/index');
 
 Papa.parsePromise = function(file, options) {
   return new Promise(function(complete, error) {
@@ -81,8 +81,9 @@ async function generate() {
             parse(b.update, 'MM-dd', new Date())
           ) !== 1
       );
-      model.articles = orderedArticles;
     }
+    model[cat].articles = orderedArticles;
+    console.log(model[cat].articles);
   }
 
   let template = fs.readFileSync(
