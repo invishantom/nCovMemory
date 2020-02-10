@@ -7,6 +7,8 @@ var fs = require('fs-extra');
 const ARCHIVE = require('../archive/index');
 const README_PATH = path.join(__dirname, '..', 'README.md');
 const DATA = require('../data/index');
+const ORDERING = require('../template/ordering.json');
+const TEMPLATE_PATH = path.join(__dirname, '..', 'template', 'README.handlebars');
 
 Papa.parsePromise = function(file, options) {
   return new Promise(function(complete, error) {
@@ -20,10 +22,6 @@ Handlebars.registerHelper('link', function(string) {
 });
 Handlebars.registerHelper('table', function(string) {
   return (string = string.replace(/\|/g, '\\|'));
-});
-
-Handlebars.registerHelper('index', function(string) {
-  return (string = string.replace('（个体）', ''));
 });
 
 function renameKey(o, old_key, new_key) {
@@ -61,34 +59,36 @@ async function generate() {
     }
     model[entry.category].articles[entry.media].push(entry);
   }
-  // console.log(model);
+
+  // Sort
+  for (let cat in model) {
+    let orderedArticles = {};
+    for (let expectedMedia of ORDERING[cat]) {
+      console.log(`Generating ${expectedMedia} ...`);
+      orderedArticles[expectedMedia] = model[cat].articles[expectedMedia];
+      delete model[cat].articles[expectedMedia];
+    }
+    orderedArticles = Object.assign(model[cat].articles, orderedArticles);
+    for (let media in orderedArticles) {
+      orderedArticles[media].sort((a, b) =>
+        compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
+      );
+    }
+    // model[cat].medias.sort(function compareFunction(param1, param2) {
+    //   return param1.localeCompare(param2, 'zh');
+    // });
+    model[cat].articles = orderedArticles;
+    model[cat].medias = Object.keys(model[cat].articles);
+  }
+
   for (media in model['narrative'].articles) {
     if (Object.keys(model['non_fiction'].articles).indexOf(media) !== -1) {
       renameKey(model['narrative'].articles, media, `${media}（个体）`);
     }
   }
-  // Sort
-  for (let cat in model) {
-    model[cat].medias = Object.keys(model[cat].articles);
-    model[cat].medias.sort(function compareFunction(param1, param2) {
-      return param1.localeCompare(param2, 'zh');
-    });
-    let orderedArticles = {};
-    for (media of model[cat].medias) {
-      orderedArticles[media] = model[cat].articles[media];
+  model['narrative'].medias = Object.keys(model['narrative'].articles);
 
-      console.log(`Generating ${media} ...`);
-      orderedArticles[media] = orderedArticles[media].sort((a, b) =>
-        compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
-      );
-    }
-    model[cat].articles = orderedArticles;
-  }
-
-  let template = fs.readFileSync(
-    path.join(__dirname, '..', 'template', 'README.handlebars'),
-    'utf8'
-  );
+  let template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
   let runtime = Handlebars.compile(template);
   const output = runtime(model);
   fs.writeFileSync(README_PATH, output, 'utf-8');
