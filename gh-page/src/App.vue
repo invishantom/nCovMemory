@@ -32,7 +32,7 @@
         </div>
         <div class="markdown-body">
           <VueMarkdown :source="readme" :toc="true"></VueMarkdown>
-          <el-backtop target=".el-scrollbar__wrap"></el-backtop>
+          <el-backtop target=".el-scrollbar__wrap" @click="emptyHash"></el-backtop>
         </div>
       </div>
     </el-scrollbar>
@@ -40,9 +40,6 @@
 </template>
 
 <script>
-// import template from "../../template/README.handlebars";
-// import data from "../../data/non-fiction.csv";
-// import generateReadmeFromCsv from "./utils/generateReadmeFromCsv";
 import readme from "../../README.md";
 import VueMarkdown from "vue-markdown";
 import GithubButton from "vue-github-button";
@@ -61,16 +58,30 @@ export default {
   },
   methods: {
     scroll(hash, smooth) {
-      let target = document.querySelector(
-        `.toc-anchor[href="${decodeURIComponent(hash)}"]`
-      );
-      if (target) {
-        target.scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
+      if (hash) {
+        let target = document.querySelector(
+          `.toc-anchor[href="${decodeURIComponent(hash)}"]`
+        );
+        if (target) {
+          target.scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
+        }
+      } else {
+        document
+          .querySelector("#目录")
+          .scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
       }
+    },
+    emptyHash() {
+      document.location.hash = "";
     }
   },
   mounted: function() {
-    this.scroll(window.location.hash);
+    if (window.location.hash) {
+      this.scroll(window.location.hash);
+    }
+    document.querySelectorAll('a[href^="http"]').forEach(anchor => {
+      anchor.setAttribute("target", "_blank");
+    });
     window.addEventListener("hashchange", e => {
       this.scroll(e.target.document.location.hash);
     });
