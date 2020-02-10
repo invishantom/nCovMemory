@@ -12,7 +12,9 @@
   "dependencies": {
     "await-stream-ready": "^1.0.1",
     "convert-array-to-csv": "^1.0.9",
+    "cron": "^1.8.2",
     "date-fns": "^2.9.0",
+    "diff": "^4.0.2",
     "fs-extra": "^8.1.0",
     "handlebars": "^4.7.3",
     "node-fetch": "^2.6.0",
