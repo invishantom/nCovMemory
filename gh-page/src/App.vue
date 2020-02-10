@@ -79,9 +79,12 @@ export default {
     if (window.location.hash) {
       this.scroll(window.location.hash);
     }
-    document.querySelectorAll('a[href^="http"]').forEach(anchor => {
-      anchor.setAttribute("target", "_blank");
+    window.addEventListener("load", () => {
+      document.querySelectorAll('a[href^="http"]').forEach(anchor => {
+        anchor.setAttribute("target", "_blank");
+      });
     });
+
     window.addEventListener("hashchange", e => {
       this.scroll(e.target.document.location.hash);
     });
