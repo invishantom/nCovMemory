@@ -22,7 +22,6 @@
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](#传媒报道与非虚构写作)
-  * [女孩別怕](#女孩別怕)
   * [北青深一度](#北青深一度)
   * [冰点周刊](#冰点周刊)
   * [剥洋葱people](#剥洋葱people)
@@ -173,15 +172,6 @@
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
 
 ## 传媒报道与非虚构写作
-
-### 女孩別怕
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-10|🔥 穿越疫情封锁线：4天,23个药店,90通电话,我终于在湖北买到抑郁药|[link](https://mp.weixin.qq.com/s/AehqNkBQ60mEqz6iWFWwBw)|待补|[link](http://archive.ph/x6l0l)|
-|02-09|🔥 我是个武汉「逃兵」，我是个卑鄙的人吗？|[link](https://mp.weixin.qq.com/s/vmkZsDpMgUV9Gbz5LhaRGQ)|待补|[link](http://archive.ph/9g2R7)|
-|02-08|🔥 武汉协和医生：我从没穿过这么贵的防护服|[link](https://mp.weixin.qq.com/s/3nuGeMwtdPZUmu7Qgo73_g)|待补|[link](http://archive.ph/nJPec)|
-|02-05|🔥 边境线上测体温、每天接诊40余囚犯：疫情不耽误我上班|[link](https://mp.weixin.qq.com/s/S7wmMRp34EKOBwsHyTtRHw)|待补|[link](http://archive.ph/hm8Pv)|
 
 ### 北青深一度
 
@@ -1018,6 +1008,10 @@
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
+|02-10|🔥 穿越疫情封锁线：4天,23个药店,90通电话,我终于在湖北买到抑郁药|[link](https://mp.weixin.qq.com/s/AehqNkBQ60mEqz6iWFWwBw)|待补|[link](http://archive.ph/x6l0l)|
+|02-09|🔥 我是个武汉「逃兵」，我是个卑鄙的人吗？|[link](https://mp.weixin.qq.com/s/vmkZsDpMgUV9Gbz5LhaRGQ)|待补|[link](http://archive.ph/9g2R7)|
+|02-08|🔥 武汉协和医生：我从没穿过这么贵的防护服|[link](https://mp.weixin.qq.com/s/3nuGeMwtdPZUmu7Qgo73_g)|待补|[link](http://archive.ph/nJPec)|
+|02-05|🔥 边境线上测体温、每天接诊40余囚犯：疫情不耽误我上班|[link](https://mp.weixin.qq.com/s/S7wmMRp34EKOBwsHyTtRHw)|待补|[link](http://archive.ph/hm8Pv)|
 |02-03|我的「抗疫」日记：濒临死亡时，我给家人留了告别视频|[link](https://mp.weixin.qq.com/s/gmj0YbodxxTTmxVBdmU7WQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/136.jpg)|[link](http://archive.ph/RgCQt)|
 |01-31|外国人眼里的疫情中国：唱国歌，喝蝙蝠汤和只相信政府的中国人|[link](https://mp.weixin.qq.com/s/qF9UYXx0q-tDTJ9AJDaaaw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/135.jpg)|[link](https://archive.vn/zxSzD)|
 |01-30|疫情下的海外华人：孤立、恐慌、种族歧视和鼓励|[link](https://mp.weixin.qq.com/s/-Z0FwcTUQezsdoUAArhWMA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/134.jpg)|[link](https://archive.vn/yvdyW)|
