@@ -71,28 +71,27 @@
   * [中国经营报](#中国经营报)
   * [GQ报道](#gq报道)
 * [亲历者个人叙述](#亲历者个人叙述)
-  * [冰点周刊](#冰点周刊)
+  * [冰点周刊（个体）](#冰点周刊个体)
   * [单读](#单读)
   * [二毛的杂笔](#二毛的杂笔)
   * [海螺社区](#海螺社区)
   * [江与湖](#江与湖)
   * [阑夕](#阑夕)
-  * [南方周末/南方人物周刊](#南方周末南方人物周刊)
+  * [南方周末/南方人物周刊（个体）](#南方周末南方人物周刊个体)
   * [全民故事计划（个体）](#全民故事计划个体)
   * [人间theLivings（个体）](#人间thelivings个体)
-  * [三联生活周刊](#三联生活周刊)
-  * [三明治](#三明治)
+  * [三联生活周刊（个体）](#三联生活周刊个体)
   * [三明治（个体）](#三明治个体)
-  * [商业人物](#商业人物)
-  * [腾讯新闻《潜望》](#腾讯新闻潜望)
-  * [物质生活参考](#物质生活参考)
+  * [商业人物（个体）](#商业人物个体)
+  * [腾讯新闻《潜望》（个体）](#腾讯新闻潜望个体)
+  * [物质生活参考（个体）](#物质生活参考个体)
   * [硝美丽](#硝美丽)
   * [小山狗](#小山狗)
   * [央视新闻](#央视新闻)
   * [壹心理](#壹心理)
-  * [优良better](#优良better)
+  * [优良better（个体）](#优良better个体)
   * [在人间living（个体）](#在人间living个体)
-  * [真实故事计划](#真实故事计划)
+  * [真实故事计划（个体）](#真实故事计划个体)
 * [友情站点](#友情站点)
 
 ## 介绍
@@ -1006,7 +1005,7 @@
 
 ## 亲历者个人叙述
 
-### 冰点周刊
+### 冰点周刊（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
@@ -1073,7 +1072,7 @@
 |02-06|武汉封城日记｜第十五天|[link](https://mp.weixin.qq.com/s/RVwPNgD1u2XdC1ITZlaYjA)|待补|[link](http://archive.today/fZiRD)|
 |02-07|武汉封城日记｜第十六天|[link](https://mp.weixin.qq.com/s/g69dYPPiM52-RAaoqn1FuQ)|待补|[link](http://archive.ph/IbSnz)|
 
-### 南方周末/南方人物周刊
+### 南方周末/南方人物周刊（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
@@ -1102,14 +1101,14 @@
 |02-06|武汉的餐饮人：在这个冬天等春天|[link](https://mp.weixin.qq.com/s/tJm5hN_Z8weDwU28yqWwwQ)|待补|[link](http://archive.is/Flj7S)|
 |02-07|直到离开家时，我才真切感受到了恐惧|[link](https://mp.weixin.qq.com/s/3BP67dNkLmlFXy9D1PNz4A)|待补|[link](http://archive.is/7VsCj)|
 
-### 三联生活周刊
+### 三联生活周刊（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 |01-23|除夕夜，浙江一线医护人员给孩子的一封信|[link](https://mp.weixin.qq.com/s/Cqpx5LpRy2Kcu7x4JsOjrQ)|待补|[link](http://archive.ph/wip/p7bUd)|
 |02-03|吾心安处即是家|[link](https://mp.weixin.qq.com/s/YOrDRRZfopRdVHUqcs926Q)|待补|[link](http://archive.ph/lAhQT)|
 
-### 三明治
+### 三明治（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
@@ -1127,31 +1126,26 @@
 |02-05|封城满14天了，我们的生活还在继续 \| 三明治武汉每日书11|[link](https://mp.weixin.qq.com/s/32gxKX-fRw4NVc4Wxzp2hA)|待补|[link](http://archive.is/7SS6d)|
 |02-06|封城第十五天，“今天也是，体温正常” \| 三明治武汉每日书 12|[link](https://mp.weixin.qq.com/s/TpA1NlS51T096VHC8PPLTw)|待补|[link](http://archive.ph/coubA)|
 |02-07|生活还要继续，但如果没有菜了…… ｜三明治武汉每日书13|[link](https://mp.weixin.qq.com/s/5npU4Nr-t1riMnlBLffwQg)|待补|[link](http://archive.ph/Km6Gu)|
-
-### 三明治（个体）
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
 |01-24|50位武汉人，亲笔写下他们“封城”第一天的生活 \| 三明治持续更新中|[link](https://mp.weixin.qq.com/s/RlfYxEjJ7hWGblp8WG0YTg)|待补|[link](http://archive.is/Ymscl)|
 |01-25|2020武汉除夕夜：危机、亲情、祈祷 \| 三明治持续更新中|[link](https://mp.weixin.qq.com/s/mHcRvR9_svB-c2R7az2bLQ)|待补|[link](http://archive.is/MAr0m)|
 |01-26|视频麻将，做个美食，武汉人宅着的解压法 \| 三明治武汉每日书03|[link](https://mp.weixin.qq.com/s/Hhc2X5PQUnxp7kTBGZn-ag)|待补|[link](http://archive.is/Zo7c2)|
 |01-27|“不忘故乡” “因疫情严重禁止一切人员车辆出入” \| 三明治武汉每日书04|[link](https://mp.weixin.qq.com/s/2j_qhBXilkKLcCPQT3bB_w)|待补|[link](http://archive.is/9PJjY)|
 |01-28|预产期还有6天，我在武汉待产的医院被征用 \| 武汉日常每日书05|[link](https://mp.weixin.qq.com/s/coqsYikE_EF9FAspQ6doNA)|待补|[link](http://archive.is/BynKI)|
 
-### 商业人物
+### 商业人物（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 |01-27|🔥 武汉“封城”5日，一个1岁孩子妈妈的生活日记|[link](https://mp.weixin.qq.com/s/yg6XWqF0VcYALSkEneK6Ug)|待补|[link](http://archive.ph/h7r3w)|
 |01-28|🔥 在疫情面前，山东人不要面子了|[link](https://mp.weixin.qq.com/s/mpY330IwT9mJAFhlQTCb_w)|待补|[link](http://archive.ph/i964d)|
 
-### 腾讯新闻《潜望》
+### 腾讯新闻《潜望》（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 |01-28|武汉封城五日记：人与人之间不再信任 一天换了三套衣服|[link](https://mp.weixin.qq.com/s/UsTn-zcsZ_hjfmsIbj4WjQ)|待补|[link](http://archive.ph/rl5zj)|
 
-### 物质生活参考
+### 物质生活参考（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
@@ -1186,7 +1180,7 @@
 |01-30|🔥 “我妈偷偷把KN90口罩卖了”\|武汉封城，我真的不敢哭|[link](https://mp.weixin.qq.com/s/NxekIiKOhW1Xe_Qn1eBuig)|待补|[link](http://archive.ph/pgUe2)|
 |02-05|🔥 “我爸聚众打牌，我报警了” \| 都什么时候了，还想着出门|[link](https://mp.weixin.qq.com/s/2nUcSQnu7sAZ5ZHO0sxoqw)|待补|[link](http://archive.ph/C8esp)|
 
-### 优良better
+### 优良better（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
@@ -1206,7 +1200,7 @@
 |02-01|一个武汉心理咨询师这样剥离自己的恐慌|[link](https://mp.weixin.qq.com/s/DLoyW4pJWRjb4aTGhhHo7A)|待补|[link](http://archive.ph/vgX1u)|
 |02-04|武汉封城后，有人在阳台喊话：“对面的，把窗户打开吵个架”|[link](https://mp.weixin.qq.com/s/5JN_WdZgfwsnOMixZu4nvw)|待补|[link](http://archive.ph/Yvnrh)|
 
-### 真实故事计划
+### 真实故事计划（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|

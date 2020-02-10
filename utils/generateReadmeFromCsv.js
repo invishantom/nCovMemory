@@ -55,28 +55,29 @@ async function generate() {
     if (ARCHIVE.hasOwnProperty(entry.id)) {
       entry = { ...ARCHIVE[entry.id], ...entry };
     }
-    if (entry.category === 'narrative' && model['non_fiction'].medias.indexOf(entry.media) !== -1) {
-      entry.media = `${entry.media}（个体）`;
-    }
-    if (model[entry.category].medias.indexOf(entry.media) === -1) {
-      model[entry.category].medias.push(entry.media);
-    }
     if (!model[entry.category].articles[entry.media]) {
       model[entry.category].articles[entry.media] = [];
     }
     model[entry.category].articles[entry.media].push(entry);
   }
+  // console.log(model);
+  for (media in model['narrative'].articles) {
+    if (Object.keys(model['non_fiction'].articles).indexOf(media) !== -1) {
+      renameKey(model['narrative'].articles, media, `${media}（个体）`);
+    }
+  }
   // Sort
   for (let cat in model) {
+    model[cat].medias = Object.keys(model[cat].articles);
     model[cat].medias.sort(function compareFunction(param1, param2) {
       return param1.localeCompare(param2, 'zh');
     });
     let orderedArticles = {};
     for (media of model[cat].medias) {
       orderedArticles[media] = model[cat].articles[media];
-      orderedArticles[media].sort(
+      orderedArticles[media] = orderedArticles[media].sort(
         (a, b) =>
-          compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date())) !== 1
+          compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date())) !== -1
       );
     }
     model[cat].articles = orderedArticles;
