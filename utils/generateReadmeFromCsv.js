@@ -76,10 +76,7 @@ async function generate() {
       orderedArticles[media] = model[cat].articles[media];
       orderedArticles[media].sort(
         (a, b) =>
-          compareDesc(
-            parse(a.update, 'MM-dd', new Date()),
-            parse(b.update, 'MM-dd', new Date())
-          ) !== 1
+          compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date())) !== 1
       );
     }
     model[cat].articles = orderedArticles;
