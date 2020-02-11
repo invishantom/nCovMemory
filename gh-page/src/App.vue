@@ -32,7 +32,7 @@
         </div>
         <div class="markdown-body">
           <VueMarkdown :source="readme" :toc="true"></VueMarkdown>
-          <el-backtop target=".el-scrollbar__wrap" @click="emptyHash"></el-backtop>
+          <el-backtop target=".el-scrollbar__wrap" :visibility-height="0" @click="emptyHash"></el-backtop>
         </div>
       </div>
     </el-scrollbar>
@@ -57,37 +57,37 @@ export default {
     };
   },
   methods: {
-    scroll(hash, smooth) {
-      if (hash) {
-        let target = document.querySelector(
-          `.toc-anchor[href="${decodeURIComponent(hash)}"]`
-        );
-        if (target) {
-          target.scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
-        }
-      } else {
-        document
-          .querySelector("#目录")
-          .scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
-      }
-    },
+    // scroll(hash, smooth) {
+    //   if (hash) {
+    //     let target = document.querySelector(
+    //       `.toc-anchor[href="${decodeURIComponent(hash)}"]`
+    //     );
+    //     if (target) {
+    //       target.scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
+    //     }
+    //   } else {
+    //     document
+    //       .querySelector("#目录")
+    //       .scrollIntoView({ behavior: smooth ? "smooth" : "auto" });
+    //   }
+    // },
     emptyHash() {
       document.location.hash = "";
     }
   },
   mounted: function() {
-    if (window.location.hash) {
-      this.scroll(window.location.hash);
-    }
+    // if (window.location.hash) {
+    //   this.scroll(window.location.hash);
+    // }
     window.addEventListener("load", () => {
       document.querySelectorAll('a[href^="http"]').forEach(anchor => {
         anchor.setAttribute("target", "_blank");
       });
     });
 
-    window.addEventListener("hashchange", e => {
-      this.scroll(e.target.document.location.hash);
-    });
+    // window.addEventListener("hashchange", e => {
+    //   this.scroll(e.target.document.location.hash);
+    // });
   }
 };
 </script>
@@ -142,7 +142,7 @@ tr :first-child {
 @media only screen and (max-width: 600px) {
   .markdown-body {
     padding: 0px 15px;
-    font-size: 0.8em !important;
+    font-size: 0.9em !important;
   }
   #issue-button {
     display: none;
