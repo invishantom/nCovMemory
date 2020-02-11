@@ -71,7 +71,6 @@
   * [女孩别怕](#女孩别怕)
   * [蓝萱的博客](#蓝萱的博客)
 * [亲历者个人叙述](#亲历者个人叙述)
-  * [人物/每日人物（个体）](#人物每日人物个体)
   * [央视新闻](#央视新闻)
   * [冰点周刊（个体）](#冰点周刊个体)
   * [三联生活周刊（个体）](#三联生活周刊个体)
@@ -79,6 +78,7 @@
   * [单读](#单读)
   * [海螺社区](#海螺社区)
   * [腾讯新闻《潜望》（个体）](#腾讯新闻潜望个体)
+  * [人物/每日人物（个体）](#人物每日人物个体)
   * [在人间living（个体）](#在人间living个体)
   * [人间theLivings（个体）](#人间thelivings个体)
   * [全民故事计划（个体）](#全民故事计划个体)
@@ -1115,12 +1115,6 @@
 
 ## 亲历者个人叙述
 
-### 人物/每日人物（个体）
-
-| 日期 | 标题 | 原始URL| 截图 | archive |
-|---|:----------|---|---|---|
-|02-11|🔥 一位武汉教师的14天隔离日记|[link](https://mp.weixin.qq.com/s/3f7q1d3Mf9qp-rQSlk-5xA)|待补|[link](http://archive.is/NmkUz)|
-
 ### 央视新闻
 
 | 日期 | 标题 | 原始URL| 截图 | archive |
@@ -1186,6 +1180,12 @@
 | 日期 | 标题 | 原始URL| 截图 | archive |
 |---|:----------|---|---|---|
 |01-28|武汉封城五日记：人与人之间不再信任 一天换了三套衣服|[link](https://mp.weixin.qq.com/s/UsTn-zcsZ_hjfmsIbj4WjQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/568.jpg)|[link](http://archive.ph/rl5zj)|
+
+### 人物/每日人物（个体）
+
+| 日期 | 标题 | 原始URL| 截图 | archive |
+|---|:----------|---|---|---|
+|02-11|🔥 一位武汉教师的14天隔离日记|[link](https://mp.weixin.qq.com/s/3f7q1d3Mf9qp-rQSlk-5xA)|待补|[link](http://archive.is/NmkUz)|
 
 ### 在人间living（个体）
 
