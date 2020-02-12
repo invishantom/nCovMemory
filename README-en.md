@@ -21,9 +21,9 @@
 * [如何贡献](#如何贡献)
 * [工具](#工具)
 * [联系](#联系)
-* [Non Fiction](<#Non Fiction>)
-  * [A Test](<#A Test>)
-* [Narrative](<#Narrative>)
+* [Non Fiction](<#non-fiction>)
+  * [A Test](<#a-test>)
+* [Narrative](<#narrative>)
 * [友情站点](#友情站点)
 
 ## Non Fiction

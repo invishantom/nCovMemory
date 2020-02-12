@@ -36,7 +36,10 @@ Papa.parsePromise = function(file, options) {
 
 // Escape Markdown Link
 function escapeLink(string) {
-  return (string = string.replace(/[\(|\)|（|）|<|>|《|》|【|】|\[|\]|、|\/]/g, '').toLowerCase());
+  return (string = string
+    .replace(/[\(|\)|（|）|<|>|《|》|【|】|\[|\]|、|\/]/g, '')
+    .replace(/\s/, '-')
+    .toLowerCase());
 }
 
 Handlebars.registerHelper('link', escapeLink);
