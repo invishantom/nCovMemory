@@ -1,0 +1,12 @@
+{
+  "cn": {
+    "non_fiction": "传媒报道与非虚构写作",
+    "narrative": "亲历者个人叙述",
+    "NARRATIVE_INDICATOR": "（个体）"
+  },
+  "en": {
+    "non_fiction": "Non Fiction",
+    "narrative": "Narrative",
+    "NARRATIVE_INDICATOR": " (individual)"
+  }
+}

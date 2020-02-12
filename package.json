@@ -5,11 +5,10 @@
   "license": "MIT",
   "scripts": {
     "update": "yarn fetch && yarn build ",
-    "fetch": "node fetch.js",
-    "build": "node generateReadmeFromCsv.js && cd ../gh-page && yarn build",
-    "test": "cp ./dist/* -Destination ../",
-    "cron": "pm2 start cron.js",
-    "stop": "pm2 stop cron.js",
+    "fetch": "node ./utils/fetch.js",
+    "build": "node ./utils/generateReadmeFromCsv.js && cd gh-page && yarn build",
+    "cron": "pm2 start ./utils/cron.js",
+    "stop": "pm2 stop ./utils/cron.js",
     "deploy": "git add -A && git commit -m \"deploy\" && git push"
   },
   "dependencies": {
