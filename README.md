@@ -23,7 +23,6 @@
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](<#传媒报道与非虚构写作>)
-  * [测试](<#测试>)
   * [北青深一度](<#北青深一度>)
   * [冰点周刊](<#冰点周刊>)
   * [剥洋葱people](<#剥洋葱people>)
@@ -174,12 +173,6 @@
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
 
 ## 传媒报道与非虚构写作
-
-### 测试
-
-| 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
-|---|:----------|---|---|---|---|
-|02-09|测试|[link](https://mp.weixin.qq.com/s/sLUO3tT8p7YXpg1B-KnYLQ)|待补|[link](sadasd.com)|[link](http://archive.today/TwRSk)|
 
 ### 北青深一度
 
@@ -392,8 +385,8 @@
 |02-10|住进方舱医院72小时后，情况明显好转|[link](https://mp.weixin.qq.com/s/Gy4qeXCEB7Nr8NEgmez2jA)|待补|暂无|[link](http://archive.today/iJJY3)|
 |02-10|房企复工再推迟，开发商急谋应对之道|[link](https://mp.weixin.qq.com/s/bDGV_y1bxJO7nSpH0VdoQw)|待补|暂无|[link](http://archive.today/Q9zlW)|
 |02-10|战“疫”启示：社会治理如何向数据治理转型|[link](https://mp.weixin.qq.com/s/WsBcFDNGKMdakEQuZVRvxg)|待补|暂无|[link](http://archive.today/BcU7b)|
-|02-09|气溶胶传播新冠病毒？医学专家提醒尚缺充分研究佐证|[link](https://mp.weixin.qq.com/s/sLUO3tT8p7YXpg1B-KnYLQ)|待补|暂无|[link](http://archive.today/TwRSk)|
-|02-09|李铁：疫情较轻的城市应及时复工开业|[link](https://mp.weixin.qq.com/s/B7q0agHxIZ7S_9Z31mWDIQ)|待补|暂无|[link](http://archive.today/g26Nc)|
+|02-09|气溶胶传播新冠病毒？医学专家提醒尚缺充分研究佐证|[link](https://mp.weixin.qq.com/s/sLUO3tT8p7YXpg1B-KnYLQ)|待补|[link](google.com)|[link](http://archive.today/TwRSk)|
+|02-09|李铁：疫情较轻的城市应及时复工开业|[link](https://mp.weixin.qq.com/s/B7q0agHxIZ7S_9Z31mWDIQ)|待补|[link](google.com)|[link](http://archive.today/g26Nc)|
 |02-09|数说疫情0209：洪峰通过，见“顶”可期|[link](https://mp.weixin.qq.com/s/W20Jl6X0fDh4n1121a7t3w)|待补|暂无|[link](http://archive.today/Zt6R8)|
 |02-09|金融市场疫情担忧减弱，海外捐赠陆续运抵中国|[link](https://mp.weixin.qq.com/s/SbSMMY_txLcMX0u2cm5cbQ)|待补|暂无|[link](http://archive.today/Cc35q)|
 |02-09|证券业战“疫”：办公精简，线上业务大爆发|[link](https://mp.weixin.qq.com/s/SM3fIoWGauWCwH8GuorHkw)|待补|暂无|[link](http://archive.today/ntj75)|
@@ -1072,7 +1065,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
-|02-10|“疫”幕下的哈尔滨|[link](https://mp.weixin.qq.com/s/OOLRBtMr5gm4VRtkwkgodQ)|待补|暂无|[link](http://archive.ph/eHeb3)|
+|02-10|“疫”幕下的哈尔滨|[link](https://mp.weixin.qq.com/s/OOLRBtMr5gm4VRtkwkgodQ)|待补|[link](google.com)|[link](http://archive.ph/eHeb3)|
 |02-08|疫区日记丨我们失去了时间|[link](https://mp.weixin.qq.com/s/lSYrXW7Gqy3xQ_IO_YCejg)|待补|暂无|[link](http://archive.ph/NmuhF)|
 |02-07|一个“北漂”的武汉人决定搬家|[link](https://mp.weixin.qq.com/s/nEdow19k0JeowrFc5Zhdjw)|待补|暂无|[link](http://archive.ph/PnbfE)|
 |02-07|危难时刻你们怎么还关在象牙塔里|[link](https://mp.weixin.qq.com/s/VJIXoL5Y5KB7vwJIz7-zcQ)|待补|暂无|[link](http://archive.ph/kXKEO)|
