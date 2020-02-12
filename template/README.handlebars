@@ -1,5 +1,7 @@
 # 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新）
 
+[English Version](/README-en.md)
+
 收录了2020年新型冠状病毒感染的肺炎（2019-nCoV, i.e., Novel Coronavirus Pneumonia, NCP）相关媒体报道、非虚构作品和亲历者个人叙述。
 
 本站有一个更便于在手机上阅读的[版本](https://2019ncovmemory.github.io/nCovMemory/)。
@@ -7,8 +9,6 @@
 过去一日更新的文章前会加入🔥，已失效的链接用❌表示，附转载链接。截图会比链接稍晚更新，但一般不超过24小时。
 
 一部分 archive 由网友提供，深表感激。同时感谢许多网友与我们共享资料并提供建议。我们持续欢迎网友的参与和贡献，请见[如何贡献](#如何贡献)。
-
-[English Version](/README-en.md)
 
 ## 声明
 
