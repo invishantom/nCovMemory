@@ -88,9 +88,10 @@ async function generate() {
     }
     orderedArticles = Object.assign(model[cat].articles, orderedArticles);
     for (let media in orderedArticles) {
-      orderedArticles[media].sort((a, b) =>
-        compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
-      );
+      orderedArticles[media] &&
+        orderedArticles[media].sort((a, b) =>
+          compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
+        );
     }
     model[cat].articles = orderedArticles;
     model[cat].medias = Object.keys(model[cat].articles);
