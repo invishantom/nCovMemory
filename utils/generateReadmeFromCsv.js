@@ -7,7 +7,7 @@ const { differenceInDays, parse, compareDesc } = require('date-fns');
 var querystring = require('querystring');
 
 const ARCHIVE = require('../archive/index');
-const { DATA, MEDIA_TRANSLATION } = require('../data/index');
+const { DATA } = require('../data/index');
 const { TEMPLATE, TEMPLATE_EN, ORDERING, LANGUAGES } = require('../template/index');
 const README_EN_PATH = path.join(__dirname, '..', 'README-en.md');
 const README_PATH = path.join(__dirname, '..', 'README.md');
@@ -57,10 +57,11 @@ function trimAttributes(object, attributes) {
 }
 
 async function generate(language, template, path) {
-  let model = new Map();
+  let viewModel = new Map();
   const TEXTS = LANGUAGES[language];
   let now = new Date();
-  // Read csv
+
+  // Read csv & filter valid data
   let { data } = await Papa.parsePromise(DATA.data, { header: true });
   data = data.filter(
     (entry) =>
@@ -70,7 +71,7 @@ async function generate(language, template, path) {
     data = data.filter((entry) => entry.title_en);
   }
 
-  // Process data
+  // Calculate attributes
   data.forEach((entry) => {
     trimAttributes(entry, ['title', 'title_en', 'media']);
     entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
@@ -78,23 +79,16 @@ async function generate(language, template, path) {
     if (ARCHIVE.hasOwnProperty(entry.id)) {
       entry = { ...ARCHIVE[entry.id], ...entry };
     }
-    if (
-      entry.cat === 'narrative' &&
-      data.find((v) => v.cat === 'non_fiction' && v.media === entry.media)
-    ) {
-      entry.need_indicator = true;
-    } else {
-      entry.need_indicator = false;
-    }
   });
 
   // Organize & sort data
-  let cats = ['non_fiction', 'narrative'];
-  cats.forEach((cat) => {
-    let articlesOfCat = data.filter((d) => d.category === cat);
+  let categories = Object.keys(ORDERING);
+  categories.forEach((category) => {
+    let articlesOfCat = data.filter((d) => d.category === category);
+    // extract index of the category
     let mediasOfCat = getUniqueValue(articlesOfCat, 'media').sort((a, b) => {
-      let expectedOrderA = ORDERING[cat].indexOf(a);
-      let expectedOrderB = ORDERING[cat].indexOf(b);
+      let expectedOrderA = ORDERING[category].indexOf(a);
+      let expectedOrderB = ORDERING[category].indexOf(b);
       return expectedOrderA - expectedOrderB;
     });
     let articlesGroupedByMedia = new Map();
@@ -104,30 +98,44 @@ async function generate(language, template, path) {
         .sort((a, b) =>
           compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
         );
-      let mediaText;
+
+      // Set the displayed name of media
+      let mediaName;
       switch (language) {
         case 'cn':
-          mediaText = media;
+          mediaName = media;
           break;
         default:
-          mediaText = MEDIA_TRANSLATION[language][media];
+          mediaName = TEXTS.media[media];
           break;
       }
       if (
-        cat === 'narrative' &&
+        category === 'narrative' &&
         data.find((d) => d.category === 'non_fiction' && d.media === media)
       ) {
-        mediaText += TEXTS['NARRATIVE_INDICATOR'];
+        mediaName += TEXTS.media['NARRATIVE_INDICATOR'];
       }
-      articlesGroupedByMedia.set(mediaText, articlesOfMedia);
+
+      articlesGroupedByMedia.set(mediaName, articlesOfMedia);
     });
     articlesGroupedByMedia = articlesGroupedByMedia.toObject();
-    model.set(TEXTS[cat], articlesGroupedByMedia);
+
+    // Set the displayed name of category
+    let categoryName;
+    switch (category) {
+      case 'non_fiction':
+        categoryName = TEXTS.category.NON_FICTION;
+        break;
+      case 'narrative':
+        categoryName = TEXTS.category.NARRATIVE;
+        break;
+    }
+    viewModel.set(categoryName, articlesGroupedByMedia);
   });
-  model = model.toObject();
+  viewModel = viewModel.toObject();
   let runtime = Handlebars.compile(template);
-  fs.writeFileSync(path, runtime(model), 'utf-8');
-  console.log('Generate README succeed!');
+  fs.writeFileSync(path, runtime(viewModel), 'utf-8');
+  console.log(`Generate ${language} README succeed!`);
 }
 
 generate('cn', TEMPLATE, README_PATH);

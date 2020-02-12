@@ -9,12 +9,12 @@ const getDirectories = (source) =>
     .readdirSync(source, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
     .map((dirent) => dirent.name);
-let cats = getDirectories(__dirname);
-for (cat of cats) {
-  fs.readdirSync(path.join(__dirname, cat)).forEach((name) => {
+let categories = getDirectories(__dirname);
+for (category of categories) {
+  fs.readdirSync(path.join(__dirname, category)).forEach((name) => {
     let id = name.replace(/\.\w*$/, '');
     index.hasOwnProperty(id) || (index[id] = {});
-    index[id][cat] = `${PUBLIC_PATH}/${cat}/${name}`;
+    index[id][category] = `${PUBLIC_PATH}/${category}/${name}`;
   });
 }
 // console.log(index);

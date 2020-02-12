@@ -22,13 +22,13 @@
 * [工具](#工具)
 * [联系](#联系)
 * [Non Fiction](<#Non Fiction>)
-  * [a test](<#a test>)
+  * [A Test](<#A Test>)
 * [Narrative](<#Narrative>)
 * [友情站点](#友情站点)
 
 ## Non Fiction
 
-### a test
+### A Test
 
 | 日期 | 标题 | 翻译 | 原始URL | 截图 | Archive |
 |---|:----------|---|---|---|---|
