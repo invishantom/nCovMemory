@@ -28,10 +28,10 @@ The copyrights of the original texts in Chinese belong to the original publisher
   * [Legends](#Legends)
 * [Contributing](#Contributing)
 * [Non Fiction](<#non-fiction>)
-  * [Caijing (财经杂志, Caijingzazhi)](<#caijing-财经杂志, caijingzazhi>)
+  * [Caijing (财经杂志, Caijingzazhi)](<#caijing-财经杂志,-caijingzazhi>)
 * [Narrative](<#narrative>)
-  * [Dandu Reading (单读, Dandu)](<#dandu-reading 单读, dandu>)
-  * [Hai Luo She Qu (海螺社区, Hailuoshequ)](<#hai-luo she qu 海螺社区, hailuoshequ>)
+  * [Dandu Reading (单读, Dandu)](<#dandu-reading-单读,-dandu>)
+  * [Hai Luo She Qu (海螺社区, Hailuoshequ)](<#hai-luo-she-qu-海螺社区,-hailuoshequ>)
 * [Appendix](#Appendix)
 
 ## Introduction

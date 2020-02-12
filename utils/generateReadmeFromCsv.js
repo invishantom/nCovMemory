@@ -38,7 +38,7 @@ Papa.parsePromise = function(file, options) {
 function escapeLink(string) {
   return (string = string
     .replace(/[\(|\)|（|）|<|>|《|》|【|】|\[|\]|、|\/]/g, '')
-    .replace(/\s/, '-')
+    .replace(/\s/g, '-')
     .toLowerCase());
 }
 
