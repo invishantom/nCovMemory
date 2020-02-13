@@ -1601,3 +1601,7 @@ pdf 版本的备份，有日期、标题备查。来源不限于本站。
 #### [OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
 
 一份在对抗肺炎期间的开源项目整理。
+
+#### [武汉同胞口罩下的呐喊](www.wuhancrisis.com) 
+
+记录整理了自二月三日起微博开设的 _肺炎患者求助_ 超级话题中内累计出现过几千份来自疫区的患者求助
