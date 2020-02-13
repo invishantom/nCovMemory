@@ -1,6 +1,6 @@
 # 2020 Memories of coronavirus and COVID-19 in China: News reports & Non-fictions
 
-# [中文版 / Chinese version](https://github.com/2019ncovmemory/nCovMemory)
+# [中文版 / Chinese Version](/README.md)
 
 This is a repository dedicated to the English translations of the relevant news reports and non-fictions writing on coronavirus and its disease COVID-19. The disease is also called 2019-nCoV, i.e., Novel Coronavirus Pneumonia, NCP.
 
