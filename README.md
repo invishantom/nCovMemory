@@ -22,6 +22,7 @@
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](<#传媒报道与非虚构写作>)
+  * [中国经济周刊](<#中国经济周刊>)
   * [中国新闻周刊](<#中国新闻周刊>)
   * [北青深一度](<#北青深一度>)
   * [冰点周刊](<#冰点周刊>)
@@ -186,6 +187,12 @@
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
 
 ## 传媒报道与非虚构写作
+
+### 中国经济周刊
+
+| 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
+|---|:----------|---|---|---|---|
+|02-14|🔥 蒋超良的45天：从首批专家组抵达武汉到其被去职|[link](http://www.ceweekly.cn/2020/0214/285828.shtml)|待补|暂无|[link](https://web.archive.org/save/http://www.ceweekly.cn/2020/0214/285828.shtml)|
 
 ### 中国新闻周刊
 
@@ -1137,6 +1144,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 这个情人节，妻子在武汉，我在被隔离|[link](https://mp.weixin.qq.com/s/kplphUaW87kl5qpveXlSXA)|待补|暂无|[link](http://archive.is/pAhjj)|
 |02-13|一线心理防疫师：我想拥抱每一个正经历痛苦的人|[link](https://mp.weixin.qq.com/s/t2bXbo5Kvp9RLrK9t_cvAA)|待补|暂无|[link](http://archive.is/6m1xJ)|
 |02-10|武汉城里的幸存者：躲着疾病，算着未来|[link](https://mp.weixin.qq.com/s/RXwwifjwyQ_PmoPIHczgdA)|待补|暂无|[link](http://archive.ph/vFOBY)|
 |02-09|要到什么时候，才能开工大吉|[link](https://mp.weixin.qq.com/s/NjUkTKT3SIDDSuizDX5lRw)|待补|暂无|[link](http://archive.is/OPDkO)|
@@ -1334,6 +1342,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 全国 1716 名医务人员感染新冠，新冠病毒可能在其他国家“蓄势以待”，以及其他 29 条疫情新闻|[link](https://mp.weixin.qq.com/s/hTib2aaZxSqqM9E4yRi7Jw)|待补|暂无|[link](http://archive.ph/Z8gx4)|
+|02-13|🔥 确诊病例数字飙升，“疫情仍可能朝任何方向发展”，以及其他 37 条疫情新闻|[❌](https://mp.weixin.qq.com/s/aZDDnmClJPPod_YxyE9i2Q)<sup>*[转载](https://docs.google.com/document/d/164weItBO7BvA6aLvR_TWawPHZAdTxs74y0IRb9iW034/edit)*</sup>|待补|暂无|[link](http://archive.is/icyFU)|
 |02-12|“湖北是流行期，武汉是暴发期，其他省份是流行前期”，以及其他 31 条疫情新闻|[link](https://mp.weixin.qq.com/s/0Y1QP3C_TLo7BZhJTjSvVQ)|待补|暂无|[link](http://archive.ph/b5hf7)|
 |02-11|武汉情况“很难说正在变好”，重症确诊真的收治完成了吗？以及其他 38 条疫情新闻|[❌](https://mp.weixin.qq.com/s/5gsTt9fFJimSrEV9MqfskQ)<sup>*[转载](https://docs.google.com/document/d/1nQrh6THlYwps3oOU2F107AysxkjXjYIxeov9RreC7Lg/edit?usp=sharing)*</sup>|待补|暂无|[link](https://web.archive.org/web/20200213054920/https://docs.google.com/document/d/1nQrh6THlYwps3oOU2F107AysxkjXjYIxeov9RreC7Lg/edit)|
 |02-09|气溶胶传播说法不一，新冠病毒感染率可能为 1%，以及其他 35 条疫情新闻|[link](https://mp.weixin.qq.com/s/b3UwuBaM9kJnU6yWQ9i1cw)|待补|暂无|[link](http://archive.ph/Sxi2v)|
@@ -1352,6 +1362,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 如果可以，我想替爷爷送玫瑰给奶奶|[link](https://mp.weixin.qq.com/s/eldCWyzDgY5A5ngD4EHl1Q)|待补|暂无|[link](http://archive.ph/y2ubh)|
 |02-13|金银潭护士自述：我们一起加油吧！因为我想家了。|[link](https://mp.weixin.qq.com/s/nl6pstw8-yMtF3naTkHcsQ)|待补|暂无|[link](http://archive.ph/aP260)|
 |02-08|我们是武汉市民，想为这个城市做点事情|[link](https://mp.weixin.qq.com/s/63-CK34CkgWyZYw6dJLPYA)|待补|暂无|[link](http://archive.ph/fnphC)|
 |02-07|120急救车，生死时速里的患与医|[link](https://mp.weixin.qq.com/s/yHe6kDS6JbONrRhtSWyFrA)|待补|暂无|[link](http://archive.ph/BSZfs)|
@@ -1532,7 +1543,6 @@
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
 |02-14|🔥 老公进驻医院后，家门就是我们的鹊桥|[link](https://mp.weixin.qq.com/s/gBxydRUN9WhPEwrqMHichg)|待补|暂无|[link](http://archive.is/KKeBx)|
-|02-14|🔥 这个情人节，妻子在武汉，我在被隔离|[link](https://mp.weixin.qq.com/s/kplphUaW87kl5qpveXlSXA)|待补|暂无|[link](http://archive.is/pAhjj)|
 |02-12|疫情前，一个边境小城医院的防控实录|[link](https://mp.weixin.qq.com/s/mQ3oACv7NTqu0MRrpBbqQg)|待补|暂无|[link](http://archive.is/AdjRy)|
 |02-11|我家接的500桌酒席，终于取消了|[link](https://mp.weixin.qq.com/s/cnkJhKSEJiKGRQJdRRMPPg)|待补|暂无|[link](http://archive.is/sjtey)|
 |02-07|直到离开家时，我才真切感受到了恐惧|[link](https://mp.weixin.qq.com/s/3BP67dNkLmlFXy9D1PNz4A)|待补|暂无|[link](http://archive.is/7VsCj)|
