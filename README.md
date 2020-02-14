@@ -1,6 +1,5 @@
 # 2020新冠肺炎记忆：报道、非虚构与个人叙述（持续更新）
 
-# [英语版 / English Version](/README-en.md)
 
 收录了2020年新型冠状病毒肺炎（中国卫健委命名 Novel Coronavirus Pneumonia, NCP；WHO 命名 COVID-19）相关媒体报道、非虚构作品和亲历者个人叙述。
 
@@ -75,6 +74,7 @@
   * [女孩别怕](<#女孩别怕>)
   * [蓝萱的博客](<#蓝萱的博客>)
 * [亲历者个人叙述](<#亲历者个人叙述>)
+  * [我为国言吴海](<#我为国言吴海>)
   * [中国经营报（个体）](<#中国经营报个体>)
   * [央视新闻](<#央视新闻>)
   * [冰点周刊（个体）](<#冰点周刊个体>)
@@ -191,6 +191,14 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 湖北多地宣布“战时管制”，专家称不应滥用概念|[link](https://mp.weixin.qq.com/s/uoVGSC_N9ByisLSGCA3ptA)|待补|暂无|[link](http://archive.is/JoQwu)|
+|02-14|🔥 武汉“小两口”理发师：落泪为医护人员理光头|[link](https://mp.weixin.qq.com/s/v1EL158G5emVAh_DcpkdTQ)|待补|暂无|[link](http://archive.is/hns1o)|
+|02-14|🔥 湖北物资频频告急，民间捐赠的激情与困境|[link](https://mp.weixin.qq.com/s/qBBw3JiTJJ4-W9d2rE_Gig)|待补|暂无|[link](http://archive.is/d60bG)|
+|02-14|🔥 呼吁康复期患者捐血浆用于治疗？清华药学院院长：不大可能大规模推开|[link](https://mp.weixin.qq.com/s/3Ly3weeeCGsjnHSkIqaWwQ)|待补|暂无|[link](http://archive.is/GeIJD)|
+|02-14|🔥 守护白衣天使，每个人都献出了自己的力量|[link](https://mp.weixin.qq.com/s/ABeqezLKk_TVhtMcKZiL3w)|待补|暂无|[link](http://archive.is/9iLfq)|
+|02-14|🔥 ​6毛口罩卖1元被罚4万引热议，律师称值得商榷，官方重启调查|[link](https://mp.weixin.qq.com/s/HbGODfC-rTHkdahMM1SoUA)|待补|暂无|[link](http://archive.is/yb9Ir)|
+|02-14|🔥 金银潭副院长黄朝林病愈隔离，自述被传染和当“试药人”内情|[link](https://mp.weixin.qq.com/s/qpztvhmnkNTtHQZi_e5PNw)|待补|暂无|[link](http://archive.is/e7wrB)|
+|02-14|🔥 北上广：新冠疫情考验超级城市|[link](https://mp.weixin.qq.com/s/hj48C_DGShzHfD73upgLPw)|待补|暂无|[link](http://archive.is/d0Vtd)|
 |02-13|武汉会战：一场史无前例的超级行动|[link](https://mp.weixin.qq.com/s/4oLP2aEPKYT8qI7l66ZFfw)|待补|暂无|[link](http://archive.is/7gtVg)|
 |02-13|湖北告急岂止武汉：各地执业医师不到1万，武汉3.8万|[link](https://mp.weixin.qq.com/s/RDEV-m1UzYZA7S_W2YxFMw)|待补|暂无|[link](http://archive.is/vyqfz)|
 |02-13|武汉广发肿瘤医院被临时征用，家属口述癌症患者被强制出院后的遭遇|[❌](https://mp.weixin.qq.com/s/aGdb2vwpd5OPgEmWAD55TA)|待补|暂无|[link](http://archive.is/zJM7S)|
@@ -209,6 +217,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 “着急”的病理专家刘良：死亡病例过千，尚无一例病理解剖，早一点做可以多救几个人|[link](https://mp.weixin.qq.com/s/Cc5TbHEIwtNbiPo519OR6w)|待补|暂无|[link](http://archive.is/ff0fe)|
 |02-13|NCP生命支援：能救一个是一个，仍有几百台制氧机未能送出|[link](https://mp.weixin.qq.com/s/wCYbsbluWRxQ8Sdl_lmq-g)|待补|暂无|[link](http://archive.is/2Xl4R)|
 |02-12|东召庄村的“封村令”|[link](https://mp.weixin.qq.com/s/wyi2x2AcWtEg0Hi6xt8ykg)|待补|暂无|[link](http://archive.is/vrdF4)|
 |02-12|“千里逆行”送菜进鄂：执勤民警道谢不握手，司机称“这一趟跑得值！”|[link](https://mp.weixin.qq.com/s/Wxi2bC8yR9WIh73UnhUNuA)|待补|暂无|[link](http://archive.is/fbQmX)|
@@ -236,6 +245,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 谁夺走了你的微信运动榜冠军|[link](https://mp.weixin.qq.com/s/xmZdmqI35V9YVftncD_PsA)|待补|暂无|[link](http://archive.ph/x45P3)|
+|02-14|🔥 一位护士被感染后|[link](https://mp.weixin.qq.com/s/queucnxYqgyRKGmQp73t1Q)|待补|暂无|[link](http://archive.ph/P8Pzi)|
 |02-13|长江从此少了一位救援者|[link](https://mp.weixin.qq.com/s/eKqfwbdnxC4EWMXdLJ-DkQ)|待补|暂无|[link](http://archive.ph/zgteW)|
 |02-13|不仅是百步亭，疫情之下基层到底怎么样|[link](https://mp.weixin.qq.com/s/oaiWKrcQnBAZB5EvxtMvxg)|待补|暂无|[link](http://archive.ph/Knul1)|
 |02-13|你为什么还买不到口罩|[link](https://mp.weixin.qq.com/s/mXmwGs3V9sCdD8CrSYHmaQ)|待补|暂无|[link](http://archive.ph/Xb9yH)|
@@ -268,6 +279,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 支援医院的武汉环卫工：每天工作16小时，处理300桶垃圾|[link](https://mp.weixin.qq.com/s/6M7upZ-WZOl4GLLF1u2WcA)|待补|暂无|[link](http://archive.is/N4enr)|
 |02-12|被治愈的二胎母亲：黄石首例确诊孕妇治疗9天出院|[link](https://mp.weixin.qq.com/s/1zQNVwb9HuI19_NsOwB-FA)|待补|暂无|[link](https://archive.ph/SpbQz)|
 |02-10|鄂州战“疫”：百名离退休医护人员重返一线|[link](https://mp.weixin.qq.com/s/OqaXS0ndoNVSWMg6ABIw4g)|待补|暂无|[link](https://archive.ph/8INbA)|
 |02-09|鄂M卡车的归乡之路|[link](https://mp.weixin.qq.com/s/AfR0GF8ouKLjkYyLKsRVuA)|待补|暂无|[link](https://archive.ph/RJtV8)|
@@ -293,6 +305,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 武汉街头的义务送药人|[link](https://mp.weixin.qq.com/s/-URC4Vyrmx4EkEqFAJOtrw)|待补|暂无|[link](http://archive.is/AcT94)|
 |02-13|🔥 黄冈医生讲述隔离区经历：穿防护服小憩，有动静就蹦起来|[link](https://mp.weixin.qq.com/s/SwSlW9BJyNW0je8Oq8hHzQ)|待补|暂无|[link](http://archive.ph/hbL5B)|
 |02-13|🔥 襄阳战“疫”背后的志愿者们|[link](https://mp.weixin.qq.com/s/y7qDm1Rhi1-nGfm6LJ9xqg)|待补|暂无|[link](https://archive.ph/7u5U0)|
 |02-13|🔥 对话海外求学的中国留学生，疫情期间他们的故事|[link](https://mp.weixin.qq.com/s/Q7Z0tG9olctoOFPgS5Ksmw)|待补|暂无|[link](https://archive.ph/YQ4K6)|
@@ -386,6 +399,18 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 特稿\|武汉长镜头：从居家隔离到“全面清零”|[link](http://www.caixin.com/2020-02-14/101515473.html)|待补|暂无|[link](http://archive.is/3d6Pn)|
+|02-14|🔥 湖北各地新冠增加数分化 咸宁确诊突增200人|[link](http://www.caixin.com/2020-02-14/101515421.html)|待补|暂无|[link](http://archive.is/X0NLU)|
+|02-14|🔥 全国1716名医务人员感染新冠 湖北近九成|[link](http://www.caixin.com/2020-02-14/101515331.html)|待补|暂无|[link](http://archive.is/HkdAO)|
+|02-14|🔥 肺炎日记\|2月13日：那些死于肺炎的患者|[link](http://www.caixin.com/2020-02-14/101515166.html)|待补|暂无|[link](http://archive.is/aof6B)|
+|02-14|🔥 解药\|无临床试验结果，院士李兰娟两款新冠荐药数据遭质疑|[link](http://www.caixin.com/2020-02-14/101515158.html)|待补|暂无|[link](http://archive.is/r4Xv7)|
+|02-13|🔥 湖北多地祭出“战时管制令” 防疫应急管制加码|[link](http://www.caixin.com/2020-02-13/101515141.html)|待补|暂无|[link](http://archive.is/F84Mu)|
+|02-13|🔥 独家\|北京首例患者就医始末：1月12日收治，19日确诊|[link](http://www.caixin.com/2020-02-13/101514876.html)|待补|暂无|[link](http://archive.is/sVuPH)|
+|02-13|🔥 广东前置防疫关口 发热门诊患者核酸检查“一个不漏”|[link](http://www.caixin.com/2020-02-13/101514858.html)|待补|暂无|[link](http://archive.is/4ixja)|
+|02-13|🔥 湖北新冠肺炎确诊病人一天暴增14840例，为什么？|[link](http://www.caixin.com/2020-02-13/101514780.html)|待补|暂无|[link](http://archive.is/vSxvl)|
+|02-13|🔥 肺炎日记\|2月12日：确诊患者数量起疑云 市财政经手社会捐款引争议|[link](http://www.caixin.com/2020-02-13/101514738.html)|待补|暂无|[link](http://archive.is/NUGcq)|
+|02-12|🔥 江苏徐州一高铁保洁员新冠检测阳性 曾在十余趟列车工作|[link](http://www.caixin.com/2020-02-12/101514707.html)|待补|暂无|[link](http://archive.is/rQxG8)|
+|02-12|🔥 新冠病毒与新冠肺炎获正式命名 WHO称可去污名化|[link](http://www.caixin.com/2020-02-12/101514599.html)|待补|暂无|[link](http://archive.is/eAFCt)|
 |02-12|肺炎日记 \| 2月11日：湖北临阵换将 全球追赶防疫时间窗|[link](http://www.caixin.com/2020-02-12/101514299.html)|待补|暂无|[link](http://archive.is/Pjh5C)|
 |02-12|连续出现新冠肺炎确诊病例 广州一居民楼全体转移隔离|[link](http://www.caixin.com/2020-02-12/101514525.html)|待补|暂无|[link](http://archive.is/fO2eW)|
 |02-12|感染护工一度流落街头 收治后仍需隔离|[link](http://www.caixin.com/2020-02-12/101514490.html)|待补|暂无|[link](http://archive.is/6q48H)|
@@ -622,6 +647,17 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 花农的烦恼：情人节到了，百余亩上市鲜花却没卖出去|[link](http://www.eeo.com.cn/2020/0214/376301.shtml)|待补|暂无|[link](http://archive.is/2gKdY)|
+|02-13|🔥 “回来上班吧，路费我出！” 复工难催生多地出台返工“包邮”政策|[link](http://www.eeo.com.cn/2020/0213/376239.shtml)|待补|暂无|[link](http://archive.is/A7MsQ)|
+|02-13|🔥 瑞德西韦仿制药量产 专利问题何解|[link](http://www.eeo.com.cn/2020/0213/376241.shtml)|待补|暂无|[link](http://archive.is/slhvj)|
+|02-13|🔥 回不去的养老院|[link](http://www.eeo.com.cn/2020/0213/376254.shtml)|待补|暂无|[link](http://archive.is/450bH)|
+|02-13|🔥 一位中小企业主的复工守望：一边是焦虑，一边是信心|[link](http://www.eeo.com.cn/2020/0213/376220.shtml)|待补|暂无|[link](http://archive.is/YP17x)|
+|02-13|🔥 速冻行业遇特殊用工潮 工厂自动化加速被提上日程|[link](http://www.eeo.com.cn/2020/0213/376242.shtml)|待补|暂无|[link](http://archive.is/YYvVa)|
+|02-13|🔥 珠三角打响防“疫”保卫战 街坊村民自发做志愿者测体温设路障|[link](http://www.eeo.com.cn/2020/0213/376235.shtml)|待补|暂无|[link](http://archive.is/4bOYD)|
+|02-13|🔥 一位“驰援武汉”的货车司机：武汉还是那个武汉，人生中普通的一天又过去了|[link](http://www.eeo.com.cn/2020/0213/376229.shtml)|待补|暂无|[link](http://archive.is/LfFvq)|
+|02-13|🔥 苏州工业园区企业复工记|[link](http://www.eeo.com.cn/2020/0213/376213.shtml)|待补|暂无|[link](http://archive.is/QUbqS)|
+|02-13|🔥 口罩供与需：一场没有硝烟的战争|[link](http://www.eeo.com.cn/2020/0213/376217.shtml)|待补|暂无|[link](http://archive.is/XLBDK)|
+|02-13|🔥 疫情下的问候：你上网课了吗|[link](http://www.eeo.com.cn/2020/0213/376209.shtml)|待补|暂无|[link](http://archive.is/e3DXy)|
 |02-12|高三老师谈疫情下的高考备考：自律能力很差就会被“废”掉|[link](http://www.eeo.com.cn/2020/0211/376061.shtml)|待补|暂无|[link](http://archive.is/kLnG9)|
 |02-12|图集 \| “援汉物资风波”后，武汉红十字会仓储运送情况实探|[link](http://www.eeo.com.cn/2020/0212/376084.shtml)|待补|暂无|[link](http://archive.is/ob5NA)|
 |02-12|一名70岁疑似新冠肺炎患者之死|[❌](http://www.eeo.com.cn/2020/0212/376099.shtml)<sup>*[转载](https://terminus2049.github.io/archive/2020/02/12/a-70-older-death.html)*</sup>|待补|暂无|[link](http://archive.is/KRGrA)|
@@ -664,6 +700,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 重大突破？金银潭医院院长：康复患者体内含抗体，恳请捐献血浆|[link](https://mp.weixin.qq.com/s/YeistPyGwvuJVYvof3ODSQ)|待补|暂无|[link](http://archive.is/5Jzlm)|
 |02-13|湖北病例一天激增1万多例，发生了什么？专家说法来了|[link](https://mp.weixin.qq.com/s/1_Dz0bv-JOz8-879CK1Wsw)|待补|暂无|[link](http://archive.is/bY3ay)|
 |02-13|“停课不停学”，在线教育能否迎来拐点？|[link](https://mp.weixin.qq.com/s/ZFoywlh2jr2xGQLiYiCyAA)|待补|暂无|[link](http://archive.is/VUDXH)|
 |02-06|42个小时，2300公里的12吨84消毒液接收之路丨武汉肺炎亲历|[link](http://www.cb.com.cn/index/show/special/cv/cv13416503120)|待补|暂无|[link](https://web.archive.org/web/20200211135012/http://www.cb.com.cn/index/show/special/cv/cv13416503120)|
@@ -795,6 +832,10 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 专访金银潭医院上海医疗队周新：“新冠肺炎”重症患者救治难度比SARS和禽流感大|[link](https://mp.weixin.qq.com/s/Sc10aushRJBbwqg8IoAKig)|待补|暂无|[link](http://archive.is/VWTFL)|
+|02-14|🔥 作家方方：武汉人爱武汉，爱得不由分说|[link](https://mp.weixin.qq.com/s/jiUTwbZITNZBnfrhZZ30Ng)|待补|暂无|[link](http://archive.is/4AUPF)|
+|02-14|🔥 口述实录 \| 和最爱的人一起并肩阻击疫情，婚礼留待春暖花开时|[link](https://mp.weixin.qq.com/s/ypH0E5wk8dsQ8F8Z4f1O3g)|待补|暂无|[link](http://archive.is/DUVpC)|
+|02-14|🔥 口述 \| 武汉诗人小引：灾难之后，写诗并非是野蛮的|[link](https://mp.weixin.qq.com/s/rgBIJk0klcCc69cZPeffZw)|待补|暂无|[link](http://archive.is/AXbEg)|
 |02-13|抗疫现场直击：上海高速道口查得严不严？正常复工能入沪吗？|[link](https://mp.weixin.qq.com/s/WSPFbbCtSWl0WWQBkcrqhw)|待补|暂无|[link](http://archive.is/l3pgW)|
 |02-13|口述实录│儿子去了抗疫医疗一线，这是对他永生难忘的历练|[link](https://mp.weixin.qq.com/s/YO6z7SOlClninyCQuxF4yQ)|待补|暂无|[link](http://archive.is/uZ9vc)|
 |02-12|“无人机+特派快递员”，“上海堡垒”由他们铸成|[link](https://mp.weixin.qq.com/s/leHgEwC36AbBtn9T2onbEw)|待补|暂无|[link](http://archive.is/C4GQe)|
@@ -838,6 +879,14 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 当家庭主妇开起医护专车|[link](https://mp.weixin.qq.com/s/ug3HPybELYXBaFCPq0V4QA)|待补|暂无|[link](http://archive.is/A038j)|
+|02-14|🔥 平均每天3.1篇文章 中国科学界“战疫”|[link](https://mp.weixin.qq.com/s/a2qFDYa9i6cKi5xggRNLCg)|待补|暂无|[link](http://archive.is/JXOmz)|
+|02-14|🔥 老幼所依：武汉“封城”后，他们照顾孤独的老人和孩子|[link](https://mp.weixin.qq.com/s/futAsMHZK9QixYl-QBlf-Q)|待补|暂无|[link](http://archive.is/e7aTK)|
+|02-13|🔥 岂曰无衣，与子同裳，“日本诗词大会”背后的中国人|[link](https://mp.weixin.qq.com/s/K0Lfy1xz1WVR0gG55myTpA)|待补|暂无|[link](http://archive.is/6PARj)|
+|02-13|🔥 为何湖北一天新增1.4万新冠肺炎确诊病例？|[link](https://mp.weixin.qq.com/s/G2nF1fWFvq82s_6Y2cHKXQ)|待补|暂无|[link](http://archive.is/OJUx3)|
+|02-13|🔥 病毒捕手：15秒就感染？这些悬案是怎么“侦破”的|[link](https://mp.weixin.qq.com/s/QXKEA4mmpC7-2_iUfdkGXw)|待补|暂无|[link](http://archive.is/CdYpJ)|
+|02-13|🔥 回武汉第二天封城、发烧，一个青年导演的自救口述|[link](https://mp.weixin.qq.com/s/G1qA98RyLVgQMOZ-jVxSvw)|待补|暂无|[link](http://archive.is/bxYZG)|
+|02-13|🔥 北京：社区防控“不能造成恐慌”|[link](https://mp.weixin.qq.com/s/b6V3akjKHFai1sGkqs-bBQ)|待补|暂无|[link](http://archive.is/bQH32)|
 |02-12|疑似感染后，两个外地护工的艰难收治|[link](https://mp.weixin.qq.com/s/DyXYKeKQjOppWSkqVOIDRQ)|待补|暂无|[link](http://archive.is/exa55)|
 |02-12|与疫情赛跑的普通人|[link](https://mp.weixin.qq.com/s/0JpGex7Kp47F1pH5gUIEKw)|待补|暂无|[link](http://archive.is/A2wtm)|
 |02-12|疫情时期的怕与爱：“封城”20天的江城面孔|[link](https://mp.weixin.qq.com/s/CPSsmrdaS6tj9TAMtRaRQA)|待补|暂无|[link](http://archive.is/fSza8)|
@@ -900,6 +949,11 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-13|🔥 售楼处关闭怎么办？房企这样“战疫”|[link](https://mp.weixin.qq.com/s/oN7r2axHSGLBQ7tGaV-IPw)|待补|暂无|[link](http://archive.is/VzzhP)|
+|02-13|🔥 一个武汉女孩的自述：慌乱中被迫成长，以后要学做家务学烧菜|[link](https://mp.weixin.qq.com/s/QrULPtnH669Bz-FbiltD_A)|待补|暂无|[link](http://archive.is/Z2WoX)|
+|02-13|🔥 湖北新增病例为何大幅增加？临床诊断病例和疑似病例有何不同？|[link](https://mp.weixin.qq.com/s/cJZZMq2LOvWC_Y6hd4ZHzA)|待补|暂无|[link](http://archive.is/iOQBr)|
+|02-13|🔥 那些日本捐赠物资上的诗句|[link](https://mp.weixin.qq.com/s/Bn4JberOwxuvfJDhRhqavg)|待补|暂无|[link](http://archive.is/I3C9v)|
+|02-12|🔥 苏州市医疗队、丰县医疗队……“散装江苏”究竟是怎么来的？|[link](https://mp.weixin.qq.com/s/TmY5IXNiuLCg_7JLb-W5mg)|待补|暂无|[link](http://archive.is/jRvB8)|
 |02-10|留守武汉的孕产妇：新生命的到来拦不住|[link](https://mp.weixin.qq.com/s/xa-5ZBPICC47hqaBbJpWfA)|待补|暂无|[link](http://archive.is/iZIqo)|
 |02-09|湖北出台财税支持政策，农业生产亟待恢复|[link](https://mp.weixin.qq.com/s/iDKqehE6suW8JBSZPEC0Yg)|待补|暂无|[link](http://archive.is/YSp8R)|
 |02-08|118名企业高管线上调查：“如果疫情能控制住，对大型企业全年影响不会太大”|[link](https://mp.weixin.qq.com/s/NBnYo-gsaiKWVwRbU8V5IQ)|待补|暂无|[link](http://archive.is/u4rGJ)|
@@ -954,6 +1008,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 疫情之下被点燃的防治概念股|[link](https://mp.weixin.qq.com/s/OyOxfp17TIqHHMcEpxg4lQ)|待补|暂无|[link](http://archive.ph/5YpVF)|
 |02-03|湖北仙桃口罩厂春节提前复工 4天后被叫停生产|[link](https://mp.weixin.qq.com/s/1QX7aDTbfIkAuGtz3abXog)|待补|暂无|[link](https://archive.is/hbnme)|
 |02-02|疯狂的假口罩：药店也售假 募捐给武汉医院的物资现三无产品|[link](https://mp.weixin.qq.com/s/kjSIBv_xca7LKNbLkMVnnw)|待补|暂无|[link](https://archive.is/5pnaf)|
 |02-01|莆田系医院获赠1.8万口罩背后: 与湖北红会7年间合作7次|[link](https://mp.weixin.qq.com/s/OYx0z3_JT-kEhWOgDTIzAA)|待补|暂无|[link](https://archive.is/hbnme)|
@@ -966,6 +1021,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 直击平安银行业绩会：医疗健康、线上消费迎发展机遇|[link](https://xueqiu.com/6718098612/141258935)|待补|暂无|[link](http://archive.ph/63zeZ)|
 |02-13|“京郊草莓第一镇”自救记|[link](https://mp.weixin.qq.com/s/gDjrUOf0_ZaXmCzl4ZG_Pg)|待补|暂无|[link](http://archive.ph/VEKJP)|
 |02-12|为“火雷神山”工人发工资：开工第一天，5000万工程款就下来了|[link](https://mp.weixin.qq.com/s/ECvl3vw-LSLU2n42fde8ug)|待补|暂无|[link](http://archive.ph/kfp8u)|
 |02-05|中小企业“抗疫”：安全放第一；创业者总得乐观一些|[link](https://mp.weixin.qq.com/s/mVAi8JzrCPM9xBj3vMiM7Q)|待补|暂无|[link](http://archive.ph/msJkG)|
@@ -1019,6 +1075,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 他们开始了一场24小时的抢菜战役|[link](https://mp.weixin.qq.com/s/dJmPn4HBQkUuG0rI3n20gA)|待补|暂无|[link](http://archive.is/k8inB)|
 |02-13|无法靠岸的「钻石公主号」|[link](https://mp.weixin.qq.com/s/cnP5v4Z_IoNpuROD5xPYLA)|待补|暂无|[link](http://archive.is/6dpS4)|
 |02-13|悄悄在去武汉的路上过年|[link](https://mp.weixin.qq.com/s/Kv5-DLrilYqc3TISOBMSEg)|待补|暂无|[link](http://archive.is/SuYuP)|
 |02-12|夹缝下的武汉肾病患者|[link](https://mp.weixin.qq.com/s/iapojeObb2slQgdau572ug)|待补|暂无|[link](http://archive.is/WPHno)|
@@ -1088,6 +1145,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 一对情侣拍摄的武汉：长江、猫咪、眯眼的老人，都在晒太阳|[link](https://mp.weixin.qq.com/s/U8kY0lZB6xbj-9y5R2-CKg)|待补|暂无|[link](http://archive.is/1Jazj)|
 |02-12|一边送餐一边拍照：我看到了最真实的武汉|[link](https://mp.weixin.qq.com/s/JWc1WUID_-Skue1XRRxi_A)|待补|暂无|[link](http://archive.is/CdjJP)|
 |02-06|被感染护士治愈后重新上岗：如果我也害怕，大家可能都不干了|[link](https://mp.weixin.qq.com/s/Uqf4mm_axUnDpkkBIqYPVA)|待补|暂无|[link](http://archive.is/MoK4z)|
 |02-05|饭圈救援2020|[link](https://mp.weixin.qq.com/s/Wj0P1aT-1oHRbVij_Icbgg)|待补|暂无|[link](http://archive.is/tvF2p)|
@@ -1108,6 +1166,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 张定宇 一个病人的逆战|[link](https://mp.weixin.qq.com/s/FhMXINySmmcKV7MibhCHiw)|待补|暂无|[link](http://archive.is/43TaK)|
 |02-13|在0℃的冷库守护武汉|[link](https://mp.weixin.qq.com/s/0KjV1uPTa_lktHYCGwuARA)|待补|暂无|[link](http://archive.is/rSas7)|
 |02-12|疫情中，驰援武汉的私家车主|[link](https://mp.weixin.qq.com/s/are_rIpIpxE25jWMvYSY5Q)|待补|暂无|[link](http://archive.is/Wr3bq)|
 |02-11|封城后，接到母亲的病危通知书|[link](https://mp.weixin.qq.com/s/YXDGw-SqlsNTEn2rGWl4YQ)|待补|暂无|[link](http://archive.is/uPhio)|
@@ -1144,6 +1203,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 封城之下，湖北黄石真实影像记录|[link](https://mp.weixin.qq.com/s/CX7siNZGnBlyiaLHz5FHkA)|待补|暂无|[link](https://archive.is/YuQun)|
 |02-12|一位警察的口述：我在年三十晚上，追捕逃走的疑似病例|[link](https://mp.weixin.qq.com/s/o9_1TzLGLpopvSQ0GyS6DQ)|待补|暂无|[link](https://archive.is/idPT2)|
 |02-11|封城后，一个加入爱心车队的艾滋病人|[link](https://mp.weixin.qq.com/s/BdwBZ-RK_hEd3u80d0Br0A)|待补|暂无|[link](https://archive.is/2y4WO)|
 |02-10|你喜欢的那些城市小店还好吗？|[link](https://mp.weixin.qq.com/s/SP6dBApM7B-XqpKMlHg5Qw)|待补|暂无|[link](https://archive.ph/JhfBt)|
@@ -1153,6 +1213,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 调查记者自述：全世界的穿山甲都在销往中国|[link](https://mp.weixin.qq.com/s/pupHdwACuo0z-UgXTwbwXw)|待补|暂无|[link](http://archive.ph/IcYSD)|
 |02-10|声音日记：天气晴，今天是我染上新冠肺炎的第 8 天|[link](https://mp.weixin.qq.com/s/PGsEXml6rmgpjafdEDWZ8g)|待补|暂无|[link](https://archive.is/30yqj)|
 |02-03|三个武汉人的外地隔离日记|[link](https://mp.weixin.qq.com/s/4p4rD_V9W5HblfkAChSwVg)|待补|暂无|[link](http://archive.ph/Ye6VJ)|
 |02-02|武汉医生工作见闻：下了班，我还得帮科室抢物资|[link](https://mp.weixin.qq.com/s/GMtH8mWqfYe8HGnlakTdug)|待补|暂无|[link](http://archive.ph/8FI2F)|
@@ -1202,6 +1263,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 新冠时期的爱情|[link](https://mp.weixin.qq.com/s/3cq5oEhh6FR8r_Q2B3Qd3Q)|待补|暂无|[link](http://archive.is/Ldyut)|
 |02-13|超长相处期，被父母“逼疯”的年轻人|[link](https://mp.weixin.qq.com/s/Q95sbNAjsE8-r7QuaLe3OA)|待补|暂无|[link](http://archive.is/n8Jik)|
 |02-02|一对60岁武汉患者夫妻的求诊之路|[link](https://mp.weixin.qq.com/s/mOtmqFnVZ-mlr4hH2RdCiw)|待补|暂无|[link](http://archive.ph/z2mrh)|
 
@@ -1253,6 +1315,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 紧急求助通道里的夹缝求生|[link](https://mp.weixin.qq.com/s/cgg3ocHdXzIg65dXXodGxg)|待补|暂无|[link](http://archive.ph/oeaoJ)|
+|02-13|🔥 疫情观察：一个湖北村庄里的中国|[link](https://mp.weixin.qq.com/s/uFwTyyNErSlbQpLwQ3J4LA)|待补|暂无|[link](http://archive.ph/I5oCB)|
 |02-10|方舱医院拒收的老人后来怎样了？|[link](https://mp.weixin.qq.com/s/zOtXq1Bl7op7rxhXiTIbXQ)|待补|暂无|[link](http://archive.ph/OxJ3h)|
 |02-05|父亲被隔离 6 天后，疫情阴影下的残障少年之死|[link](https://mp.weixin.qq.com/s/qQiIITJpHQowiITg6NDGDw)|待补|暂无|[link](http://archive.ph/1XK7m)|
 |02-04|武汉现场：核酸检测来不及，能用 CT 影像确诊新冠肺炎吗？|[link](https://mp.weixin.qq.com/s/wgAYDAFCRJ-UKWD6CZ6ViA)|待补|暂无|[link](http://archive.ph/lvTn3)|
@@ -1354,6 +1418,12 @@
 
 ## 亲历者个人叙述
 
+### 我为国言吴海
+
+| 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
+|---|:----------|---|---|---|---|
+|02-10|🔥 哎，我只是个做中小微企业的|[link](http://archive.ph/LrVvN)|待补|暂无|待补|
+
 ### 中国经营报（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
@@ -1438,12 +1508,14 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 分手时，他带走了我所有的口罩|[link](https://mp.weixin.qq.com/s/OaSrWoGOUnVqrghgARomGQ)|待补|暂无|[link](http://archive.is/wosEc)|
 |02-11|一位武汉教师的14天隔离日记|[link](https://mp.weixin.qq.com/s/3f7q1d3Mf9qp-rQSlk-5xA)|待补|暂无|[link](http://archive.is/NmkUz)|
 
 ### 在人间living（个体）
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 肺炎时期的爱情：15分钟的路程，我花了15天时间|[link](https://mp.weixin.qq.com/s/_mgy_jQy4452X3RxNjVNog)|待补|暂无|[link](http://archive.is/V4EDR)|
 |02-12|疫情下的春运：起初，没有一个人戴口罩|[link](https://mp.weixin.qq.com/s/uVSe5nwPA0PHAanmyeZW6Q)|待补|暂无|[link](http://archive.is/OAL4w)|
 |02-07|疫区影像日记（三）：4个离家和回家的故事|[link](https://mp.weixin.qq.com/s/ZgnJOdEMAoo2HgJvcnpc7A)|待补|暂无|[link](http://archive.is/qoDKr)|
 |02-04|武汉封城后，有人在阳台喊话：“对面的，把窗户打开吵个架”|[link](https://mp.weixin.qq.com/s/5JN_WdZgfwsnOMixZu4nvw)|待补|暂无|[link](http://archive.ph/Yvnrh)|
@@ -1459,6 +1531,8 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 老公进驻医院后，家门就是我们的鹊桥|[link](https://mp.weixin.qq.com/s/gBxydRUN9WhPEwrqMHichg)|待补|暂无|[link](http://archive.is/KKeBx)|
+|02-14|🔥 这个情人节，妻子在武汉，我在被隔离|[link](https://mp.weixin.qq.com/s/kplphUaW87kl5qpveXlSXA)|待补|暂无|[link](http://archive.is/pAhjj)|
 |02-12|疫情前，一个边境小城医院的防控实录|[link](https://mp.weixin.qq.com/s/mQ3oACv7NTqu0MRrpBbqQg)|待补|暂无|[link](http://archive.is/AdjRy)|
 |02-11|我家接的500桌酒席，终于取消了|[link](https://mp.weixin.qq.com/s/cnkJhKSEJiKGRQJdRRMPPg)|待补|暂无|[link](http://archive.is/sjtey)|
 |02-07|直到离开家时，我才真切感受到了恐惧|[link](https://mp.weixin.qq.com/s/3BP67dNkLmlFXy9D1PNz4A)|待补|暂无|[link](http://archive.is/7VsCj)|
@@ -1473,6 +1547,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 疫情时期的爱情|[link](https://mp.weixin.qq.com/s/UkOKAspcut0oOU_oKYzwQQ)|待补|暂无|[link](http://archive.is/dHUkE)|
 |02-10|一个武汉人的春节朋友圈|[link](https://mp.weixin.qq.com/s/sik5GNeYH6VYcH988_oNNQ)|待补|暂无|[link](http://archive.ph/wLhJk)|
 |02-01|猜疑、隔离和信息泄露，武汉返乡大学生的艰难假期|[❌](https://mp.weixin.qq.com/s/87Mk-HjYJlLVnY5THSg4qw)<sup>*[转载](https://mp.weixin.qq.com/s/g7WKZZPTwfi85lPDSE5EPw)*</sup>|待补|暂无|[link](http://archive.ph/w3yix)|
 |01-29|黄冈封城后|[link](https://mp.weixin.qq.com/s/5Sahe6gFUEYH3l0QBROQ3g)|待补|暂无|[link](http://archive.is/Xj6jH)|
@@ -1481,6 +1556,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 一个老人在疫区800公里外死去 \| 疫情之下005|[link](https://mp.weixin.qq.com/s/b0DWqoJcF8awP9KiUZf2lA)|待补|暂无|[link](http://archive.is/Yvb2e)|
 |02-10|从武汉撤离的外国人 \| 疫情之下004|[link](https://mp.weixin.qq.com/s/01LUci37qujUy2X7GTMCSw)|待补|暂无|[link](http://archive.is/E9FjL)|
 |02-07|是李文亮救了我们 \| 疫情之下002|[link](https://mp.weixin.qq.com/s/XI3Jek0eK-WWPdiX5NFL0Q)|待补|暂无|[link](http://archive.is/JC2qT)|
 
@@ -1488,6 +1564,7 @@
 
 | 日期 | 标题 | 原始URL| 截图 | 翻译 | Archive |
 |---|:----------|---|---|---|---|
+|02-14|🔥 一对武汉夫妻的抗疫记录：要是我有什么事，房子留给你|[link](https://mp.weixin.qq.com/s/jPqyGk_BvJktA1ucuf5pYg)|待补|暂无|[link](https://archive.is/RV9lR)|
 |02-13|我们这些被强制隔离的湖北人|[link](https://mp.weixin.qq.com/s/619w-ZNvzUgzNt7OlLA3iw)|待补|暂无|[link](https://archive.is/Pc7tH)|
 |02-12|封城后的武汉，我们在路上|[link](https://mp.weixin.qq.com/s/qWsdN2i0gMpfmZNav7RkKg)|待补|暂无|[link](https://archive.is/ARgiT)|
 |02-10|封城前一天，我带母亲离开了武汉|[link](https://mp.weixin.qq.com/s/N1Y2t9imFgsWgWQCI7SBOg)|待补|暂无|[link](https://archive.is/Uty7Q)|
