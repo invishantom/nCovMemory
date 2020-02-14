@@ -59,6 +59,10 @@ function trimAttributes(object, attributes) {
   });
 }
 
+function parseDate(a) {
+  return parse(a, 'yyyy-MM-dd', new Date());
+}
+
 async function generate(language, template, path) {
   let viewModel = new Map();
   const TEXTS = LANGUAGES[language];
@@ -77,7 +81,7 @@ async function generate(language, template, path) {
   // Calculate attributes
   data.forEach((entry) => {
     trimAttributes(entry, ['title', 'title_en', 'media']);
-    entry.is_new = differenceInDays(now, parse(entry.update, 'MM-dd', new Date())) <= 1;
+    entry.is_new = differenceInDays(now, parseDate(entry.update)) <= 1;
     entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     if (ARCHIVE.hasOwnProperty(entry.id)) {
       entry = { ...ARCHIVE[entry.id], ...entry };
@@ -98,9 +102,7 @@ async function generate(language, template, path) {
     mediasOfCat.forEach((media) => {
       let articlesOfMedia = articlesOfCat
         .filter((d) => d.media === media)
-        .sort((a, b) =>
-          compareDesc(parse(a.date, 'MM-dd', new Date()), parse(b.date, 'MM-dd', new Date()))
-        );
+        .sort((a, b) => compareDesc(parseDate(a.date), parseDate(b.date)));
 
       // Set the displayed name of media
       let mediaName;
@@ -142,4 +144,4 @@ async function generate(language, template, path) {
 }
 
 generate('cn', TEMPLATE, README_PATH);
-generate('en', TEMPLATE_EN, README_EN_PATH);
+// generate('en', TEMPLATE_EN, README_EN_PATH);

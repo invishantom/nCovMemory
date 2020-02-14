@@ -4,7 +4,7 @@
 
 This is a repository dedicated to the English translations of the relevant news reports and non-fictions writing on coronavirus and its disease COVID-19. The disease is also called 2019-nCoV, i.e., Novel Coronavirus Pneumonia, NCP.
 
-Here is [a mobile friendly version(in Chinese)] (https://2019ncovmemory.github.io/nCovMemory/)。
+Here is [a mobile friendly version(in Chinese)](https://2019ncovmemory.github.io/nCovMemory/)。
 
 Articles that have been added within the last 24h are marked with🔥. Censored or deleted articles are indicated by ❌, appended with links to article backups elsewhere (if available). Snapsnots (in Chinese) will also be updated within 24 hours.
 
