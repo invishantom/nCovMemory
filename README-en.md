@@ -28,10 +28,8 @@ The copyrights of the original texts in Chinese belong to the original publisher
   * [Legends](#Legends)
 * [Contributing](#Contributing)
 * [Non Fiction](<#non-fiction>)
-  * [Caijing (财经杂志, Caijingzazhi)](<#caijing-财经杂志-caijingzazhi>)
+  * [Protrait/Protrait Daily (人物/每日人物, Renwu / Meirirenwu)](<#protraitprotrait-daily-人物每日人物-renwu--meirirenwu>)
 * [Narrative](<#narrative>)
-  * [Dandu Reading (单读, Dandu)](<#dandu-reading-单读-dandu>)
-  * [Hai Luo She Qu (海螺社区, Hailuoshequ)](<#hai-luo-she-qu-海螺社区-hailuoshequ>)
 * [Appendix](#Appendix)
 
 ## Introduction
@@ -52,26 +50,13 @@ See [the original Chinese site](https://github.com/2019ncovmemory/nCovMemory) if
 
 ## Non Fiction
 
-### Caijing (财经杂志, Caijingzazhi)
+### Protrait/Protrait Daily (人物/每日人物, Renwu / Meirirenwu)
 
 | Date | Title | Translation | Original URL | Screenshot | Archive |
 |---|:----------|---|---|---|---|
-|02-09|An Article|[link](google.com)|[link](https://mp.weixin.qq.com/s/sLUO3tT8p7YXpg1B-KnYLQ)|TBD|[link](http://archive.today/TwRSk)|
-|02-09|Another Article|[link](google.com)|[link](https://mp.weixin.qq.com/s/B7q0agHxIZ7S_9Z31mWDIQ)|TBD|[link](http://archive.today/g26Nc)|
+|2020-02-07|Li Wenliang: An ordinary person|N/A|[link](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)|TBD|[link](http://archive.is/nDykY)|
 
 ## Narrative
-
-### Dandu Reading (单读, Dandu)
-
-| Date | Title | Translation | Original URL | Screenshot | Archive |
-|---|:----------|---|---|---|---|
-|02-10|A narrative|[link](google.com)|[link](https://mp.weixin.qq.com/s/OOLRBtMr5gm4VRtkwkgodQ)|TBD|[link](http://archive.ph/eHeb3)|
-
-### Hai Luo She Qu (海螺社区, Hailuoshequ)
-
-| Date | Title | Translation | Original URL | Screenshot | Archive |
-|---|:----------|---|---|---|---|
-|02-09|Another narrative|N/A|[link](https://mp.weixin.qq.com/s/cwLqvaJ9xYoCGQnBQdkJuA)|TBD|[link](http://archive.ph/ucFyP)|
 
 
 ## Appendix
