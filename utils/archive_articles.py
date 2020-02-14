@@ -38,6 +38,7 @@ def fullpage_screenshot(nameAndURL):
     for i, pageInfo in enumerate(nameAndURL):
         name = pageInfo[0].strip()
         url = pageInfo[1].strip()
+        # print(name, url)
         print('Capturing {}/{}: '.format(str(i), str(len(nameAndURL))), name, url)
         # URL here
         driver.get(url)
@@ -68,13 +69,16 @@ if __name__ == "__main__":
         for i, line in enumerate(reader):
             if i !=0:
                 if not os.path.isfile('../archive/jpg/{}.jpg'.format(line[0])):
-                    if line[7]=='TRUE' and line[8]!='':
-                        nameAndURL.append((line[0], line[8]))
-                    elif line[7]=='TRUE' and line[9]!='':
-                        nameAndURL.append((line[0], line[9]))
+                    # Using alternative
+                    if line[9]=='TRUE' and line[10]!='':
+                        nameAndURL.append((line[0], line[10]))
+                    # Using archive
+                    elif line[9]=='TRUE' and line[11]!='':
+                        nameAndURL.append((line[0], line[11]))
                         print('Alternative for {} does not exist! Using archive: ',format(line[0]), line[9])
-                    elif line[7]!='TRUE':
-                        nameAndURL.append((line[0], line[6]))
+                    # Using original link
+                    elif line[9]!='TRUE':
+                        nameAndURL.append((line[0], line[7]))
                     else:
                         raise ValueError()
 
