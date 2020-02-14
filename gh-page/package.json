@@ -12,6 +12,7 @@
     "core-js": "^3.6.4",
     "date-fns": "^2.9.0",
     "element-ui": "^2.13.0",
+    "error-ex": "git+https://github.com/Qix-/node-error-ex.git",
     "handlebars": "^4.7.3",
     "papaparse": "^5.1.1",
     "vue": "^2.6.11",
