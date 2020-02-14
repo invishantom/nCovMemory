@@ -79,14 +79,16 @@ async function generate(language, template, path) {
   }
 
   // Calculate attributes
-  data.forEach((entry) => {
+  data = data.map((entry) => {
     trimAttributes(entry, ['title', 'title_en', 'media']);
     entry.is_new = differenceInDays(now, parseDate(entry.update)) <= 1;
     entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     if (ARCHIVE.hasOwnProperty(entry.id)) {
       entry = { ...ARCHIVE[entry.id], ...entry };
     }
+    return entry;
   });
+  console.log(data);
 
   // Organize & sort data
   let categories = Object.keys(ORDERING);
@@ -138,6 +140,7 @@ async function generate(language, template, path) {
     viewModel.set(categoryName, articlesGroupedByMedia);
   });
   viewModel = viewModel.toObject();
+
   let runtime = Handlebars.compile(template);
   fs.writeFileSync(path, runtime(viewModel), 'utf-8');
   console.log(`Generate ${language} README succeed!`);

@@ -17,6 +17,5 @@ for (category of categories) {
     index[id][category] = `${PUBLIC_PATH}/${category}/${name}`;
   });
 }
-// console.log(index);
 
 module.exports = index;

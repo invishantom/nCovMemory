@@ -77,7 +77,7 @@ If you identify any dead links, or have any questions and/or suggestions, please
 
 | Date | Title | Translation | Original URL | Screenshot | Archive |
 |---|:----------|---|---|---|---|
-|02-07|Li Wenliang: An ordinary person|N/A|[link](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)|TBD|[link](http://archive.is/nDykY)|
+|02-07|Li Wenliang: An ordinary person|N/A|[link](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/376.jpg)|[link](http://archive.is/nDykY)|
 
 ## Narrative
 
