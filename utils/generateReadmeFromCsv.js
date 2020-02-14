@@ -3,7 +3,7 @@ var fs = require('fs-extra');
 
 const Papa = require('papaparse');
 const Handlebars = require('handlebars');
-const { differenceInDays, parse, compareDesc } = require('date-fns');
+const { differenceInDays, parse, compareDesc, format } = require('date-fns');
 var querystring = require('querystring');
 
 const ARCHIVE = require('../archive/index');
@@ -100,10 +100,10 @@ async function generate(language, template, path) {
     });
     let articlesGroupedByMedia = new Map();
     mediasOfCat.forEach((media) => {
-      let articlesOfMedia = articlesOfCat
-        .filter((d) => d.media === media)
-        .sort((a, b) => compareDesc(parseDate(a.date), parseDate(b.date)));
-
+      let articlesOfMedia = articlesOfCat.filter((d) => d.media === media);
+      articlesOfMedia
+        .sort((a, b) => compareDesc(parseDate(a.date), parseDate(b.date)))
+        .forEach((article) => (article.date = format(parseDate(article.date), 'MM-dd')));
       // Set the displayed name of media
       let mediaName;
       switch (language) {

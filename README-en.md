@@ -54,7 +54,7 @@ See [the original Chinese site](https://github.com/2019ncovmemory/nCovMemory) if
 
 | Date | Title | Translation | Original URL | Screenshot | Archive |
 |---|:----------|---|---|---|---|
-|2020-02-07|Li Wenliang: An ordinary person|N/A|[link](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)|TBD|[link](http://archive.is/nDykY)|
+|02-07|Li Wenliang: An ordinary person|N/A|[link](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)|TBD|[link](http://archive.is/nDykY)|
 
 ## Narrative
 
