@@ -75,7 +75,7 @@ if __name__ == "__main__":
                     # Using archive
                     elif line[9]=='TRUE' and line[11]!='':
                         nameAndURL.append((line[0], line[11]))
-                        print('Alternative for {} does not exist! Using archive: ',format(line[0]), line[9])
+                        print('Alternative for {} does not exist! Using archive: '.format(line[0]), line[11])
                     # Using original link
                     elif line[9]!='TRUE':
                         nameAndURL.append((line[0], line[7]))
