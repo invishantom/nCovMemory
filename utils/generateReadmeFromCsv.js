@@ -147,4 +147,4 @@ async function generate(language, template, path) {
 }
 
 generate('cn', TEMPLATE, README_PATH);
-generate('en', TEMPLATE_EN, README_EN_PATH);
+// generate('en', TEMPLATE_EN, README_EN_PATH);
