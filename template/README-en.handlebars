@@ -87,7 +87,7 @@ If you identify any dead links, or have any questions and/or suggestions, please
 |---|:----------|---|---|---|---|
 {{!-- Article --}}
 {{#each this}}
-|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title_en}}|{{#if translation}}[link]({{{translation}}}){{else}}N/A{{/if}}|{{#if is_deleted}}[❌]({{{url}}}){{#if alternative}}<sup>*[FW]({{{alternative}}})*</sup>{{/if}}{{else}}[link]({{{url}}}){{/if}}|{{#if jpg}}[link]({{{jpg}}}){{else if png}}[link]({{{png}}}){{else}}TBD{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}TBD{{/if}}|
+|{{date}}|{{#if is_new}}🔥 {{/if}}{{table title_en}}|{{#if translation_en}}[link]({{{translation_en}}}){{else}}N/A{{/if}}|{{#if is_deleted}}[❌]({{{url}}}){{#if alternative}}<sup>*[FW]({{{alternative}}})*</sup>{{/if}}{{else}}[link]({{{url}}}){{/if}}|{{#if jpg}}[link]({{{jpg}}}){{else if png}}[link]({{{png}}}){{else}}TBD{{/if}}|{{#if archive}}[link]({{{archive}}}){{else}}TBD{{/if}}|
 {{/each}}
 
 {{/each}}
