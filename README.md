@@ -8,7 +8,9 @@
 
 一部分 archive 由网友提供，深表感激。同时感谢许多网友与我们共享资料并提供建议。我们持续欢迎网友的参与和贡献，请见[如何贡献](#如何贡献)。
 
-This is an archive of in-depth reports and personal narratives on the COVID-19 outbreak in China. **Translations of some articles can be found [here](https://github.com/memoryhonest/nCovMemory-en)**
+This is an archive of in-depth reports and personal narratives on the COVID-19 outbreak in China. 
+
+**Translations of some articles can be found [here](https://github.com/memoryhonest/nCovMemory-en)**
 
 ## 声明
 
