@@ -14,7 +14,6 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 **Translations of some articles can be found [here](https://github.com/memoryhonest/nCovMemory-en).**
 
 <br/>
-<br/>
 
 ## 声明
 
