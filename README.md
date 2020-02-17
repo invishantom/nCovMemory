@@ -23,8 +23,6 @@
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](<#传媒报道与非虚构写作>)
-  * [燃财经](<#燃财经>)
-  * [锌财经](<#锌财经>)
   * [中国经济周刊](<#中国经济周刊>)
   * [中国新闻周刊](<#中国新闻周刊>)
   * [北青深一度](<#北青深一度>)
@@ -53,6 +51,8 @@
   * [棱镜](<#棱镜>)
   * [腾讯深网](<#腾讯深网>)
   * [腾讯新闻《潜望》](<#腾讯新闻潜望>)
+  * [燃财经](<#燃财经>)
+  * [锌财经](<#锌财经>)
   * [人物/每日人物](<#人物每日人物>)
   * [Tmagazine](<#tmagazine>)
   * [在人间living](<#在人间living>)
@@ -197,33 +197,6 @@
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
 
 ## 传媒报道与非虚构写作
-
-### 燃财经
-
-| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译 |
-|---|:----------|:---|:---:|:---:|:---:|
-|02-11|旅游业的“惊魂”15天|[link](https://mp.weixin.qq.com/s/-BDM-RQ_T5RQb5vGch46sw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1299.jpg)|[link](http://archive.is/wip/dxdeL)|/|
-|02-10|我想上班，去公司那种！|[link](https://mp.weixin.qq.com/s/QLO7qeaOJ9kedho1gl_alg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1300.jpg)|[link](http://archive.ph/GiLgL)|/|
-|02-09|线下教育按下“暂停键”|[link](https://mp.weixin.qq.com/s/isvD14sSQjMMlF43SC9T0w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1301.jpg)|[link](http://archive.ph/Q16r3)|/|
-|02-08|全民抢菜，让差点倒下的生鲜电商又站了起来|[link](https://mp.weixin.qq.com/s/2otHmQqG4c_RrDzzfJpoWA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1302.jpg)|[link](http://archive.ph/PZrrm)|/|
-|02-03|疫情之下，在家办公靠谱吗？|[link](https://mp.weixin.qq.com/s/_-bFZGKmnRsyNXFPuIJEHw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1303.jpg)|[link](http://archive.ph/dQaTG)|/|
-|02-02|我是互联网人，我没有做逃兵|[link](https://mp.weixin.qq.com/s/AeSzGxJL1hHotcLGiruPIw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1304.jpg)|[link](http://archive.ph/ziRgg)|/|
-|02-01|疫情之下，我和公司都快熬不住了|[❌](https://mp.weixin.qq.com/s/BX6D7CkSWypQa1KAJ8X9Ag)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1305.jpg)|[link](http://archive.ph/ijx0O)|/|
-|01-31|节后返京，太太太南了|[link](https://mp.weixin.qq.com/s/k-gwT_NfwEpQQGbGhDu3Gw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1306.jpg)|[link](http://archive.ph/NAUoM)|/|
-|01-30|7位湖北人自述：我的“流浪”春节|[link](https://mp.weixin.qq.com/s/Qp-MpY2MgV498Fa0EWp1Og)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1307.jpg)|[link](http://archive.ph/nPz8D)|/|
-|01-29|恐慌、焦虑、绝望……疫情之下，你还需要心理防护|[link](https://mp.weixin.qq.com/s/3K27-t1Kn_0tSGois-FoFA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1308.jpg)|[link](http://archive.ph/7SVTS)|/|
-|01-28|排查、劝返、大喇叭、封路，农村这样防肺炎|[link](https://mp.weixin.qq.com/s/PbgWhcwyWbXNVkFavjrNGA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1309.jpg)|[link](http://archive.ph/HcWtP)|/|
-
-### 锌财经
-
-| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译 |
-|---|:----------|:---|:---:|:---:|:---:|
-|02-16|逆风之下，共享住宿平台与房东的向阳而生|[link](https://mp.weixin.qq.com/s/oM2Ne5DRb1078Wo3G6aJaQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1293.jpg)|[link](http://archive.ph/ksoYo)|/|
-|02-07|中小企业保卫战：战“疫”之下，认栽还是自救？|[link](https://mp.weixin.qq.com/s/iPD96sySdoEfhufBcPFH_A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1294.jpg)|[link](http://archive.ph/6A4K1)|/|
-|02-06|谁来守护武汉人的饭桌|[link](https://mp.weixin.qq.com/s/YkpbKIyiiF7sYfFGoR33aQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1296.jpg)|[link](http://archive.ph/PBLvz)|/|
-|02-06|物资哪去了？武汉红会回答不了的问题，区块链可以|[link](https://mp.weixin.qq.com/s/n1w2Af9rpJFKKqUsqOtfiQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1295.jpg)|[link](http://archive.ph/4vKJD)|/|
-|02-05|直击湖北：“围城”里的众生相丨特别报道|[link](https://mp.weixin.qq.com/s/y4KmGYxqQo4MbIJu4AKxwQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1297.jpg)|[link](http://archive.ph/lNM3r)|/|
-|02-03|疫区日记：从医护到患者，我的生死自救丨特别报道|[link](https://mp.weixin.qq.com/s/dlqkQcqk0iDhQki86mPBiQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1298.jpg)|[link](http://archive.ph/kK72K)|/|
 
 ### 中国经济周刊
 
@@ -1241,6 +1214,33 @@
 |01-30|数十亿善款下的艰难一面：假冒航空公司诈骗、口罩临时毁约涨价|[link](https://mp.weixin.qq.com/s/24JcPg71L3ePE_mS-bIk_Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/487.jpg)|[link](http://archive.ph/ebsIq)|/|
 |01-29|小米驰援湖北 驰援武汉：一家公司如何组织救援“供应链”？|[link](https://mp.weixin.qq.com/s/L3P6EwBcDIwwfbkYX-5f2Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/488.jpg)|[link](http://archive.ph/orxci)|/|
 |01-27|“武汉小汤山”迅速建设一面：三大运营商如何联手铺设5G网络|[link](https://mp.weixin.qq.com/s/jKHJEQk3BkAR9sb8EAqqWg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/489.jpg)|[link](http://archive.ph/lChez)|/|
+
+### 燃财经
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译 |
+|---|:----------|:---|:---:|:---:|:---:|
+|02-11|旅游业的“惊魂”15天|[link](https://mp.weixin.qq.com/s/-BDM-RQ_T5RQb5vGch46sw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1299.jpg)|[link](http://archive.is/wip/dxdeL)|/|
+|02-10|我想上班，去公司那种！|[link](https://mp.weixin.qq.com/s/QLO7qeaOJ9kedho1gl_alg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1300.jpg)|[link](http://archive.ph/GiLgL)|/|
+|02-09|线下教育按下“暂停键”|[link](https://mp.weixin.qq.com/s/isvD14sSQjMMlF43SC9T0w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1301.jpg)|[link](http://archive.ph/Q16r3)|/|
+|02-08|全民抢菜，让差点倒下的生鲜电商又站了起来|[link](https://mp.weixin.qq.com/s/2otHmQqG4c_RrDzzfJpoWA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1302.jpg)|[link](http://archive.ph/PZrrm)|/|
+|02-03|疫情之下，在家办公靠谱吗？|[link](https://mp.weixin.qq.com/s/_-bFZGKmnRsyNXFPuIJEHw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1303.jpg)|[link](http://archive.ph/dQaTG)|/|
+|02-02|我是互联网人，我没有做逃兵|[link](https://mp.weixin.qq.com/s/AeSzGxJL1hHotcLGiruPIw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1304.jpg)|[link](http://archive.ph/ziRgg)|/|
+|02-01|疫情之下，我和公司都快熬不住了|[❌](https://mp.weixin.qq.com/s/BX6D7CkSWypQa1KAJ8X9Ag)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1305.jpg)|[link](http://archive.ph/ijx0O)|/|
+|01-31|节后返京，太太太南了|[link](https://mp.weixin.qq.com/s/k-gwT_NfwEpQQGbGhDu3Gw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1306.jpg)|[link](http://archive.ph/NAUoM)|/|
+|01-30|7位湖北人自述：我的“流浪”春节|[link](https://mp.weixin.qq.com/s/Qp-MpY2MgV498Fa0EWp1Og)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1307.jpg)|[link](http://archive.ph/nPz8D)|/|
+|01-29|恐慌、焦虑、绝望……疫情之下，你还需要心理防护|[link](https://mp.weixin.qq.com/s/3K27-t1Kn_0tSGois-FoFA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1308.jpg)|[link](http://archive.ph/7SVTS)|/|
+|01-28|排查、劝返、大喇叭、封路，农村这样防肺炎|[link](https://mp.weixin.qq.com/s/PbgWhcwyWbXNVkFavjrNGA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1309.jpg)|[link](http://archive.ph/HcWtP)|/|
+
+### 锌财经
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译 |
+|---|:----------|:---|:---:|:---:|:---:|
+|02-16|逆风之下，共享住宿平台与房东的向阳而生|[link](https://mp.weixin.qq.com/s/oM2Ne5DRb1078Wo3G6aJaQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1293.jpg)|[link](http://archive.ph/ksoYo)|/|
+|02-07|中小企业保卫战：战“疫”之下，认栽还是自救？|[link](https://mp.weixin.qq.com/s/iPD96sySdoEfhufBcPFH_A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1294.jpg)|[link](http://archive.ph/6A4K1)|/|
+|02-06|谁来守护武汉人的饭桌|[link](https://mp.weixin.qq.com/s/YkpbKIyiiF7sYfFGoR33aQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1296.jpg)|[link](http://archive.ph/PBLvz)|/|
+|02-06|物资哪去了？武汉红会回答不了的问题，区块链可以|[link](https://mp.weixin.qq.com/s/n1w2Af9rpJFKKqUsqOtfiQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1295.jpg)|[link](http://archive.ph/4vKJD)|/|
+|02-05|直击湖北：“围城”里的众生相丨特别报道|[link](https://mp.weixin.qq.com/s/y4KmGYxqQo4MbIJu4AKxwQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1297.jpg)|[link](http://archive.ph/lNM3r)|/|
+|02-03|疫区日记：从医护到患者，我的生死自救丨特别报道|[link](https://mp.weixin.qq.com/s/dlqkQcqk0iDhQki86mPBiQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1298.jpg)|[link](http://archive.ph/kK72K)|/|
 
 ### 人物/每日人物
 
