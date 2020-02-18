@@ -78,7 +78,14 @@ if __name__ == "__main__":
                         print('Alternative for {} does not exist! Using archive: '.format(line[0]), line[11])
                     # Using original link
                     elif line[9]!='TRUE':
-                        nameAndURL.append((line[0], line[7]))
+                        # Using archive for weibo articles as it won't work otherwise
+                        if 'weibo' in line[7]:
+                            if line[11] != '':
+                                nameAndURL.append((line[0], line[11]))
+                            else:
+                                pass
+                        else:
+                            nameAndURL.append((line[0], line[7]))
                     else:
                         raise ValueError()
 
