@@ -28,6 +28,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](<#传媒报道与非虚构写作>)
+  * [知识分子](<#知识分子>)
   * [尖椒部落](<#尖椒部落>)
   * [Voicer](<#voicer>)
   * [拂一个山坡](<#拂一个山坡>)
@@ -98,19 +99,19 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
   * [蓝萱的博客](<#蓝萱的博客>)
   * [一条](<#一条>)
 * [亲历者个人叙述](<#亲历者个人叙述>)
+  * [叶青](<#叶青>)
+  * [杭州帕勒芒行动者](<#杭州帕勒芒行动者>)
+  * [中国新闻周刊（个体）](<#中国新闻周刊个体>)
+  * [实务学堂](<#实务学堂>)
+  * [尖椒部落（个体）](<#尖椒部落个体>)
   * [PlantifulSoul](<#plantifulsoul>)
   * [我们是有故事的人（个体）](<#我们是有故事的人个体>)
-  * [叶青](<#叶青>)
-  * [华生2019](<#华生2019>)
   * [华生2020](<#华生2020>)
-  * [华生2021](<#华生2021>)
   * [南方都市报（个体）](<#南方都市报个体>)
   * [兔草啊吐槽](<#兔草啊吐槽>)
   * [二湘的六维空间](<#二湘的六维空间>)
   * [文汇网](<#文汇网>)
-  * [知识分子](<#知识分子>)
   * [艾老师工作室](<#艾老师工作室>)
-  * [尖椒部落（个体）](<#尖椒部落个体>)
   * [世风](<#世风>)
   * [GQ报道（个体）](<#gq报道个体>)
   * [谈骁](<#谈骁>)
@@ -257,29 +258,36 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 ## 传媒报道与非虚构写作
 
+### 知识分子
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
+|---|:----------|:---|:---:|:---:|:---:|
+|02-19|🔥 新冠肺炎｜值得严重关注的2019年12月31日|[link](http://zhishifenzi.com/news/view/8278)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2162.jpg)|[link](http://archive.ph/vhuLZ)|/|
+
 ### 尖椒部落
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-24|🔥 “你为了什么而工作？”｜看见疫情下的女性劳动者|[link](https://mp.weixin.qq.com/s/b9mjTdifWNUb4kplRSI8YQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2089.jpg)|[link](http://archive.ph/g7THh)|/|
-|02-05|🔥 “我没有选择的余地”——疫情下家政女工的返乡与回城|[link](https://mp.weixin.qq.com/s/KldhQJqmIsGWLdZupNBIMw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2092.jpg)|[link](http://archive.ph/p2Py3)|/|
+|02-24|“你为了什么而工作？”｜看见疫情下的女性劳动者|[link](https://mp.weixin.qq.com/s/b9mjTdifWNUb4kplRSI8YQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2089.jpg)|[link](http://archive.ph/g7THh)|/|
+|02-05|“我没有选择的余地”——疫情下家政女工的返乡与回城|[link](https://mp.weixin.qq.com/s/KldhQJqmIsGWLdZupNBIMw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2092.jpg)|[link](http://archive.ph/p2Py3)|/|
 
 ### Voicer
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-18|🔥 深度专访：疫情之下的创意从业者，你们还好吗？|[link](https://mp.weixin.qq.com/s/ty81rlg53L9qJFv7EDkWRw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2087.jpg)|[link](http://archive.ph/INjf2)|/|
+|02-18|深度专访：疫情之下的创意从业者，你们还好吗？|[link](https://mp.weixin.qq.com/s/ty81rlg53L9qJFv7EDkWRw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2087.jpg)|[link](http://archive.ph/INjf2)|/|
 
 ### 拂一个山坡
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 疫情之下的我们|[link](https://mp.weixin.qq.com/s/rsezZlOwNAKhwYLQxV-cnw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2086.jpg)|[link](http://archive.ph/C0jwX)|/|
+|02-26|疫情之下的我们|[link](https://mp.weixin.qq.com/s/rsezZlOwNAKhwYLQxV-cnw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2086.jpg)|[link](http://archive.ph/C0jwX)|/|
 
 ### 冰点周刊
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 高考倒计时100天，这届高三学生只能“云誓师”了|[link](https://mp.weixin.qq.com/s/rfXxUyzCCpQ0PRxjSl0qOw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2241.jpg)|[link](http://archive.ph/dHuIT)|/|
 |02-27|🔥 六位护工终于找到去处|[link](https://mp.weixin.qq.com/s/zPjMocQiBMD5NsrW7_Il4g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2168.jpg)|[link](http://archive.ph/HhTOQ)|/|
 |02-26|🔥 他们接管了“重灾区”|[link](https://mp.weixin.qq.com/s/o3cdy1ww43HvEvICoVYopQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2169.jpg)|[link](http://archive.ph/nOB8h)|/|
 |02-25|她没等到樱花开|[link](https://mp.weixin.qq.com/s/6Q7SISWedSERRSBNp2uK9g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2058.jpg)|[link](http://archive.ph/hVao3)|/|
@@ -328,15 +336,21 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 快递小哥的手机里，藏着武汉人最真实的生活|[link](https://mp.weixin.qq.com/s/axhoTJ1LrXlov9GrfroVig)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2375.jpg)|[link](http://archive.is/c79A8)|/|
+|02-28|🔥 美国CDC前主任：一而再地，我们都在恐慌和忽视中循环|[link](https://mp.weixin.qq.com/s/RMrwwQbRkKX3_4kZE_vpew)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2374.jpg)|[link](http://archive.is/vMYbp)|/|
+|02-28|🔥 意大利疫情威胁全欧洲：封城12座，逃离者可拘三个月|[link](https://mp.weixin.qq.com/s/AGXPYBgsGABCrRUtWfranw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2373.jpg)|[link](http://archive.is/2gkCd)|/|
+|02-27|🔥 复盘疫情决策：医生、疾控、科研、行政分别做了什么|[link](https://www.sohu.com/a/376165378_220095?spm=smpc.author.fd-d.10.1582892817970SL5tFlm)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2254.jpg)|[link](https://web.archive.org/web/20200228122901/https://www.sohu.com/a/376165378_220095?spm=smpc.author.fd-d.10.1582892817970SL5tFlm)|/|
+|02-27|🔥 疫情次生灾害： “非冠”患者的求生|[link](https://www.sohu.com/a/376312212_220095?spm=smpc.author.fd-d.7.1582892817970SL5tFlm)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2252.jpg)|[link](https://web.archive.org/web/20200228123952/https://www.sohu.com/a/376312212_220095?spm=smpc.author.fd-d.7.1582892817970SL5tFlm)|/|
 |02-27|🔥 复工遭遇五花八门的证明，上班族吐槽为开证明跑断腿|[link](https://mp.weixin.qq.com/s/Fg3t4duysidB0YNqiCbsaA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2217.jpg)|[link](http://archive.is/LC8Gc)|/|
 |02-27|🔥 专访美国公共卫生专家：要把疾控系统变成一个独立的系统|[link](https://mp.weixin.qq.com/s/Lb1zlNJfsz8XKqhvba_L3Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2216.jpg)|[link](http://archive.is/3XP0H)|/|
 |02-27|🔥 华生：SARS过后不到十七年，我们就两次掉进了同一条河流|[link](https://mp.weixin.qq.com/s/uBHEnWlMorD5A5PgxzrV9A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2215.jpg)|[link](http://archive.is/jayi7)|/|
 |02-27|🔥 那个被感染的防疫专家出院了，他说：别怕！|[link](https://mp.weixin.qq.com/s/xhEbKTSI0eKA-tPxmkDQaw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2214.jpg)|[link](http://archive.is/glilo)|/|
 |02-27|🔥 高福领导的CDC为何遭遇信任危机|[link](https://mp.weixin.qq.com/s/mhH58xk8WbLg3HgVAZtPig)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2213.jpg)|[link](http://archive.is/89inB)|/|
-|02-26|🔥 伊朗疫情坏消息频出：卫生部副部长确诊、死亡率超高、防控经验匮乏|[link](https://mp.weixin.qq.com/s/wjv7Dopc85LBapzKz5cinQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2150.jpg)|[link](http://archive.is/R4W3f)|/|
-|02-26|🔥 如何在武汉买到菜|[link](https://mp.weixin.qq.com/s/5N795DhLOohbdigMxl_TQA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2149.jpg)|[link](http://archive.is/Pyp9S)|/|
+|02-26|伊朗疫情坏消息频出：卫生部副部长确诊、死亡率超高、防控经验匮乏|[link](https://mp.weixin.qq.com/s/wjv7Dopc85LBapzKz5cinQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2150.jpg)|[link](http://archive.is/R4W3f)|/|
+|02-26|如何在武汉买到菜|[link](https://mp.weixin.qq.com/s/5N795DhLOohbdigMxl_TQA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2149.jpg)|[link](http://archive.is/Pyp9S)|/|
 |02-25|全面禁止非法野生动物交易 专家建议推出可食用动物白名单|[link](https://mp.weixin.qq.com/s/tZdCAp5BtmM3wKqhr5N3CQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2068.jpg)|[link](http://archive.is/MYbTn)|/|
 |02-25|韩国疫情告急！“新天地教会”集会照旧，还禁戴口罩、拒检测、隐瞒名单|[link](https://mp.weixin.qq.com/s/ykXnjJFnwlnnkeysxuqEqw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2067.jpg)|[link](http://archive.is/0Pv6K)|/|
+|02-24|🔥 一座东北小城的防疫实录|[link](https://www.sohu.com/a/375536736_220095?spm=smpc.author.fd-d.3.1582892817970SL5tFlm)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2253.jpg)|[link](https://web.archive.org/web/20200228124330/https://www.sohu.com/a/375536736_220095?spm=smpc.author.fd-d.3.1582892817970SL5tFlm)|/|
 |02-24|天通苑：“亚洲最大社区”的疫情防控难题|[link](https://mp.weixin.qq.com/s/SpJPRM2W2qGbPF4mN6945g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1985.jpg)|[link](http://archive.is/BazBo)|/|
 |02-23|中国留学生的煎熬：“我只想回去上学”|[link](https://mp.weixin.qq.com/s/57fziIpZTZu1mvx_hNgpvA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1871.jpg)|[link](http://archive.is/x2rSc)|/|
 |02-23|在抗“疫”一线，她们的需求值得被看见|[link](https://mp.weixin.qq.com/s/eekp8S7N3jas2XFw-OZP0g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1870.jpg)|[link](http://archive.is/VAsga)|/|
@@ -344,6 +358,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 |02-23|专访作家方方：保持自己的诚实和正义感，这是必须的|[link](https://mp.weixin.qq.com/s/22qXUVfyEJT_42HrKveXGw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1868.jpg)|[link](http://archive.is/yFFt0)|/|
 |02-22|日行1000公里，“人肉”配送，一家民营医院的战“疫”实录|[link](https://mp.weixin.qq.com/s/VcunzWFE68pKT-WvdtspVw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1873.jpg)|[link](http://archive.is/4FGh3)|/|
 |02-22|作家方方和她的“武汉日记”：“我不是挑刺”|[link](https://mp.weixin.qq.com/s/F0RZzPWvJc4jHhATidlIuQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1872.jpg)|[link](http://archive.is/bw6uV)|/|
+|02-21|🔥 三省五个监狱系统现确诊病例，10多名官员遭处理|[link](https://www.sohu.com/a/374854612_220095?spm=smpc.author.fd-d.16.1582892817970SL5tFlm)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2251.jpg)|[link](https://web.archive.org/web/20200228124820/https://www.sohu.com/a/374854612_220095?spm=smpc.author.fd-d.16.1582892817970SL5tFlm)|/|
 |02-21|全国10%重症力量支援武汉：一支医疗队的新冠战事|[link](https://mp.weixin.qq.com/s/I1oeX80-XXC407ccPbmP4Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1712.jpg)|[link](http://archive.is/mmUml)|/|
 |02-21|中华预防医学会专家组：“拐点并不是黎明前的黑暗，只相当于夜里12点”|[link](https://mp.weixin.qq.com/s/voW0o1HSAOgeKexGfn0bNw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1711.jpg)|[link](http://archive.is/G5C2L)|/|
 |02-20|杭州启动“复工专列”全国接人：免费乘坐，下车收礼包|[link](https://mp.weixin.qq.com/s/rnkiOO0td6vc2uhRSgihTw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1654.jpg)|[link](http://archive.is/C6bGO)|/|
@@ -408,8 +423,9 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 遭遇“恐华症”的中国留学生：在公共场所甚至被直呼为“病毒” \| 深度聚焦|[link](https://mp.weixin.qq.com/s/IYYgbphHxZQ8uMRLOxTVtw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2371.jpg)|[link](http://archive.is/VNhqQ)|/|
 |02-27|🔥 经济学家贾康：尽可能减少在克服疫情中的代价|[link](https://mp.weixin.qq.com/s/idgVa3EcL1DpdsZXPK1lIQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2210.jpg)|[link](http://archive.is/Y41uG)|/|
-|02-26|🔥 十堰老人家中病亡：并非死于新冠肺炎，6岁孙子已被送往父母身边|[link](https://mp.weixin.qq.com/s/7gX0miJ23gqWOn5H7rLNiw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2148.jpg)|[link](http://archive.is/OOudx)|/|
+|02-26|十堰老人家中病亡：并非死于新冠肺炎，6岁孙子已被送往父母身边|[link](https://mp.weixin.qq.com/s/7gX0miJ23gqWOn5H7rLNiw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2148.jpg)|[link](http://archive.is/OOudx)|/|
 |02-25|11例病理解剖3例完成初步诊断，死者肺部有黏液性分泌物，输氧治疗需更小心|[link](https://mp.weixin.qq.com/s/XWqiLqRwb8oo4DwvvVMoWA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2063.jpg)|[link](http://archive.is/g6ESX)|/|
 |02-22|6楼6床的病人走了|[link](https://mp.weixin.qq.com/s/38eh95c2xZpJ9WbbteTuAg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1862.jpg)|[link](http://archive.is/oPeXD)|/|
 |02-20|武汉医疗废物增加至平时三倍，处理全程“不落地”还缺医废桶 \| 深度对话|[link](https://mp.weixin.qq.com/s/dJJ9GUIAuyIbRUr-rckSzQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1644.jpg)|[link](http://archive.is/ROvIU)|/|
@@ -436,7 +452,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 |01-29|武汉城外的重负：地县乡三级抗疫遭遇的百万返乡潮|[link](https://mp.weixin.qq.com/s/o36treeC6mAJSzd92bKLZQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/357.jpg)|[link](https://archive.ph/oDYjA)|/|
 |01-28|“中国顶级SARS病房”专家童朝晖：目前重症患者没有减少趋势，核酸检测已引入第三方|[link](https://mp.weixin.qq.com/s/NBdAjSF8WAYYuSq9d2hYYA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/356.jpg)|[link](https://archive.ph/O9IsU)|/|
 |01-28|武汉街头的“摆渡人”：每分钟处理1000条信息，不是不怕感染，停了医护人员怎么上班|[link](https://mp.weixin.qq.com/s/fUtAhkgUZvpLHEAvX6O-Tg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/355.jpg)|[link](https://archive.ph/cze3f)|/|
-|01-27|受训诫的武汉医生：11天后被病人传染住进隔离病房，之前群内言论被断章取义|[link](https://mp.weixin.qq.com/s/YRIjgJ60NdIYVqUMiLgoRg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/354.jpg)|[link](https://archive.is/TgEKH)|/|
+|01-27|受训诫的武汉医生：11天后被病人传染住进隔离病房，之前群内言论被断章取义|[❌](https://mp.weixin.qq.com/s/YRIjgJ60NdIYVqUMiLgoRg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/354.jpg)|[link](https://archive.is/TgEKH)|/|
 |01-26|自我隔离的抗疫医生：没人去坐市民的爱心车，骂跑要来陪的女朋友|[link](https://mp.weixin.qq.com/s/iq3iNFpnqchhr1_dZDv8HA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/353.jpg)|[link](https://archive.ph/otPCi)|/|
 |01-25|武汉除夕故事：照顾发烧的丈夫，妻子穿上一次性塑料雨衣|[link](https://mp.weixin.qq.com/s/9vU-JV6adRw62muBydqT0Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/352.jpg)|[link](https://archive.ph/1AHJN)|/|
 |01-23|抗击新型冠状病毒的基层医院：发热门诊排长队，防疫物资现短缺，送检需有疫区接触史|[link](https://mp.weixin.qq.com/s/f-mER12NzQPQBjVlXgpUYA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/351.jpg)|[link](https://archive.ph/pwuCZ)|/|
@@ -446,6 +462,10 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 现场 \| “围城”方舱：另一个世界|[link](https://mp.weixin.qq.com/s/_VYUsmL6PVexkd9NJVpSEA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2275.jpg)|[link](http://archive.today/0Kc1t)|/|
+|02-27|🔥 应对新冠，上海是如何及时敲响警钟的？|[link](https://mp.weixin.qq.com/s/bRaz_0VQ3biz89_Z9daZ6g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2274.jpg)|[link](http://archive.today/R8JDQ)|/|
+|02-26|《三联生活周刊》百篇疫情报道背后的一切|[link](https://mp.weixin.qq.com/s/jQY1kGWrTatGyFaGjbES-A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2131.jpg)|[link](http://archive.today/tNEk0)|/|
+|02-26|疫情虽在，是时候复工了|[link](https://mp.weixin.qq.com/s/3cfQkqSzOVkRi0xlxcmNoA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2130.jpg)|[link](http://archive.today/UFHYw)|/|
 |02-24|封——锁|[link](https://mp.weixin.qq.com/s/agsLTQhXMj_gTOxdENqf5A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2011.jpg)|[link](http://archive.today/nLz62)|/|
 |02-23|致，疫情里每一位伟大的普通人|[link](https://mp.weixin.qq.com/s/ATMhO7IIBEKmIw8DkMe4lA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2012.jpg)|[link](http://archive.today/iFsze)|/|
 |02-23|致，疫情里每一位伟大的普通人|[link](https://mp.weixin.qq.com/s/ATMhO7IIBEKmIw8DkMe4lA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1832.jpg)|[link](http://archive.today/iFsze)|/|
@@ -507,13 +527,42 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 独家\|新冠病毒基因测序溯源：警报是何时拉响的|[❌](http://china.caixin.com/2020-02-26/101520972.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2100.jpg)|[link](https://archive.li/YylMt)|/|
-|02-26|🔥 来自前线医生的声音：请国际同行支援我们|[❌](http://www.caixin.com/2020-02-26/101520806.html)<sup>*[转载](https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2020-02-26-doctors-call-for-support.md)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2099.jpg)|[link](http://archive.is/zrtaK)|/|
+|02-28|🔥 人教社一老干部病逝 海淀鑫德嘉园新冠溯源|[link](http://www.caixin.com/2020-02-28/101521690.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2367.jpg)|[link](http://archive.is/q47LE)|/|
+|02-28|🔥 肺炎日记\|2月27日：国际疫情继续升级 新增病例首超中国|[link](http://www.caixin.com/2020-02-28/101521483.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2366.jpg)|[link](http://archive.is/VVLet)|/|
+|02-27|🔥 疫情暴露疾控体系短板 钟南山建议赋予行政权|[link](http://www.caixin.com/2020-02-27/101521314.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2365.jpg)|[link](http://archive.is/40Zgm)|/|
+|02-27|🔥 北京新怡家园确诊者追踪：曾陷贪腐窝案 狱方送至高速口（更新）|[link](http://www.caixin.com/2020-02-27/101521325.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2364.jpg)|[link](http://archive.is/Ysh7Q)|/|
+|02-27|🔥 肺炎日记\|2月26日：全球考验仍在继续 病毒发现过程追踪|[link](http://www.caixin.com/2020-02-27/101521044.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2363.jpg)|[link](http://archive.is/SDwVF)|/|
+|02-27|🔥 特稿\|抗疫上海故事：先行者的经验与挑战|[link](http://china.caixin.com/2020-02-27/101521242.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2262.jpg)|[link](https://web.archive.org/web/20200227120009/http://china.caixin.com/2020-02-27/101521242.html)|/|
+|02-26|🔥 疫情总动员，各地怎么做\|15省份调降应急响应级别|[link](http://www.caixin.com/2020-02-26/101521326.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2362.jpg)|[link](http://archive.is/nbrj8)|/|
+|02-26|🔥 肺炎日记\|2月25日：多国确诊病例攀升 国际疫情拉响警报|[link](http://www.caixin.com/2020-02-26/101520438.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2361.jpg)|[link](http://archive.is/AJ2s9)|/|
+|02-26|独家\|新冠病毒基因测序溯源：警报是何时拉响的|[❌](http://china.caixin.com/2020-02-26/101520972.html)<sup>*[转载](https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2020-02-27-cai-xin.md)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2100.jpg)|[link](https://archive.li/YylMt)|/|
+|02-26|来自前线医生的声音：请国际同行支援我们|[❌](http://www.caixin.com/2020-02-26/101520806.html)<sup>*[转载](https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2020-02-26-doctors-call-for-support.md)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2099.jpg)|[link](http://archive.is/zrtaK)|/|
+|02-25|🔥 湖北、北京以外地区以县域为单位划分低中高风险等级|[link](http://www.caixin.com/2020-02-25/101520264.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2360.jpg)|[link](http://archive.is/pxIWM)|/|
+|02-25|🔥 特写\|两家公立医院新冠感染溯源 北京救治专家细解防控难题|[link](http://www.caixin.com/2020-02-25/101520159.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2359.jpg)|[link](http://archive.is/iGiJU)|/|
+|02-25|🔥 肺炎日记\|2月24日：再见了，夏思思！|[link](http://china.caixin.com/2020-02-25/101519864.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2299.jpg)|[link](http://archive.is/3wmOk)|/|
 |02-25|🔥 武汉一老人院30例新冠送医 全市加大养老机构防控|[link](http://china.caixin.com/2020-02-25/101520386.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2180.jpg)|[link](http://archive.ph/mRJLQ)|/|
-|02-25|🔥 特稿\|只因没染上新冠，他们一再错过最佳治疗期|[link](http://www.caixin.com/2020-02-25/101520168.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2098.jpg)|[link](https://archive.li/wmgvv)|/|
+|02-25|特稿\|只因没染上新冠，他们一再错过最佳治疗期|[link](http://www.caixin.com/2020-02-25/101520168.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2098.jpg)|[link](https://archive.li/wmgvv)|/|
+|02-24|🔥 特稿\|仁心赴国难：五位白衣战士最后的日子|[link](http://www.caixin.com/2020-02-24/101519799.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2358.jpg)|[link](http://archive.is/lvyHD)|/|
+|02-24|🔥 广州一家人隔离期满后发病 新冠病毒患者个别潜伏期长|[link](http://www.caixin.com/2020-02-24/101519729.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2357.jpg)|[link](http://archive.is/EwE2h)|/|
+|02-24|🔥 肺炎日记\|2月23日：提高医生薪酬，如何保障资金到位？|[link](http://www.caixin.com/2020-02-24/101519375.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2356.jpg)|[link](http://archive.is/CDlKI)|/|
+|02-24|🔥 特写\|“网红”医生余昌平：除了生死，都是小事|[link](http://www.caixin.com/2020-02-24/101519603.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2355.jpg)|[link](http://archive.is/oIuA9)|/|
+|02-24|🔥 救武汉，社会自助网络这样织成|[link](http://weekly.caixin.com/2020-02-22/101518909_all.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2260.jpg)|[link](https://web.archive.org/web/20200228071403/http://weekly.caixin.com/2020-02-22/101518909_all.html)|/|
 |02-24|🔥 独家\|两月来，华南海鲜市场附近福利院发生连续死亡|[link](http://www.caixin.com/2020-02-24/101519505.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2182.jpg)|[link](http://archive.ph/nyT1k)|/|
 |02-24|🔥 一养老院八老人确诊送医 武汉养老院防控形势严峻|[link](http://china.caixin.com/2020-02-24/101519844.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2181.jpg)|[link](http://archive.ph/rlamC)|/|
+|02-23|🔥 当当一员工感染新冠肺炎已致82人隔离 暂无新增确诊病例|[link](http://www.caixin.com/2020-02-23/101519374.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2354.jpg)|[link](http://archive.is/nqDsi)|/|
+|02-23|🔥 肺炎日记\|2月22日：湖北危重患者暴增暴减，考验加剧|[link](http://www.caixin.com/2020-02-23/101519177.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2300.jpg)|[link](http://archive.is/BcgeS)|/|
+|02-22|🔥 有研究探新冠病毒基因演化 疑华南海鲜市场非原始来源|[link](http://www.caixin.com/2020-02-22/101519106.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2353.jpg)|[link](http://archive.is/0jPWj)|/|
+|02-22|🔥 湖北核减病例风波：一道脑筋急转弯考题|[link](http://www.caixin.com/2020-02-22/101519100.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2352.jpg)|[link](http://archive.is/Ylefs)|/|
+|02-22|🔥 违规分配捐赠物资 鄂州鄂城区多人被查|[link](http://www.caixin.com/2020-02-22/101519097.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2351.jpg)|[link](http://archive.is/6zN0t)|/|
+|02-22|🔥 黑龙江新冠死亡率重症率双高，遥远北国缘何成重灾区？|[link](http://www.caixin.com/2020-02-22/101519076.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2350.jpg)|[link](http://archive.is/9HM2y)|/|
+|02-22|🔥 肺炎日记\|2月21日：监所、养老院风波之后的防疫隐患|[link](http://www.caixin.com/2020-02-23/101519177.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2302.jpg)|[link](http://archive.is/sye4Y)|/|
+|02-22|🔥 特别报道\|武汉火线救人50天现场全记录|[link](http://weekly.caixin.com/2020-02-22/101518920_all.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2261.jpg)|[link](https://web.archive.org/web/20200223034720/http://weekly.caixin.com/2020-02-22/101518920_all.html)|/|
+|02-21|🔥 北大人民医院老年科病人确诊新冠（更新）|[link](http://www.caixin.com/2020-02-21/101518162.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2348.jpg)|[link](http://archive.is/MvW3O)|/|
+|02-21|🔥 肺炎日记\|2月20日：明确“人传人”满一月，还有被遗忘的人群|[link](http://www.caixin.com/2020-02-21/101518386.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2301.jpg)|[link](https://archive.is/jUdU4)|/|
+|02-20|🔥 独家\|郭德银详解为何新冠病毒应换名 称现名有误导性|[link](http://www.caixin.com/2020-02-20/101518009.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2349.jpg)|[link](http://archive.is/oKf4f)|/|
+|02-20|🔥 肺炎日记\|2月19日：拉网大排查下遗漏的1%|[link](http://www.caixin.com/2020-02-20/101517912.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2298.jpg)|[link](http://archive.is/DtAZ5)|/|
 |02-20|🔥 武汉养老院现多例疑似新冠感染|[link](http://www.caixin.com/2020-02-20/101517851.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2183.jpg)|[link](http://archive.ph/3M9YE)|/|
+|02-19|🔥 第六版新冠诊疗方案出炉 湖北临床确诊标准取消|[link](http://www.caixin.com/2020-02-19/101517559.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2347.jpg)|[link](http://archive.is/ztBfx)|/|
 |02-19|独家\|“华南海鲜市场接触史”罗生门 武汉市卫健委“双标”令人迷惑|[link](http://www.caixin.com/2020-02-19/101517544.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1583.jpg)|[link](http://archive.is/LkA0T)|/|
 |02-19|武汉拉网排查病人 一知名小区行动迟缓惹质疑|[link](http://www.caixin.com/2020-02-19/101517517.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1582.jpg)|[link](http://archive.is/ncyps)|/|
 |02-19|为防复工出现疫情 广州部分企业安排员工检测核酸|[link](http://www.caixin.com/2020-02-19/101517513.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1581.jpg)|[link](http://archive.is/WPh3L)|/|
@@ -633,18 +682,26 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 专访卫健委派武汉第二批专家：为何没发现人传人？|[❌](https://mp.weixin.qq.com/s/jY9NEElLmLckv4k7Workog)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2105.jpg)|[link](http://archive.today/6MyfO)|/|
-|02-26|🔥 山东半岛严防境外疫情回流，暂未见“韩流”来袭|[link](https://mp.weixin.qq.com/s/aRFZ_ngbbBCr8apNIYNBVA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2104.jpg)|[link](http://archive.today/0dvzr)|/|
-|02-26|🔥 疫情蔓延终结华尔街牛市？A股震荡仍未结束|[link](https://mp.weixin.qq.com/s/I-BuSCMaKKM6DMCHUp1e1A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2103.jpg)|[link](http://archive.today/aD7Gn)|/|
-|02-26|🔥 真假“新冠疫苗”：专家呼吁谨慎发布防治信息，别轻信“有效药”|[link](https://mp.weixin.qq.com/s/aGJJtmmTaCiGdQvPUs0pCQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2102.jpg)|[link](http://archive.today/eOLI9)|/|
-|02-26|🔥 疫情预警升至最高，韩国将检测“新天地”教会全部成员|[link](https://mp.weixin.qq.com/s/l8-gH8JLCL4y8P6Y62uifg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2101.jpg)|[link](http://archive.today/Yzop2)|/|
-|02-25|🔥 传染病网络直报系统投资了7.3亿，为何失灵了28天？|[link](https://mp.weixin.qq.com/s/OLMuEwlvw84xEarXPcb6cw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2112.jpg)|[link](http://archive.today/4c041)|/|
-|02-25|🔥 有人好几万，有人零自付，新冠肺炎医疗费这笔账怎么算？|[link](https://mp.weixin.qq.com/s/u5erYfA5HI1MM3euPQ10Jg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2111.jpg)|[link](http://archive.today/gJ1AJ)|/|
-|02-25|🔥 数说疫情0225：非湖北地区新增病例降至个位数，武汉有波动|[link](https://mp.weixin.qq.com/s/BpzUpWkfZwFXrEspbKaOpg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2110.jpg)|[link](http://archive.today/63lp8)|/|
-|02-25|🔥 沈联涛：新冠病毒是否终结社会契约？|[link](https://mp.weixin.qq.com/s/Yt6_dKo6wYsagduOe94SgA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2109.jpg)|[link](http://archive.today/cznxX)|/|
-|02-25|🔥 研究表明：新冠病毒可能于去年11月出现，近期变异不大|[link](https://mp.weixin.qq.com/s/0QwyA3m4U-kahPQW4UMoSw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2108.jpg)|[link](http://archive.today/djjui)|/|
-|02-25|🔥 全球股市战战兢兢，世卫否定大流行病|[link](https://mp.weixin.qq.com/s/HGOo0JqlS6_QWY5xqfZjvg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2107.jpg)|[link](http://archive.today/wnWK8)|/|
-|02-25|🔥 229家A股公司年报推迟披露 ，多家湖北企业考虑延期|[link](https://mp.weixin.qq.com/s/D0G5Ku6a1GTyHtS6ndNWLw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2106.jpg)|[link](http://archive.today/OQ7Tg)|/|
+|02-27|🔥 数说疫情0227：非湖北地区出现异常反弹，海外新增病例首超国内|[link](https://mp.weixin.qq.com/s/8Fs4bXpms98srL0WFaIBaw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2273.jpg)|[link](http://archive.today/dbYBx)|/|
+|02-27|🔥 伊朗为何成了中东疫情重灾区，他们如何有效抗疫？|[link](https://mp.weixin.qq.com/s/hvElx_w_a7zSV_JkORMa4w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2272.jpg)|[link](http://archive.today/fhiCV)|/|
+|02-27|🔥 武汉蔬菜肉蛋价格为什么上涨，谁有权卖菜？|[link](https://mp.weixin.qq.com/s/orUwvMfb_wew8a6j9NKZ8A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2271.jpg)|[link](http://archive.today/vdWRG)|/|
+|02-27|🔥 新冠疫情蔓延六大洲，世卫密切监测新进展|[link](https://mp.weixin.qq.com/s/Q3MRCR1MBu-zFsNmTxKgoQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2270.jpg)|[link](http://archive.today/I5g43)|/|
+|02-27|🔥 李铁：疫情之后，如何改进城市治理|[link](https://mp.weixin.qq.com/s/kjAGuQ4JL6fdUPyUlUmk7Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2269.jpg)|[link](http://archive.today/Mdf68)|/|
+|02-27|🔥 口罩难求背后：中国如何从制造大国转向强国|[link](https://mp.weixin.qq.com/s/_vHiKsp3C8T2wSsngI-d5w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2268.jpg)|[link](http://archive.today/Phujr)|/|
+|02-27|🔥 邢自强：复苏延迟，但不会缺席|[link](https://mp.weixin.qq.com/s/3tqkE_8-SBjal3RyoRePFA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2267.jpg)|[link](http://archive.today/rNeLf)|/|
+|02-27|🔥 非湖北地区出现异常反弹，海外新增病例首超国内|[link](https://mp.weixin.qq.com/s/D0Gqw560qEAJQYaMoVGwcQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2266.jpg)|[link](http://archive.today/bnCbp)|/|
+|02-27|🔥 研究表明：新冠病毒可能于去年11月出现，变异一直在发生|[link](https://mp.weixin.qq.com/s/9iOzPP8zeKsD0sFP9-5KgA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2265.jpg)|[link](http://archive.today/S2UQU)|/|
+|02-26|专访卫健委派武汉第二批专家：为何没发现人传人？|[❌](https://mp.weixin.qq.com/s/jY9NEElLmLckv4k7Workog)<sup>*[转载](https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2020-02-27-NHC.md)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2105.jpg)|[link](http://archive.today/6MyfO)|/|
+|02-26|山东半岛严防境外疫情回流，暂未见“韩流”来袭|[link](https://mp.weixin.qq.com/s/aRFZ_ngbbBCr8apNIYNBVA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2104.jpg)|[link](http://archive.today/0dvzr)|/|
+|02-26|疫情蔓延终结华尔街牛市？A股震荡仍未结束|[link](https://mp.weixin.qq.com/s/I-BuSCMaKKM6DMCHUp1e1A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2103.jpg)|[link](http://archive.today/aD7Gn)|/|
+|02-26|真假“新冠疫苗”：专家呼吁谨慎发布防治信息，别轻信“有效药”|[link](https://mp.weixin.qq.com/s/aGJJtmmTaCiGdQvPUs0pCQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2102.jpg)|[link](http://archive.today/eOLI9)|/|
+|02-26|疫情预警升至最高，韩国将检测“新天地”教会全部成员|[link](https://mp.weixin.qq.com/s/l8-gH8JLCL4y8P6Y62uifg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2101.jpg)|[link](http://archive.today/Yzop2)|/|
+|02-25|传染病网络直报系统投资了7.3亿，为何失灵了28天？|[link](https://mp.weixin.qq.com/s/OLMuEwlvw84xEarXPcb6cw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2112.jpg)|[link](http://archive.today/4c041)|/|
+|02-25|有人好几万，有人零自付，新冠肺炎医疗费这笔账怎么算？|[link](https://mp.weixin.qq.com/s/u5erYfA5HI1MM3euPQ10Jg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2111.jpg)|[link](http://archive.today/gJ1AJ)|/|
+|02-25|数说疫情0225：非湖北地区新增病例降至个位数，武汉有波动|[link](https://mp.weixin.qq.com/s/BpzUpWkfZwFXrEspbKaOpg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2110.jpg)|[link](http://archive.today/63lp8)|/|
+|02-25|研究表明：新冠病毒可能于去年11月出现，近期变异不大|[link](https://mp.weixin.qq.com/s/0QwyA3m4U-kahPQW4UMoSw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2108.jpg)|[link](http://archive.today/djjui)|/|
+|02-25|全球股市战战兢兢，世卫否定大流行病|[link](https://mp.weixin.qq.com/s/HGOo0JqlS6_QWY5xqfZjvg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2107.jpg)|[link](http://archive.today/wnWK8)|/|
+|02-25|229家A股公司年报推迟披露 ，多家湖北企业考虑延期|[link](https://mp.weixin.qq.com/s/D0G5Ku6a1GTyHtS6ndNWLw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2106.jpg)|[link](http://archive.today/OQ7Tg)|/|
 |02-24|“封城”一月：武汉生活图鉴|[link](https://mp.weixin.qq.com/s/MW8N3q5gFzfQ1wUN_WH96Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2005.jpg)|[link](http://archive.today/0Gx39)|/|
 |02-24|数说疫情0224：北京连续两日零增长，湖北武汉继续向好|[link](https://mp.weixin.qq.com/s/orn6OvL97A8LQzj9MuAkwA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2004.jpg)|[link](http://archive.today/PXcSR)|/|
 |02-24|意甲推迟、学校停课、超市抢购，意大利因何成疫情重灾区|[link](https://mp.weixin.qq.com/s/xvbOMQtgu8lxWhA1KA8_5A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2003.jpg)|[link](http://archive.today/iIwki)|/|
@@ -832,6 +889,8 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 一家防护服厂复工第33天：资金充足、辅料难获、开支压力大|[link](https://mp.weixin.qq.com/s/rC2CC2tYjxGgRj4qlEquEg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2297.jpg)|[link](https://archive.ph/XYULg)|/|
+|02-28|🔥 企业复工调查：三成未复工，三成现金流仅能维持1~3个月|[link](https://mp.weixin.qq.com/s/mZ_uOxX_M1DNBVFzHxi9Uw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2295.jpg)|[link](https://archive.ph/5jjjd)|/|
 |02-26|🔥 水貂、狐狸、貉子移出可食用名录背后：人畜共患病阴影|[link](https://mp.weixin.qq.com/s/icBeb3PqGhSz97JXhSAcJg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2207.jpg)|[link](https://archive.ph/zmE0q)|/|
 |02-24|🔥 武汉战疫50天：曙光|[link](https://mp.weixin.qq.com/s/be1LNU0Y8LplqzHJL-LMeg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2206.jpg)|[link](https://archive.ph/Apj07)|/|
 |02-24|🔥 武汉战疫50天：闯关|[link](https://mp.weixin.qq.com/s/Qx8Zf8Di-0DsZNfGWXnbcA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2205.jpg)|[link](https://archive.ph/RYS0L)|/|
@@ -883,10 +942,11 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 意大利累计确诊655例！疫情蔓延至13个大区，经济受到严重冲击|[link](https://mp.weixin.qq.com/s/MSFgWazV15vr8_GPFA2OwQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2372.jpg)|[link](http://archive.is/3BIHg)|/|
 |02-27|🔥 物美“过期8年口罩”后续：部分索赔仍在路上|[link](https://mp.weixin.qq.com/s/uExip1OWbU76LgdYUG5a8w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2218.jpg)|[link](http://archive.is/Pu3EC)|/|
-|02-26|🔥 疫情蔓延！全球恐慌...拉美确诊首例、柏林可能封城、美国旧金山进入紧急状态|[link](https://mp.weixin.qq.com/s/zMsAO_MtpyaQhex7_7OvoQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2147.jpg)|[link](http://archive.is/goEQE)|/|
-|02-26|🔥 难念的经：温州复工克难记|[link](https://mp.weixin.qq.com/s/Z0LB0KkyN7UDOXI81KAdxw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2146.jpg)|[link](http://archive.is/stn6Z)|/|
-|02-26|🔥 确诊95例！伊朗疫情愈演愈烈，卫生部副部长也中招...中东失守？|[link](https://mp.weixin.qq.com/s/cbQjyWk9vOeCecP56x-DcA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2145.jpg)|[link](http://archive.is/oBs8z)|/|
+|02-26|疫情蔓延！全球恐慌...拉美确诊首例、柏林可能封城、美国旧金山进入紧急状态|[link](https://mp.weixin.qq.com/s/zMsAO_MtpyaQhex7_7OvoQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2147.jpg)|[link](http://archive.is/goEQE)|/|
+|02-26|难念的经：温州复工克难记|[link](https://mp.weixin.qq.com/s/Z0LB0KkyN7UDOXI81KAdxw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2146.jpg)|[link](http://archive.is/stn6Z)|/|
+|02-26|确诊95例！伊朗疫情愈演愈烈，卫生部副部长也中招...中东失守？|[link](https://mp.weixin.qq.com/s/cbQjyWk9vOeCecP56x-DcA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2145.jpg)|[link](http://archive.is/oBs8z)|/|
 |02-25|确诊977例！韩国明日起限制口罩出口...严防境外疫情输入，青岛、威海多地出手|[link](https://mp.weixin.qq.com/s/kG_2j5ixkKY8vH6YwJ_5lg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2066.jpg)|[link](http://archive.is/HCo2h)|/|
 |02-25|抢购、狂欢节叫停...新冠疫情在意大利“爆炸性扩散”意味什么？|[link](https://mp.weixin.qq.com/s/TWhu9iS2iCFLu0x20qiUlA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2065.jpg)|[link](http://archive.is/KKn4m)|/|
 |02-25|钟南山：这件事是当务之急！|[link](https://mp.weixin.qq.com/s/WCpbC9etFarUEbMyTxnYEg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2064.jpg)|[link](http://archive.is/epSIR)|/|
@@ -950,6 +1010,10 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 【独家】北京知名连锁药店康佰馨公司董事长涉嫌大量销售假3M口罩 多人被捕|[link](http://www.eeo.com.cn/2020/0227/377204.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2346.jpg)|[link](http://archive.is/EV6ra)|/|
+|02-27|🔥 “世界工厂”富士康复苏记|[link](http://www.eeo.com.cn/2020/0227/377192.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2345.jpg)|[link](http://archive.is/4HUD9)|/|
+|02-24|🔥 封城隔离 时逢狂欢节的意大利如何战疫|[link](http://www.eeo.com.cn/2020/0224/376909.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2344.jpg)|[link](http://archive.is/qBNSI)|/|
+|02-24|🔥 深圳野生动物禁食条例征求意见 这些动物被明确列入禁食黑名单……|[link](http://www.eeo.com.cn/2020/0226/377069.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2343.jpg)|[link](http://archive.is/NQ5ck)|/|
 |02-19|近藤大介：日本疫情可能进一步扩大|[link](http://www.eeo.com.cn/2020/0218/376529.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1586.jpg)|[link](http://archive.is/A169J)|/|
 |02-19|便利店餐饮企业都来试水 “全民卖菜”风口渐起|[link](http://www.eeo.com.cn/2020/0218/376572.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1585.jpg)|[link](http://archive.is/L4bpn)|/|
 |02-19|在机场直击“复工潮”：潮汕——首都|[link](http://www.eeo.com.cn/2020/0219/376621.shtml)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1584.jpg)|[link](http://archive.is/L4bpn)|/|
@@ -1009,6 +1073,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 疫情下，看到你屏幕后的那张脸|[link](https://mp.weixin.qq.com/s/2G8Ji4QT13Z1KqqWC0klFw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2368.jpg)|[link](http://archive.is/akE6v)|/|
 |02-27|🔥 翻滚的火锅市场，遇上疫情寒冰|[link](https://mp.weixin.qq.com/s/iHpiLanLLr7XVI5RLbGC8A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2209.jpg)|[link](http://archive.is/BPKa4)|/|
 |02-25|「我在和死神抢病人」｜对话援鄂ICU医生李圣青|[link](https://mp.weixin.qq.com/s/gL5-t3MbiH_PJfYve1HGFQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2059.jpg)|[link](http://archive.is/tW5yJ)|/|
 |02-24|武汉，无法忘却的31天|[link](https://mp.weixin.qq.com/s/aaaeViJ4i2WczXc3AHKqDw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1984.jpg)|[link](http://archive.is/OTp08)|/|
@@ -1063,6 +1128,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 视频 \| 为新冠病人送药的路上，我在公共厕所给电瓶车充电|[link](https://mp.weixin.qq.com/s/dZUu-iZg7ybeyXWW-XGpJQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2263.jpg)|[link](https://archive.ph/GKpnE)|/|
 |02-26|🔥 “网红”医生余昌平：重症归来|[link](https://mp.weixin.qq.com/s/SLznG9LekMSN4KqnFdg1dA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2198.jpg)|[link](https://archive.ph/LzR4o)|/|
 |02-25|🔥 《余生一日》，疫情下的国人“影像日记”|[link](https://mp.weixin.qq.com/s/UO7DDu2e5qmObFCJBrrrFw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2197.jpg)|[link](https://archive.ph/AQwS6)|/|
 |02-24|🔥 29岁殉职医生彭银华的最后20天|[link](https://mp.weixin.qq.com/s/7FNhdhZvJBummpOSGjsGKg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2196.jpg)|[link](http://archive.ph/zu8N3)|/|
@@ -1099,6 +1165,8 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 新冠肺炎首例尸解观察报告：气道和肺部损伤为主要特征|[link](https://mp.weixin.qq.com/s/5qhjh97uDD2D-Jy05yvZ3w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2264.jpg)|[link](https://archive.ph/O5Htc)|/|
+|02-27|🔥 死亡率超10%、拒绝封城、多名高官确诊，伊朗疫情引发中东忧虑|[link](https://mp.weixin.qq.com/s/zChn9fHVGcg4oj_9oRW2gg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2296.jpg)|[link](https://archive.ph/9ltym)|/|
 |02-25|🔥 自救与互助：疫情中的抑郁症患者|[link](https://mp.weixin.qq.com/s/wWDSGrAG1FxpYVesQGVFKQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2187.jpg)|[link](https://archive.ph/3Rn0y)|/|
 |02-25|🔥 公卫专家：1月5日提交正式报告，直报系统有需改进地方|[link](http://www.bjnews.com.cn/feature/2020/02/25/695000.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2186.jpg)|[link](http://archive.ph/c1Wby)|/|
 |02-24|🔥 疫情下的天津“微医模式”|[link](https://mp.weixin.qq.com/s/giMp4wM_ftiyYZgzMUsTQA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2188.jpg)|[link](https://archive.ph/bTW1K)|/|
@@ -1159,16 +1227,21 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 致信抗疫妻子：拌嘴都会哭鼻子的小女生，怎会不害怕|[link](https://mp.weixin.qq.com/s/fqB4I12MIRA-tbLJGdQKvw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2140.jpg)|[link](http://archive.today/xtB3f)|/|
-|02-26|🔥 首例新冠遗体解剖结果将公布，手术前这个举动不一般|[link](https://mp.weixin.qq.com/s/w1ouHAuw5xyknMkNaAp7Og)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2139.jpg)|[link](http://archive.today/1hAvn)|/|
-|02-26|🔥 “柏林可能封城或部分封城”|[link](https://mp.weixin.qq.com/s/Nbm5IQDAPyggKqSNR8sPzQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2138.jpg)|[link](http://archive.today/Jzybz)|/|
-|02-26|🔥 “我血管细，你们眼镜都糊了，是不好打针”|[link](https://mp.weixin.qq.com/s/mV9Yq7i0CrSDksy4pp95_g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2137.jpg)|[link](http://archive.today/owROZ)|/|
-|02-26|🔥 3省5个监狱共确诊555例，司法部谈疫情细节漏洞|[link](https://mp.weixin.qq.com/s/0_nlYmTJP5VPfHhO3Y0sfA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2136.jpg)|[link](http://archive.today/JGO7d)|/|
-|02-26|🔥 方舱护师：带领患者锻炼，也是我们最快乐的时光|[link](https://mp.weixin.qq.com/s/VxgJY4YY9O0r25ReNhMxbw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2135.jpg)|[link](http://archive.today/A2NXj)|/|
-|02-26|🔥 这张身上挂满药袋的照片刷屏了|[link](https://mp.weixin.qq.com/s/jOQpLvA9DgT7WBy6AOYo6g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2134.jpg)|[link](http://archive.today/soMNp)|/|
-|02-26|🔥 首份新冠危重患者特征研究发布|[link](https://mp.weixin.qq.com/s/r-JzipM0V4DlMjwyq8g6WQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2133.jpg)|[link](http://archive.today/81qsd)|/|
-|02-26|🔥 父亲去世5天后，母亲也走了|[link](https://mp.weixin.qq.com/s/wRhLh2llsDkHoiPDK2_6bA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2132.jpg)|[link](http://archive.today/RqE33)|/|
-|02-25|🔥 “亲妈”式打包物品，武汉高校暖心喊话学生|[link](https://mp.weixin.qq.com/s/eUueSbIugd1UDIQ1ourBLg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2141.jpg)|[link](http://archive.today/OLEm3)|/|
+|02-27|🔥 “灾难面前没人能幸免，救别人也是救自己”|[link](https://mp.weixin.qq.com/s/uEiHDHXHxrxy15WPA44Pig)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2291.jpg)|[link](http://archive.today/uyXMM)|/|
+|02-27|🔥 保洁员带病上班，致10名同事确诊，178人密切接触|[link](https://mp.weixin.qq.com/s/yST6-YQ5zifl8I2g6qNVPQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2290.jpg)|[link](http://archive.today/zMgQf)|/|
+|02-27|🔥 确诊→治愈→献血浆→返岗 \| 一位武汉护士抗疫的39天|[link](https://mp.weixin.qq.com/s/eJGym3f25IVGmdC1h8GZjw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2289.jpg)|[link](http://archive.today/BRARD)|/|
+|02-27|🔥 李文亮去世当天，有公司申请抢注“李文亮”商标|[link](https://mp.weixin.qq.com/s/re0PXCkT8moqMKTCSgvRXQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2288.jpg)|[link](http://archive.today/F2eUp)|/|
+|02-27|🔥 首份无症状新冠患者治疗研究发布|[link](https://mp.weixin.qq.com/s/sT6Qd4SN-z4rGBCxHm49lA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2287.jpg)|[link](http://archive.today/sB7y1)|/|
+|02-26|致信抗疫妻子：拌嘴都会哭鼻子的小女生，怎会不害怕|[link](https://mp.weixin.qq.com/s/fqB4I12MIRA-tbLJGdQKvw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2140.jpg)|[link](http://archive.today/xtB3f)|/|
+|02-26|首例新冠遗体解剖结果将公布，手术前这个举动不一般|[link](https://mp.weixin.qq.com/s/w1ouHAuw5xyknMkNaAp7Og)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2139.jpg)|[link](http://archive.today/1hAvn)|/|
+|02-26|“柏林可能封城或部分封城”|[link](https://mp.weixin.qq.com/s/Nbm5IQDAPyggKqSNR8sPzQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2138.jpg)|[link](http://archive.today/Jzybz)|/|
+|02-26|“我血管细，你们眼镜都糊了，是不好打针”|[link](https://mp.weixin.qq.com/s/mV9Yq7i0CrSDksy4pp95_g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2137.jpg)|[link](http://archive.today/owROZ)|/|
+|02-26|3省5个监狱共确诊555例，司法部谈疫情细节漏洞|[link](https://mp.weixin.qq.com/s/0_nlYmTJP5VPfHhO3Y0sfA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2136.jpg)|[link](http://archive.today/JGO7d)|/|
+|02-26|方舱护师：带领患者锻炼，也是我们最快乐的时光|[link](https://mp.weixin.qq.com/s/VxgJY4YY9O0r25ReNhMxbw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2135.jpg)|[link](http://archive.today/A2NXj)|/|
+|02-26|这张身上挂满药袋的照片刷屏了|[link](https://mp.weixin.qq.com/s/jOQpLvA9DgT7WBy6AOYo6g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2134.jpg)|[link](http://archive.today/soMNp)|/|
+|02-26|首份新冠危重患者特征研究发布|[link](https://mp.weixin.qq.com/s/r-JzipM0V4DlMjwyq8g6WQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2133.jpg)|[link](http://archive.today/81qsd)|/|
+|02-26|父亲去世5天后，母亲也走了|[link](https://mp.weixin.qq.com/s/wRhLh2llsDkHoiPDK2_6bA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2132.jpg)|[link](http://archive.today/RqE33)|/|
+|02-25|“亲妈”式打包物品，武汉高校暖心喊话学生|[link](https://mp.weixin.qq.com/s/eUueSbIugd1UDIQ1ourBLg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2141.jpg)|[link](http://archive.today/OLEm3)|/|
 |02-24|上海援鄂医疗队：我们不能治好肺炎就不管了|[link](https://mp.weixin.qq.com/s/vFM1791Jbk-_7jYnZ99OdQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2034.jpg)|[link](http://archive.today/3oJ9u)|/|
 |02-24|“潘秀荷，你不要命了！”|[link](https://mp.weixin.qq.com/s/9yT9Q6QtJbxOsGqADl_VWw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2033.jpg)|[link](http://archive.today/09aRn)|/|
 |02-24|医生杜显圣确诊后去世，单位曾发生聚集性疫情|[link](https://mp.weixin.qq.com/s/MtIlEE25PKpNSJj4HGoEGQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2032.jpg)|[link](http://archive.today/h8t6P)|/|
@@ -1309,25 +1382,34 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 《三联生活周刊》百篇疫情报道背后的一切|[link](https://mp.weixin.qq.com/s/jQY1kGWrTatGyFaGjbES-A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2131.jpg)|[link](http://archive.today/tNEk0)|/|
-|02-26|🔥 疫情虽在，是时候复工了|[link](https://mp.weixin.qq.com/s/3cfQkqSzOVkRi0xlxcmNoA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2130.jpg)|[link](http://archive.today/UFHYw)|/|
-|02-26|🔥 韩国已确诊1146例新冠肺炎病例，警方突查“新天地教会”总部|[link](https://mp.weixin.qq.com/s/oHMair0RYS6ykWTWir-liQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2129.jpg)|[link](http://archive.today/90T4z)|/|
-|02-26|🔥 欧洲疾控中心：欧盟国家正为疫情“全球大流行”做准备|[link](https://mp.weixin.qq.com/s/rLbn6iS_e36tG2bVhVZjeg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2128.jpg)|[link](http://archive.today/CMdv0)|/|
-|02-26|🔥 美国疾控中心发布疫情新警告，道指再度暴跌近900点|[link](https://mp.weixin.qq.com/s/SYG4cWsVvbZA0uYrRX5eHA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2127.jpg)|[link](http://archive.today/hjw9q)|/|
-|02-26|🔥 东京奥运会面临疫情困境：5月底或迎生死时限，延期易地办赛不现实|[link](https://mp.weixin.qq.com/s/Mqvva4YTbuQNCZ1ana4e8Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2126.jpg)|[link](http://archive.today/Ph9Ek)|/|
-|02-26|🔥 司法部：三省5个监狱共确诊病例555例，全国其他监狱没有感染|[link](https://mp.weixin.qq.com/s/5f210WToEjCkJPlS7KXGzQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2125.jpg)|[link](http://archive.today/HGNu7)|/|
-|02-26|🔥 湖北宝宝们的奶粉需求如何满足？|[link](https://mp.weixin.qq.com/s/VLuwqvS_H_K1a1mzkvdSww)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2124.jpg)|[link](http://archive.today/YnnGd)|/|
-|02-26|🔥 名创优品员工爆料被迫降薪，官方回应97.7%的员工支持倡议|[link](https://mp.weixin.qq.com/s/hJvPxjBvP-tJuE-5yKQFzg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2123.jpg)|[link](http://archive.today/2x1IZ)|/|
-|02-26|🔥 日本老字号旅馆因疫情倒闭，资生堂8000员工开始远程办公|[link](https://mp.weixin.qq.com/s/-aTf9Mk3BMToe6hdXO1zsw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2122.jpg)|[link](http://archive.today/BzjeA)|/|
-|02-26|🔥 解读：上海支持文化企业防疫“20条”政策措施如何操作？|[link](https://mp.weixin.qq.com/s/sI_xGW1H0O0t2Jv9aGCCjg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2121.jpg)|[link](http://archive.today/zbf8Q)|/|
-|02-25|🔥 新冠肺炎遗体解剖已完成11例，死者肺部有黏液性分泌物|[link](https://mp.weixin.qq.com/s/TZdPW8SiTughKxq76hloew)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2120.jpg)|[link](http://archive.today/W2aH5)|/|
-|02-25|🔥 新冠确诊病例将破千，韩政府：全面禁止口罩出口|[link](https://mp.weixin.qq.com/s/DZ3dbcdAsNTcvIFSsbC4Wg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2119.jpg)|[link](http://archive.today/pNt9w)|/|
-|02-25|🔥 被指“没有家国情怀”，潘石屹未捐助武汉疫情惹争议|[link](https://mp.weixin.qq.com/s/4wn5NZQ2_ZlMAn8nAE6R_g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2118.jpg)|[link](http://archive.today/w57en)|/|
-|02-25|🔥 特朗普向国会申请25亿美元应对疫情，至少10亿美元用于疫苗研发|[link](https://mp.weixin.qq.com/s/yJFK5A1c7zQ9HKjDfqo9Kg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2117.jpg)|[link](http://archive.today/CjqhQ)|/|
-|02-25|🔥 韩国不满以色列“过度防疫”，以方自费包机送400名韩国人回家|[link](https://mp.weixin.qq.com/s/fvzkQRfa7KdZpCEMfe0GsQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2116.jpg)|[link](http://archive.today/LHnn5)|/|
-|02-25|🔥 滞留武汉后，我带着出生3天的儿子住在车上|[link](https://mp.weixin.qq.com/s/OA85KVdEGczJqCBqZFDvVw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2115.jpg)|[link](http://archive.today/U5kuk)|/|
-|02-25|🔥 意大利确诊229例死亡7例，韩国检测“新天地”全体信众|[link](https://mp.weixin.qq.com/s/OYXz__3sxGI9KMuWzLiJWA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2114.jpg)|[link](http://archive.today/BHX88)|/|
-|02-25|🔥 韩国飞中国航班爆满，多城市加强入境人员防疫|[link](https://mp.weixin.qq.com/s/EHM3GOpAz3FP2FwCBnMfaw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2113.jpg)|[link](http://archive.today/euhbH)|/|
+|02-27|🔥 伊朗副总统确诊感染新冠病毒|[link](https://mp.weixin.qq.com/s/yvVH3fDj7gckffPWKc4ubw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2286.jpg)|[link](http://archive.today/CV1lq)|/|
+|02-27|🔥 新冠病毒诊断试剂公告闹“乌龙”，东方生物称是董秘的错|[link](https://mp.weixin.qq.com/s/8vegVH8ovj8AkSdXGFtjjw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2285.jpg)|[link](http://archive.today/RP0zu)|/|
+|02-27|🔥 被套牢的茅台黄牛：我有飞天茅台，你有口罩吗？|[link](https://mp.weixin.qq.com/s/1SzvdP5WcobSE7Ryo0CYYg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2284.jpg)|[link](http://archive.today/W3jCX)|/|
+|02-27|🔥 禁野升级下的甲鱼养殖户：村里的池塘变成一潭死水|[link](https://mp.weixin.qq.com/s/R937nADB4AFap1upH89FZA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2283.jpg)|[link](http://archive.today/3yPm8)|/|
+|02-27|🔥 李文亮遗孀付雪洁：看新闻才知道他离开了我|[❌](https://mp.weixin.qq.com/s/AysjSQNSeI2t3JZGK3FIJw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2282.jpg)|[link](http://archive.today/KqycO)|/|
+|02-27|🔥 口罩“心脏”熔喷布这么缺，为什么厂商不借机上产线、扩产能？|[link](https://mp.weixin.qq.com/s/qUk49-YK1QTwmG1LGk7tNQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2281.jpg)|[link](http://archive.today/draJH)|/|
+|02-27|🔥 莆田确诊一超长潜伏期病例，发病前29天内未出现任何症状|[link](https://mp.weixin.qq.com/s/YWMsqy2e9D9-i7LGLOdGvQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2280.jpg)|[link](http://archive.today/Gcua8)|/|
+|02-27|🔥 钟南山：预测的高峰期还没有出现，有信心在4月底基本控制疫情|[link](https://mp.weixin.qq.com/s/Rvs2OwAnuPVQjmAy07i72A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2279.jpg)|[link](http://archive.today/7U8BS)|/|
+|02-27|🔥 横店、象山影视城复工在即，但幕后人员还在焦灼等待|[link](https://mp.weixin.qq.com/s/fdi_kFmNopi7lyn1BvFJcw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2278.jpg)|[link](http://archive.today/Yesrh)|/|
+|02-27|🔥 死去的蜜蜂，未卜的追花路和无助的养蜂人|[link](https://mp.weixin.qq.com/s/cxhICbVDZpokiiAvgqFxUw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2277.jpg)|[link](http://archive.today/OxMgG)|/|
+|02-27|🔥 全面禁食？2500万网红竹鼠等待判决|[link](https://mp.weixin.qq.com/s/zJIIdphknfMPH7EG9-yQ8A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2276.jpg)|[link](http://archive.today/wc4Wb)|/|
+|02-26|韩国已确诊1146例新冠肺炎病例，警方突查“新天地教会”总部|[link](https://mp.weixin.qq.com/s/oHMair0RYS6ykWTWir-liQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2129.jpg)|[link](http://archive.today/90T4z)|/|
+|02-26|欧洲疾控中心：欧盟国家正为疫情“全球大流行”做准备|[link](https://mp.weixin.qq.com/s/rLbn6iS_e36tG2bVhVZjeg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2128.jpg)|[link](http://archive.today/CMdv0)|/|
+|02-26|美国疾控中心发布疫情新警告，道指再度暴跌近900点|[link](https://mp.weixin.qq.com/s/SYG4cWsVvbZA0uYrRX5eHA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2127.jpg)|[link](http://archive.today/hjw9q)|/|
+|02-26|东京奥运会面临疫情困境：5月底或迎生死时限，延期易地办赛不现实|[link](https://mp.weixin.qq.com/s/Mqvva4YTbuQNCZ1ana4e8Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2126.jpg)|[link](http://archive.today/Ph9Ek)|/|
+|02-26|司法部：三省5个监狱共确诊病例555例，全国其他监狱没有感染|[link](https://mp.weixin.qq.com/s/5f210WToEjCkJPlS7KXGzQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2125.jpg)|[link](http://archive.today/HGNu7)|/|
+|02-26|湖北宝宝们的奶粉需求如何满足？|[link](https://mp.weixin.qq.com/s/VLuwqvS_H_K1a1mzkvdSww)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2124.jpg)|[link](http://archive.today/YnnGd)|/|
+|02-26|名创优品员工爆料被迫降薪，官方回应97.7%的员工支持倡议|[link](https://mp.weixin.qq.com/s/hJvPxjBvP-tJuE-5yKQFzg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2123.jpg)|[link](http://archive.today/2x1IZ)|/|
+|02-26|日本老字号旅馆因疫情倒闭，资生堂8000员工开始远程办公|[link](https://mp.weixin.qq.com/s/-aTf9Mk3BMToe6hdXO1zsw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2122.jpg)|[link](http://archive.today/BzjeA)|/|
+|02-26|解读：上海支持文化企业防疫“20条”政策措施如何操作？|[link](https://mp.weixin.qq.com/s/sI_xGW1H0O0t2Jv9aGCCjg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2121.jpg)|[link](http://archive.today/zbf8Q)|/|
+|02-25|新冠肺炎遗体解剖已完成11例，死者肺部有黏液性分泌物|[link](https://mp.weixin.qq.com/s/TZdPW8SiTughKxq76hloew)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2120.jpg)|[link](http://archive.today/W2aH5)|/|
+|02-25|新冠确诊病例将破千，韩政府：全面禁止口罩出口|[link](https://mp.weixin.qq.com/s/DZ3dbcdAsNTcvIFSsbC4Wg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2119.jpg)|[link](http://archive.today/pNt9w)|/|
+|02-25|被指“没有家国情怀”，潘石屹未捐助武汉疫情惹争议|[link](https://mp.weixin.qq.com/s/4wn5NZQ2_ZlMAn8nAE6R_g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2118.jpg)|[link](http://archive.today/w57en)|/|
+|02-25|特朗普向国会申请25亿美元应对疫情，至少10亿美元用于疫苗研发|[link](https://mp.weixin.qq.com/s/yJFK5A1c7zQ9HKjDfqo9Kg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2117.jpg)|[link](http://archive.today/CjqhQ)|/|
+|02-25|韩国不满以色列“过度防疫”，以方自费包机送400名韩国人回家|[link](https://mp.weixin.qq.com/s/fvzkQRfa7KdZpCEMfe0GsQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2116.jpg)|[link](http://archive.today/LHnn5)|/|
+|02-25|滞留武汉后，我带着出生3天的儿子住在车上|[link](https://mp.weixin.qq.com/s/OA85KVdEGczJqCBqZFDvVw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2115.jpg)|[link](http://archive.today/U5kuk)|/|
+|02-25|意大利确诊229例死亡7例，韩国检测“新天地”全体信众|[link](https://mp.weixin.qq.com/s/OYXz__3sxGI9KMuWzLiJWA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2114.jpg)|[link](http://archive.today/BHX88)|/|
+|02-25|韩国飞中国航班爆满，多城市加强入境人员防疫|[link](https://mp.weixin.qq.com/s/EHM3GOpAz3FP2FwCBnMfaw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2113.jpg)|[link](http://archive.today/euhbH)|/|
 |02-24|韩国发布最高级别预警，意大利上百人确诊11市封城|[link](https://mp.weixin.qq.com/s/2REDS88h9I186IQRGKlADg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2025.jpg)|[link](http://archive.today/tp52u)|/|
 |02-24|一家24小时书店疫情下的紧急自救|[link](https://mp.weixin.qq.com/s/-SJDY2ojzl01QUOrehGjFQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2024.jpg)|[link](http://archive.today/Nxoj1)|/|
 |02-24|绍兴医患互敬照片被疑摆拍，院方回应：没有强制3岁男孩鞠躬|[link](https://mp.weixin.qq.com/s/C6xGNlhVxLpQDman8DKiyg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2023.jpg)|[link](http://archive.today/fZYG6)|/|
@@ -1486,17 +1568,22 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 |01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/225.jpg)|[link](https://web.archive.org/web/20200206043047/https://www.jiemian.com/article/3911556.html)|/|
 |01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺|[link](https://new.qq.com/omn/20200125/20200125A0E4IZ00.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/224.jpg)|[link](https://archive.ph/8S0kD)|/|
 |01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[❌]()<sup>*[转载](https://user.guancha.cn/main/content?id=231432&s=fwzwyzzwzbt)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/223.jpg)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|/|
-|01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://mp.weixin.qq.com/s/OO7W-6wToMxi7BJE8i-u9w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/222.jpg)|[link](https://archive.is/RK14U)|/|
+|01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[❌](https://mp.weixin.qq.com/s/OO7W-6wToMxi7BJE8i-u9w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/222.jpg)|[link](https://archive.is/RK14U)|/|
 
 ### 新民周刊
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 口述实录｜病毒围城，我用音乐治疗悲伤|[link](https://mp.weixin.qq.com/s/1y8Eyu7jaYGGz29BROJjUQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2389.jpg)|[link](http://archive.ph/UsXJb)|/|
+|02-28|🔥 独家 \| 林青霞致前线抗疫英雄亲笔信背后的故事|[link](https://mp.weixin.qq.com/s/2-43YkhEqHhzzPTffm5rtQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2388.jpg)|[link](http://archive.ph/r0nl6)|/|
+|02-28|🔥 刑满释放的黄女士，到底是怎样离汉进京的？五大疑问待解！|[link](https://mp.weixin.qq.com/s/pX60PxiKd0jH-1j2YbLjMQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2387.jpg)|[link](http://archive.ph/4smX8)|/|
+|02-28|🔥 口述实录 \| 凌晨四点半，我第一个接到“蓝天战士”许鹏出事的电话|[link](https://mp.weixin.qq.com/s/8ihRn7K4De7Uux0sx7cCig)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2386.jpg)|[link](http://archive.ph/8C00U)|/|
+|02-28|🔥 口述实录｜确诊病例的小区怎么消毒？来看看卫生消杀员的十二时辰|[link](https://mp.weixin.qq.com/s/S3F6gjwG-_z5cjXAMcPsAg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2385.jpg)|[link](http://archive.ph/WQ0OV)|/|
 |02-27|🔥 雷神山上海中医队首例治愈患者出院，病区主任方邦江详解中医怎样治“急病”|[link](https://mp.weixin.qq.com/s/NMcSm_xTtmNzxshoJ-WvZQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2224.jpg)|[link](http://archive.ph/YFexW)|/|
 |02-27|🔥 口述实录 \| 刑满释放后，我报名了县里抗疫一线，但没想到......|[link](https://mp.weixin.qq.com/s/onxf9bBuoDIoljlfIfATEw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2223.jpg)|[link](http://archive.ph/NVTmE)|/|
 |02-27|🔥 口述实录 \| 疫情发生后，我们想到要解决“口罩脸”“酒精手”的问题|[link](https://mp.weixin.qq.com/s/7kOmjbnFGIIkQAZ5fK5IzQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2222.jpg)|[link](http://archive.ph/1Ndz1)|/|
 |02-27|🔥 火线 \| 叫“肺炎”其实轻视了这种疾病——专访北京协和医院刘正印教授|[link](https://mp.weixin.qq.com/s/GzbsTGBZqRfT2bJrFzaHbw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2221.jpg)|[link](http://archive.ph/UuAva)|/|
-|02-26|🔥 快递小哥汪勇感动了全国，却有人在利用他的事迹大肆敛财|[link](https://mp.weixin.qq.com/s/65xYR_bKmIf6ak8c7clIxA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2157.jpg)|[link](http://archive.ph/q7Et5)|/|
+|02-26|快递小哥汪勇感动了全国，却有人在利用他的事迹大肆敛财|[link](https://mp.weixin.qq.com/s/65xYR_bKmIf6ak8c7clIxA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2157.jpg)|[link](http://archive.ph/q7Et5)|/|
 |02-25|口述实录 \| 住在隔离点外帐篷里的老公，我等你回来过30岁生日！|[link](https://mp.weixin.qq.com/s/uKmT5tfi7f5D2GEl_q_9IA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2079.jpg)|[link](http://archive.ph/X0f81)|/|
 |02-25|这个6岁上海小囡，用画笔成为战疫后方“小记者”！|[link](https://mp.weixin.qq.com/s/F9HGo8UeFxtv-WZYndJ13Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2078.jpg)|[link](http://archive.ph/NgUXJ)|/|
 |02-25|网红民警“小唐哥”真的来了，我们还跟着他做了一次街面巡逻|[link](https://mp.weixin.qq.com/s/-I-NC5n6aLCrQwt87AhoPw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2077.jpg)|[link](http://archive.ph/h7yqy)|/|
@@ -1586,7 +1673,26 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 抢救重症病人： “敢死队”插管、专家“捞人”|[link](https://mp.weixin.qq.com/s/U0KUFCt3ZKDtZ5Tbg1ANog)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2342.jpg)|[link](http://archive.is/FL1Sv)|/|
+|02-27|🔥 武汉的九百万种心碎|[link](https://mp.weixin.qq.com/s/sGtxGcV560IJO4pXdKar2A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2341.jpg)|[link](http://archive.is/rHQ8u)|/|
+|02-27|🔥 无症状感染者之谜|[link](https://mp.weixin.qq.com/s/ydSDdcvDihG0j_KTHPLcRA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2340.jpg)|[link](http://archive.is/j6uZh)|/|
+|02-27|🔥 抢救这类新冠肺炎病患，风险加倍难度更加倍|[link](https://mp.weixin.qq.com/s/0irAxyirR51DNJC_nRoMsg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2339.jpg)|[link](http://archive.is/tgSJl)|/|
+|02-26|🔥 “不是这次疫情，很多人不知道中国在全球产业链有多重要”|[link](https://mp.weixin.qq.com/s/4xzNn4RVPn0kn-lKPWBaXA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2338.jpg)|[link](http://archive.is/nYpXH)|/|
+|02-26|🔥 解剖遗体法医刘良：如果患者气道粘液没化解，给氧会起反作用|[link](https://mp.weixin.qq.com/s/bqdAHVCZt-iDDMC9dW8mXQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2337.jpg)|[link](http://archive.is/eAsRs)|/|
+|02-25|🔥 对话痊愈后重返一线的武汉医生：治一个是一个，得对得起自己的良心|[link](https://mp.weixin.qq.com/s/rfSs8WlvzvgNq6eumP5gkg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2336.jpg)|[link](http://archive.is/32cJI)|/|
+|02-25|🔥 海外记者眼中的广东“抗疫”和“复工”|[link](https://mp.weixin.qq.com/s/qslktbqU2lqwvtXhTNML8w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2335.jpg)|[link](http://archive.is/C3ufj)|/|
+|02-24|🔥 “局部爆发式增长”？韩国新冠疫情告急|[link](https://mp.weixin.qq.com/s/oqUtEhYENAOFopABo1v1pQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2334.jpg)|[link](http://archive.is/oTqXA)|/|
+|02-24|🔥 “蝗虫大军”暂时不来了，这些乌龙与真相仍要警惕|[link](https://mp.weixin.qq.com/s/XlOiRRJQgq0sLyDVWAhWzA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2333.jpg)|待补|/|
+|02-23|🔥 金银潭医院：军运会五外籍运动员患疟疾，与新冠肺炎无关|[link](https://mp.weixin.qq.com/s/vs80ZnJ9OFEeMi4-wQ_pUg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2332.jpg)|[link](http://archive.is/rIGVj)|/|
+|02-22|🔥 口罩的 “非常 ”加法：日产量或将两亿 ，仍会短缺还是饱和？|[link](https://mp.weixin.qq.com/s/joQin4H0O7jXyVIaqZUy1g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2331.jpg)|待补|/|
+|02-22|🔥 逝者\|武昌医院院长刘智明的最后一月|[link](https://mp.weixin.qq.com/s/Hnd0su8vySshz6ZzpT5TcA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2330.jpg)|[link](http://archive.is/d7vSl)|/|
+|02-21|🔥 武汉“团战”|[link](https://mp.weixin.qq.com/s/9cbqM1ZL0_89agIlf5gh0g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2329.jpg)|[link](http://archive.is/LPZcQ)|/|
+|02-21|🔥 武汉“应收尽收”难在何处？|[link](https://mp.weixin.qq.com/s/dMHOdgH29-Qnye8Es1ymzA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2328.jpg)|[link](http://archive.is/GTe1g)|/|
+|02-20|🔥 2亿人的“在家办公”实验|[link](https://mp.weixin.qq.com/s/JZuWC7k-tKvfjBHNmJ3jmw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2327.jpg)|[link](http://archive.is/3oY7U)|/|
+|02-20|🔥 重症武汉，重新呼吸|[link](https://mp.weixin.qq.com/s/ANwcJNYE1Vwo4ANa28qAGQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2326.jpg)|待补|/|
 |02-20|脆弱的疫区养老院：看似封闭的空间，无孔不入的病毒|[❌](http://infzm.com/contents/177104)<sup>*[转载](https://terminus2049.github.io/archive/2020/02/21/nursing-home.html)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1639.jpg)|[link](https://web.archive.org/web/20200220071742/https://wxn.qq.com/cmsid/WXN2020022000937600)|/|
+|02-19|🔥 血浆治疗法：疗效待定，可为寻找抗体和疫苗打基础|[link](https://mp.weixin.qq.com/s/shAhLu1k0pfroJVxHFnRzg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2325.jpg)|[link](http://archive.is/iKbdX)|/|
+|02-19|🔥 决胜武汉进行时|[link](https://mp.weixin.qq.com/s/w1hE0Ozn7cHD-DCxBoeuLQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2324.jpg)|[link](http://archive.is/RLsJy)|/|
 |02-19|钟南山：2月中下旬疫情或达峰值，武汉还未完全阻断人传人|[link](https://mp.weixin.qq.com/s/LWM1FEcZE3f3_ONaSs0Fkg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1564.jpg)|[link](http://archive.is/oUcu3)|/|
 |02-17|开往疫区的货车|[link](https://mp.weixin.qq.com/s/hMpCbkH3UXcvC_8Ek9cwew)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1563.jpg)|[link](http://archive.is/wvyEg)|/|
 |02-17|不退缩，有时候和英雄无关|[link](https://mp.weixin.qq.com/s/ijHgDWLMjHoHOmin0x5YDg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1562.jpg)|[link](http://archive.is/QVzZ9)|/|
@@ -1684,6 +1790,20 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 在风暴中心坚守平凡生活的“脉动”|[link](https://mp.weixin.qq.com/s/p6V2jNq7PGLB8zT7WeHfQQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2323.jpg)|[link](http://archive.is/LlfoF)|/|
+|02-27|🔥 几十万学费变成了买网课，被疫情阻断的留学路|[link](https://mp.weixin.qq.com/s/Bjevy2RRFhmtNrhpMUEl7A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2322.jpg)|[link](http://archive.is/VLRvB)|/|
+|02-27|🔥 武汉人买菜的真实图景|[link](https://mp.weixin.qq.com/s/ek-P2qSLNWySP-XgO3F2iw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2321.jpg)|[link](http://archive.is/exLH5)|/|
+|02-26|🔥 前线女性医护是否真的需要安心裤？是的，非常需要|[link](https://mp.weixin.qq.com/s/2SeA7NyAssPokLJyMvrx5A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2320.jpg)|[link](http://archive.is/94oAX)|/|
+|02-26|🔥 疫情之下，除了求救和倒闭，实体书店还有别的出路吗？|[link](https://mp.weixin.qq.com/s/-Hox_tPbdEuiGtNs80uyCw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2319.jpg)|[link](http://archive.is/FXG4t)|/|
+|02-24|🔥 一“枪”难求，买额温枪遭遇连环涨|[link](https://mp.weixin.qq.com/s/IdUwLIPMd5rqqGZDmIOoCA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2318.jpg)|[link](http://archive.is/z8VSi)|/|
+|02-24|🔥 没想到！一群高中生和一群95后，在帮他们解决口罩问题|[link](https://mp.weixin.qq.com/s/LcP2OuYitNf43rPQEkznJg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2317.jpg)|[link](http://archive.is/52elO)|/|
+|02-21|🔥 疫情下的面板生产重镇，武汉光谷多家企业仍满产运营|[link](https://mp.weixin.qq.com/s/t93UKKxnf67kSUAJWXxw9w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2316.jpg)|[link](http://archive.is/mIOwU)|/|
+|02-20|🔥 一名武汉大学生的自述：00后的我，相信不会再畏惧了|[link](https://mp.weixin.qq.com/s/HjIBPXLI73XwhyAWha_MmQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2315.jpg)|[link](http://archive.is/eOJjl)|/|
+|02-19|🔥 强制搬家、高价续租、免租难落实…疫情期间长租公寓平台的争议|[link](https://mp.weixin.qq.com/s/AzbM86eUzYagV4aseNCkQA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2314.jpg)|[link](http://archive.is/qh0qY)|/|
+|02-18|🔥 寒冬里，百万村庄的线上战役|[link](https://mp.weixin.qq.com/s/DzDGaW3xHbxtX1b9yr9jKQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2313.jpg)|[link](http://archive.is/oWClV)|/|
+|02-17|🔥 “停课不停学”第一周，老师战网络，家长做噩梦|[link](https://mp.weixin.qq.com/s/L0ky9jFXynb7L0m8gkf13g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2312.jpg)|[link](http://archive.is/RpcI0)|/|
+|02-15|🔥 肺炎时期的爱情：即使直面死亡，我也要爱|[link](https://mp.weixin.qq.com/s/7ssZtX8z1AMvFMABtQoXMw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2311.jpg)|[link](http://archive.is/hMs4H)|/|
+|02-15|🔥 网络质疑、商家欺骗…疫情之下的年轻志愿者们如何应对？|[link](https://mp.weixin.qq.com/s/8ttyD60tbtTUaDtGUu9SeQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2310.jpg)|[link](http://archive.is/2zKMh)|/|
 |02-13|售楼处关闭怎么办？房企这样“战疫”|[link](https://mp.weixin.qq.com/s/oN7r2axHSGLBQ7tGaV-IPw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1114.jpg)|[link](http://archive.is/VzzhP)|/|
 |02-13|一个武汉女孩的自述：慌乱中被迫成长，以后要学做家务学烧菜|[link](https://mp.weixin.qq.com/s/QrULPtnH669Bz-FbiltD_A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1113.jpg)|[link](http://archive.is/Z2WoX)|/|
 |02-13|湖北新增病例为何大幅增加？临床诊断病例和疑似病例有何不同？|[link](https://mp.weixin.qq.com/s/cJZZMq2LOvWC_Y6hd4ZHzA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1112.jpg)|[link](http://archive.is/iOQBr)|/|
@@ -1712,6 +1832,14 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 我在武汉街头入睡，请别对着我的被子浇水|[link](https://mp.weixin.qq.com/s/mHlW6EJKiemXvkTdjnMJ5Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2175.jpg)|[link](http://archive.ph/6uhGB)|/|
+|02-25|🔥 封城一月，一个武汉女人的抗疫史诗|[link](https://mp.weixin.qq.com/s/59rKmLzfxilIXi-EeQ8hLQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2309.jpg)|[link](http://archive.is/pVKqq)|/|
+|02-24|🔥 这个头条，我们留给非肺炎患者|[link](https://mp.weixin.qq.com/s/8MgxrBIQvbFLrgRdqKyOrg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2308.jpg)|[link](http://archive.is/uQkpx)|/|
+|02-23|🔥 武汉王奶奶的最后一个春节|[link](https://mp.weixin.qq.com/s/Pp_1_mVjWyxfvhRxQN-ulw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2307.jpg)|[link](http://archive.is/jcN1b)|/|
+|02-23|🔥 凌晨四点，这群人在守候什么|[link](https://mp.weixin.qq.com/s/PhUyVaU0cHKAibT1otlvzg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2306.jpg)|[link](http://archive.is/baeZZ)|/|
+|02-21|🔥 疫情下的中国留学生|[link](https://mp.weixin.qq.com/s/JeYoYp1sEMryG-by8KFbTA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2305.jpg)|[link](http://archive.is/QruzK)|/|
+|02-17|🔥 方舱医院没有黑夜|[link](https://mp.weixin.qq.com/s/MU1w6nt4XOSQ_7gkFGkjZg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2304.jpg)|[link](http://archive.is/ADj8C)|/|
+|02-17|🔥 他们曾经照顾病人，如今成为了病人|[link](https://mp.weixin.qq.com/s/3E1rij1QF8KIaK9V6kbyfA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2303.jpg)|[link](http://archive.is/4riAK)|/|
 |02-16|那些增援一线的护士们|[link](https://mp.weixin.qq.com/s/kdE0aIn0aEdYjs8GH_D74w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1588.jpg)|[link](http://archive.is/VcVjC)|/|
 |02-15|口述 \| 一位95后谈抗疫：我辈，当躬身入局|[link](https://mp.weixin.qq.com/s/1JBDh3o9bMFinUmU5J03QA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1589.jpg)|[link](http://archive.is/71Awi)|/|
 |02-15|“疫时”故事里，“我”只是一个普通人|[link](https://mp.weixin.qq.com/s/Tscwq6WaN0BvIe5XNBSoVQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1587.jpg)|[link](http://archive.is/R4Whx)|/|
@@ -1821,13 +1949,18 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 欠薪、裁员、全员销售，优胜教育激进自救|[link](https://mp.weixin.qq.com/s/U2Ut4lUqYWKKXx-rL0QnKQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2382.jpg)|[link](http://archive.ph/9mWXf)|/|
+|02-28|🔥 华创资本熊伟铭：2020年，创投机会在哪里？|[link](https://mp.weixin.qq.com/s/yPUazV92F57r3sAGVo3ZoA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2381.jpg)|[link](http://archive.ph/YDBLX)|/|
+|02-28|🔥 战疫路演实录：9位新消费创业者怎样“危”中寻“机”|[link](https://mp.weixin.qq.com/s/A0e8bcAnXcVrmf1MA8Bwbg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2380.jpg)|[link](http://archive.ph/ZGgME)|/|
+|02-28|🔥 旷视谢忆楠：火车站机场的AI测温是如何实现的？|[link](https://mp.weixin.qq.com/s/EJVRNyoVtgSxbTYMAlm1DQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2379.jpg)|[link](http://archive.ph/gFz16)|/|
+|02-28|🔥 快仓智能孙宇：疫情加速机器人应用，但无人车无人机送货还很远|[link](https://mp.weixin.qq.com/s/uu0klJtta9P3_IG6Z5tqJg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2378.jpg)|[link](http://archive.ph/tufeM)|/|
 |02-27|🔥 网上卖房，噱头？|[link](https://mp.weixin.qq.com/s/U7d42FtSTJGUetPb5gztzg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2229.jpg)|[link](http://archive.ph/GVZl9)|/|
 |02-27|🔥 威马汽车沈晖：新造车企业只有三家能生存，威马、蔚来和小鹏|[link](https://mp.weixin.qq.com/s/sIFmEZs7mCKJL1iRyfei-Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2228.jpg)|[link](http://archive.ph/Pz0v3)|/|
 |02-27|🔥 沄柏资本鲍毅：造车新势力仅有一两家能存活，资本不要盲目投入|[link](https://mp.weixin.qq.com/s/9QPD3-mdM0lV10y5VMXf8w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2227.jpg)|[link](http://archive.ph/1l0H2)|/|
-|02-26|🔥 小游戏，过了个好年|[link](https://mp.weixin.qq.com/s/wCemLZCsdkro3PO1V73elQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2156.jpg)|[link](http://archive.ph/2wY5q)|/|
-|02-26|🔥 货拉拉CEO周胜馥：疫情导致1个月亏1亿，但不降薪不裁员|[link](https://mp.weixin.qq.com/s/f6VxjXGmkXELVI8b7no4IA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2155.jpg)|[link](http://archive.ph/7Kh8T)|/|
-|02-26|🔥 光源资本郑烜乐：物流行业马太效应加速，大多数公司会死在AB轮|[link](https://mp.weixin.qq.com/s/4J2BmzsXA44DpbrYFn0Lvg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2154.jpg)|[link](http://archive.ph/VYhWU)|/|
-|02-26|🔥 蜂鸟即配刘歆杨：骑士出勤1天，可以减少25个家庭外出|[link](https://mp.weixin.qq.com/s/3BkB0EkQ0KHWuHH0eVlLWQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2153.jpg)|[link](http://archive.ph/KchKV)|/|
+|02-26|小游戏，过了个好年|[link](https://mp.weixin.qq.com/s/wCemLZCsdkro3PO1V73elQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2156.jpg)|[link](http://archive.ph/2wY5q)|/|
+|02-26|货拉拉CEO周胜馥：疫情导致1个月亏1亿，但不降薪不裁员|[link](https://mp.weixin.qq.com/s/f6VxjXGmkXELVI8b7no4IA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2155.jpg)|[link](http://archive.ph/7Kh8T)|/|
+|02-26|光源资本郑烜乐：物流行业马太效应加速，大多数公司会死在AB轮|[link](https://mp.weixin.qq.com/s/4J2BmzsXA44DpbrYFn0Lvg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2154.jpg)|[link](http://archive.ph/VYhWU)|/|
+|02-26|蜂鸟即配刘歆杨：骑士出勤1天，可以减少25个家庭外出|[link](https://mp.weixin.qq.com/s/3BkB0EkQ0KHWuHH0eVlLWQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2153.jpg)|[link](http://archive.ph/KchKV)|/|
 |02-25|裁员这笔账，应该怎么算？|[link](https://mp.weixin.qq.com/s/nrEWjfNM6op_GCVava_kOQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2073.jpg)|[link](http://archive.ph/6biXQ)|/|
 |02-24|2020无春招|[link](https://mp.weixin.qq.com/s/o4q94RF7h0DaqK-9_J9qqw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1991.jpg)|[link](http://archive.is/E8xys)|/|
 |02-24|企业打响复工战|[link](https://mp.weixin.qq.com/s/OQMgQFggngBNkD8Sko30vA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1990.jpg)|[link](http://archive.is/5OwYv)|/|
@@ -1878,8 +2011,9 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 名实不副地位太低——你可能不知道的中国疾控往事|[link](https://mp.weixin.qq.com/s/rvBoLAC2M9J2iY39kQwqgw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2259.jpg)|[link](https://archive.li/GPme5)|/|
 |02-27|🔥 超1200例确诊、总统身边有感染者，韩国为何突成第二大疫情国|[link](https://mp.weixin.qq.com/s/oum1hN32pi0Hsmz0bxia1Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2167.jpg)|[link](http://archive.ph/jgU5N)|/|
-|02-26|🔥 新冠防疫到乡村：武汉百公里外，一个县的防控日志|[link](https://mp.weixin.qq.com/s/Fx4ghJlyGdE91ux9hRs5bg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2081.jpg)|[link](http://archive.ph/8ZGIW)|/|
+|02-26|新冠防疫到乡村：武汉百公里外，一个县的防控日志|[link](https://mp.weixin.qq.com/s/Fx4ghJlyGdE91ux9hRs5bg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2081.jpg)|[link](http://archive.ph/8ZGIW)|/|
 |02-26|2596名死者留下的遗憾，6位一线医生讲述新冠重症治疗难题|[link](https://mp.weixin.qq.com/s/Q2o3fsU1Nhxi-05L5hDBdQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2047.jpg)|[link](http://archive.ph/i5Zpl)|/|
 |02-24|武汉政策加码：出院后还要集中隔离2周，新冠肺炎怎样才算治愈？|[link](https://mp.weixin.qq.com/s/grE_4cTFsch4RHVQFqWraQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1899.jpg)|[link](http://archive.ph/I1Sr7)|/|
 |02-23|疫情笼罩的武汉，非新冠重病患者求医之困|[link](https://mp.weixin.qq.com/s/yPhgg9292WBsX2cqlCgchg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1701.jpg)|[link](http://archive.ph/nGbqr)|/|
@@ -1920,7 +2054,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 防控「死角」中的精神病患|[link](https://mp.weixin.qq.com/s/zyoP8Id_LWVATXQX00Ur3w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2082.jpg)|[link](http://archive.ph/JE5nW)|/|
+|02-26|防控「死角」中的精神病患|[link](https://mp.weixin.qq.com/s/zyoP8Id_LWVATXQX00Ur3w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2082.jpg)|[link](http://archive.ph/JE5nW)|/|
 |02-20|床位的抉择：武汉肿瘤患者求医之困|[link](https://mp.weixin.qq.com/s/Efa6iNrf7wuWAwsYJa83xA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1635.jpg)|[link](http://archive.ph/yfRtq)|/|
 |02-19|武昌医院院长刘智明的最后人生路|[link](https://mp.weixin.qq.com/s/UFXZN7ynXAs65f2mV2iCMA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1805.jpg)|[link](http://archive.ph/y48CI)|/|
 |02-17|人陷百步亭：万人家宴后的 1 个月|[link](https://mp.weixin.qq.com/s/y5TRKscFKP-ymCm3Xcs9TQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1445.jpg)|[link](http://archive.ph/lHwVV)|/|
@@ -1944,6 +2078,8 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 瑞德西韦遭遇患者样本不足，“人民的希望”淹没在271项研究中|[link](https://mp.weixin.qq.com/s/MyTzqMkOBVMMkcU7rFZ1cg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2384.jpg)|[link](http://archive.ph/Boksl)|/|
+|02-28|🔥 新冠疫情汹涌，脆弱的儿童反而成了幸运群体|[link](https://mp.weixin.qq.com/s/BbHAvxQPyXmwMU3i8xiMTg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2383.jpg)|[link](http://archive.ph/eSY44)|/|
 |02-27|🔥 武汉一线专家详解新冠肺炎死亡病例：他们是窒息而死，过程很痛苦 \| 独家专访|[link](https://mp.weixin.qq.com/s/4f0NuxqhtZIzL8r2rHL-Pw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2226.jpg)|[link](http://archive.ph/YjgBB)|/|
 |02-27|🔥 是非功过如何评，中疾控撰文详述武汉“封城”|[link](https://mp.weixin.qq.com/s/lXJU5wJ9L_TrLPTBFYKZww)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2225.jpg)|[link](http://archive.ph/2tUEn)|/|
 |02-25|世卫组织称新冠疫情尚未到“大流行”，评价中国“战疫”：中国人民奉献很多|[link](https://mp.weixin.qq.com/s/2OUUf_mkuD1xGVntgiCDdA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2075.jpg)|[link](http://archive.ph/lfxsD)|/|
@@ -1970,7 +2106,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 失序的日子里，疫区的普通人如何照常生活？|[link](https://mp.weixin.qq.com/s/lxTGyf5XR90qP_8P7Lq6mA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2144.jpg)|[link](http://archive.is/FsiAo)|/|
+|02-26|失序的日子里，疫区的普通人如何照常生活？|[link](https://mp.weixin.qq.com/s/lxTGyf5XR90qP_8P7Lq6mA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2144.jpg)|[link](http://archive.is/FsiAo)|/|
 |02-21|疫情生活同题问答：摘掉口罩相遇的那一天，请互相点头微笑吧|[link](https://mp.weixin.qq.com/s/tqo4XqQGIIicTIrSykf7yg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1708.jpg)|[link](http://archive.is/pGT8f)|/|
 |02-19|武汉医院里的理发师们：我们要让每位医护人员都漂漂亮亮地回家|[link](https://mp.weixin.qq.com/s/7Wk-3eFez4evIeW3JcHhXA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1615.jpg)|[link](http://archive.is/jKr7B)|/|
 |02-17|镜头下的武汉社区医院：临危受命的疫情最前线|[link](https://mp.weixin.qq.com/s/JGXnAmJFXGTnNROrPVOddw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1416.jpg)|[link](http://archive.is/7Dkr5)|/|
@@ -2064,6 +2200,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-25|🔥 捐出救命药的艾滋患者们|[link](https://mp.weixin.qq.com/s/GfFUMP4HysvEiDOdZ-SVTQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2247.jpg)|[link](http://archive.ph/IcdI1)|/|
 |02-22|重度抑郁症患者断药后|[link](https://mp.weixin.qq.com/s/cYXosszvtDWzBMMUD7ZafA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1811.jpg)|[link](http://archive.ph/UaZwj)|/|
 |02-21|当穷孩子也开始上网课|[link](https://mp.weixin.qq.com/s/4kNNHr0EuUSOnn_VTdKCFQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1817.jpg)|[link](http://archive.ph/8xYx9)|/|
 |02-15|16000个电话开辟的生命热线|[link](https://mp.weixin.qq.com/s/rSeYFO3bxhApeudFJCfy5Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1402.jpg)|[link](http://archive.ph/VQYIf)|/|
@@ -2096,8 +2233,8 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 一个湖北人流落在北京街头|[link](https://mp.weixin.qq.com/s/mv6yTBPAf9jKpeduWxH3NQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2161.jpg)|[link](https://archive.is/dHSGy)|/|
-|02-21|🔥 他召集艾滋病人，给新冠患者捐药|[link](https://mp.weixin.qq.com/s/SkQFTnpXLY7oAgy3KXRDaQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2160.jpg)|[link](https://archive.is/8k3bT)|/|
+|02-26|一个湖北人流落在北京街头|[link](https://mp.weixin.qq.com/s/mv6yTBPAf9jKpeduWxH3NQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2161.jpg)|[link](https://archive.is/dHSGy)|/|
+|02-21|他召集艾滋病人，给新冠患者捐药|[link](https://mp.weixin.qq.com/s/SkQFTnpXLY7oAgy3KXRDaQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2160.jpg)|[link](https://archive.is/8k3bT)|/|
 |02-18|我去建“雷神山”这事，别告诉你妈|[link](https://mp.weixin.qq.com/s/CMre-ZeW9teiK9H2cDqiIQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1532.jpg)|[link](https://archive.is/WIuvL)|/|
 |01-31|封城后的鄂州：这里没有太多新闻|[link](https://mp.weixin.qq.com/s/XyhH_y9d4qOfURRmFnGkAg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/507.jpg)|[link](http://archive.is/b4Om7)|/|
 |01-29|封城后的黄冈：确诊病例仅次武汉|[link](https://mp.weixin.qq.com/s/hSvrH8ACUSYn-uU5leE8wQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/508.jpg)|[link](http://archive.is/6qirF)|/|
@@ -2152,6 +2289,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 这是一篇被删除10多次的文章，自己看吧！|[link](https://mp.weixin.qq.com/s/-otZUBboEEV2wXNW8CwhBA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2240.jpg)|[link](http://archive.ph/7oE4q)|/|
 |02-10|穿越疫情封锁线：4天,23个药店,90通电话,我终于在湖北买到抑郁药|[link](https://mp.weixin.qq.com/s/AehqNkBQ60mEqz6iWFWwBw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/705.jpg)|[link](http://archive.ph/x6l0l)|/|
 |02-09|我是个武汉「逃兵」，我是个卑鄙的人吗？|[link](https://mp.weixin.qq.com/s/vmkZsDpMgUV9Gbz5LhaRGQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/707.jpg)|[link](http://archive.ph/9g2R7)|/|
 |02-08|武汉协和医生：我从没穿过这么贵的防护服|[link](https://mp.weixin.qq.com/s/3nuGeMwtdPZUmu7Qgo73_g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/708.jpg)|[link](http://archive.ph/nJPec)|/|
@@ -2165,6 +2303,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 全球疫情处于关键时刻，负责抢救危重患者的医生确诊新冠，以及其他 26 条疫情新闻|[link](https://mp.weixin.qq.com/s/GAlhmA64GRS3mwhKRX_j9Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2243.jpg)|[link](http://archive.ph/32z1o)|/|
 |02-27|🔥 新冠疫情进一步全球扩散，瑞德西韦或为唯一有效药，以及其他 25 条疫情新闻|[link](https://mp.weixin.qq.com/s/xIh6zs66gPZ_fcUR3ZPnlw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2166.jpg)|[link](http://archive.ph/UnwCM)|/|
 |02-25|新冠病毒更可能来自自然选择，专家建议在出院标准中加入抗原体检测，以及其他 26 条疫情新闻|[link](https://mp.weixin.qq.com/s/_lpmeZ7UUwgIRLiYPt6HmA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2056.jpg)|[link](http://archive.ph/8M4MR)|/|
 |02-24|日本如何应对新冠疫情 \| 一条时间线|[link](https://mp.weixin.qq.com/s/_L2Q1oLw2E8JSG92mcBe_g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1900.jpg)|[link](http://archive.ph/mz302)|/|
@@ -2234,7 +2373,10 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-25|🔥 盒马不停|[link](https://mp.weixin.qq.com/s/wH3mx8g_8JG2-3zC-rOuXA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2142.jpg)|[link](http://archive.today/R0lJF)|/|
+|02-27|🔥 抗疫时期的中国舆论场⑤：市场的角色|[link](https://mp.weixin.qq.com/s/VO4Ig2MvBFu38Uetg96zmA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2294.jpg)|[link](http://archive.today/4tEcg)|/|
+|02-27|🔥 病患、区长、书记：张兵的方舱17天 \| 武汉人⑦|[link](https://mp.weixin.qq.com/s/NAmukLBKGS_6DPrrMayMvA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2293.jpg)|[link](http://archive.today/AlSio)|/|
+|02-25|盒马不停|[link](https://mp.weixin.qq.com/s/wH3mx8g_8JG2-3zC-rOuXA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2142.jpg)|[link](http://archive.today/R0lJF)|/|
+|02-23|🔥 社区，社工，人 \| 武汉人⑥|[link](https://mp.weixin.qq.com/s/QO84oWtt9MZ7lX0wASwwoA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2292.jpg)|[link](http://archive.today/1LSSf)|/|
 |02-20|口罩总动员|[link](https://mp.weixin.qq.com/s/pfG_PEd2LyhA8uExuJOEYQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1700.jpg)|[link](http://archive.today/Wl8BL)|/|
 |02-05|物资告急那几天，四位女生在城里「补缺」丨武汉人⑤|[link](https://mp.weixin.qq.com/s/9bFxtqwIIBLdPu9hcUnmwg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/500.jpg)|[link](http://archive.ph/oW7th)|/|
 |02-04|被家乡推开的人 \| 武汉人③|[link](https://mp.weixin.qq.com/s/XC4M2XxoCQ9qoDv9Ry-eaA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/502.jpg)|[link](http://archive.ph/EKSSU)|/|
@@ -2274,8 +2416,9 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 航空公司自救30天|[link](https://mp.weixin.qq.com/s/I3xQLcfdtFL_i57dJMSCgA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2390.jpg)|[link](http://archive.ph/Ze3UF)|/|
 |02-27|🔥 8名高管、20多名员工滞留湖北，一家温州工厂的艰难复工|[link](https://mp.weixin.qq.com/s/go4sB49eD7pTAoDKEhJLtQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2219.jpg)|[link](http://archive.ph/kRQQR)|/|
-|02-26|🔥 生活正在起变化|[link](https://mp.weixin.qq.com/s/8ttk9OJ7Zn6ljW_HBUZCyg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2158.jpg)|[link](http://archive.ph/p4Zto)|/|
+|02-26|生活正在起变化|[link](https://mp.weixin.qq.com/s/8ttk9OJ7Zn6ljW_HBUZCyg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2158.jpg)|[link](http://archive.ph/p4Zto)|/|
 |02-25|滞留湖北的5个外地人和他们的5种遭遇|[link](https://mp.weixin.qq.com/s/HZl1JYuIMfC7U6eX96WAfQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2080.jpg)|[link](http://archive.ph/FYhSS)|/|
 |02-23|直播卖车能救车企吗？|[link](https://mp.weixin.qq.com/s/R7yeozSkotFw5E5EOsaC5A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1874.jpg)|[link](http://archive.ph/KgJjy)|/|
 |02-21|养蜂人上吊自杀，疫情中蜜蜂和蜂农的生死大考|[❌](https://mp.weixin.qq.com/s/K1W4FQb-NGUuetg81-ubfw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1713.jpg)|[link](http://archive.ph/qbioz)|/|
@@ -2305,6 +2448,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 最后一公里的社区“守护神”|[link](https://mp.weixin.qq.com/s/Zyu9iRyJ_r5iZViBq1orkQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2376.jpg)|[link](http://archive.ph/uwUft)|/|
 |02-18|一名重症患者家属的自白|[link](https://mp.weixin.qq.com/s/K2QOegcwCVusxtzeYZmKYQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1951.jpg)|[link](http://archive.ph/BJ22p)|/|
 |02-17|没错，我就是个做口罩的|[link](https://mp.weixin.qq.com/s/X2fiGhBKES5pMSngqTh1Ww)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1952.jpg)|[link](http://archive.ph/oVnPJ)|/|
 |02-12|后方的老师，我隔着屏幕在抗疫|[link](https://mp.weixin.qq.com/s/M8C9iEMrF7NALwh5oOnhvg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1956.jpg)|[link](http://archive.ph/hCKKS)|/|
@@ -2321,6 +2465,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 在小区防疫的同性恋志愿者|[link](https://mp.weixin.qq.com/s/uTWF_HFeKPfdKF1sWINH1A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2244.jpg)|[link](http://archive.ph/Pamgq)|/|
 |02-14|给艾滋感染者送药的武汉外地人|[link](https://mp.weixin.qq.com/s/2q3iUEwhrVt1NRODdBq9mw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1898.jpg)|[link](http://archive.ph/8uXAK)|/|
 |02-12|疫情让我出了柜|[link](https://mp.weixin.qq.com/s/fodw1GRegTLbF8oDjxxVsQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1897.jpg)|[link](http://archive.ph/muLBK)|/|
 |02-04|武汉封城下的艾滋感染者|[link](https://mp.weixin.qq.com/s/ruOQGdQ1jMZEJAIMV47TLA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1896.jpg)|[link](http://archive.ph/A8DBD)|/|
@@ -2382,58 +2527,13 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 ## 亲历者个人叙述
 
-### PlantifulSoul
-
-| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
-|---|:----------|:---|:---:|:---:|:---:|
-|02-27|🔥 疫情日记 \| 武汉封城的第三十六天|[link](https://mp.weixin.qq.com/s/xiI1ew1rXaBqDF62npEO7g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2232.jpg)|[link](http://archive.ph/2HoM5)|/|
-|02-25|疫情日记 \| 武汉封城的第三十四天|[link](https://mp.weixin.qq.com/s/aPlzP7IkZpo-5kD3xyIMGA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2069.jpg)|[link](http://archive.ph/ytD4c)|/|
-|02-23|疫情日记 \| 武汉封城的第三十二天|[link](https://mp.weixin.qq.com/s/yNbd-M4P-V5OWTJeiQtweQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1968.jpg)|[link](http://archive.ph/GiVNq)|/|
-|02-21|疫情日记 \| 武汉封城的第三十天|[link](https://mp.weixin.qq.com/s/KjRYwLF4X9v8fOjnMb5Azg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1969.jpg)|[link](http://archive.ph/3QWbo)|/|
-|02-19|疫情日记 \| 武汉封城的第二十八天|[link](https://mp.weixin.qq.com/s/NDU0mavupJ_6VVKRn5qZfw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1970.jpg)|[link](http://archive.ph/wUYHb)|/|
-|02-17|疫情日记 \| 武汉封城的第二十六天|[link](https://mp.weixin.qq.com/s/E9w8RFc0YOcIj_enXBNZrQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1971.jpg)|[link](http://archive.ph/GBERM)|/|
-|02-15|疫情日记 \| 武汉封城的第二十四天|[link](https://mp.weixin.qq.com/s/Wj9MdyXKTJY6j_mX35lXtA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1972.jpg)|[link](http://archive.ph/qE0C1)|/|
-|02-13|疫情日记 \| 武汉封城的第二十二天|[link](https://mp.weixin.qq.com/s/oJJpWxSd9KybCiOE0_uaEw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1973.jpg)|[link](http://archive.ph/dQlql)|/|
-|02-11|疫情日记 \| 武汉封城的第二十天|[link](https://mp.weixin.qq.com/s/6L3o07Orww4-_UGkSxqAnw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1974.jpg)|[link](http://archive.ph/01GdF)|/|
-|02-09|疫情日记 \| 武汉封城的第十八天|[link](https://mp.weixin.qq.com/s/zTv1r0q9Xx0k8_TzpBKEOQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1975.jpg)|[link](http://archive.ph/7Anmb)|/|
-|02-07|疫情日记 \| 武汉封城的第十六天|[link](https://mp.weixin.qq.com/s/-0-Jl-UQtd6JjMquPlK6VQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1976.jpg)|[link](http://archive.ph/TI28O)|/|
-|02-05|疫情日记 \| 武汉封城的第十四天|[link](https://mp.weixin.qq.com/s/2vuVqo_JSvQeU2C5x_FeOA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1977.jpg)|[link](http://archive.ph/4soj6)|/|
-|02-03|疫情日记 \| 武汉封城的第十二天|[link](https://mp.weixin.qq.com/s/ImwvBXL6s-YlDZ9gID__qA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1978.jpg)|[link](http://archive.ph/AEpRY)|/|
-|02-01|疫情日记 \| 武汉封城的第十天|[link](https://mp.weixin.qq.com/s/jxV5omqtg3Hp4rYWycswpw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1979.jpg)|[link](http://archive.ph/W9Lff)|/|
-|01-30|疫情日记 \| 武汉封城的第八天|[link](https://mp.weixin.qq.com/s/qcYRnkUSKTRWl5LwMsdO5A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1980.jpg)|[link](http://archive.ph/8VLre)|/|
-|01-28|疫情日记 \| 武汉封城的第五天|[link](https://mp.weixin.qq.com/s/GmlTt5DLvJQg_Vqr_4_xIQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1981.jpg)|[link](http://archive.ph/3IsnL)|/|
-|01-25|疫情日记 \| 武汉封城的第三天|[link](https://mp.weixin.qq.com/s/D8msgSglUknae2aLG36xwg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1982.jpg)|[link](http://archive.ph/gw7Ar)|/|
-|01-23|武汉全面封城首日|[link](https://mp.weixin.qq.com/s/kljIX1EHWauAx6hOx1XcSQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1983.jpg)|[link](http://archive.ph/si7Mq)|/|
-
-### 我们是有故事的人（个体）
-
-| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
-|---|:----------|:---|:---:|:---:|:---:|
-|02-27|🔥 身为普通病人，如何在疫情期及时求医问药?|[link](https://mp.weixin.qq.com/s/XaX9fvnXu8L-j4CsJlF3dg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2231.jpg)|[link](http://archive.ph/S0ICu)|/|
-|02-26|🔥 一个市场监管所所长的抗“疫”日记|[link](https://mp.weixin.qq.com/s/8OuhxFtUQGv7oPIXCBHJJQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2151.jpg)|[link](http://archive.ph/QsfO5)|/|
-|02-25|在纪委做实习生，枯燥且充满算计?|[link](https://mp.weixin.qq.com/s/dD1jVRHZev5j1oaIQFulxQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2070.jpg)|[link](http://archive.ph/xqY3v)|/|
-|02-24|在隔离点做了半个月保安，我发烧了|[link](https://mp.weixin.qq.com/s/nFUBwYK8z8MBOvN3C56ROA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1946.jpg)|[link](http://archive.ph/kukX9)|/|
-|02-22|回家后，你们都离我远一点|[link](https://mp.weixin.qq.com/s/eu6PbzDWsA103I_Pf13OpQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1947.jpg)|[link](http://archive.ph/H2ll7)|/|
-|02-21|差一点，我就举报了爸爸所在的工厂|[link](https://mp.weixin.qq.com/s/hIWOxv27P4fLn8-_djq8BQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1948.jpg)|[link](http://archive.ph/q216F)|/|
-|02-20|武汉封城后，我每天坐志愿者的车上下班|[link](https://mp.weixin.qq.com/s/mMihqE4awFtlRV8-2Z49bg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1949.jpg)|[link](http://archive.ph/eemTZ)|/|
-|02-19|乡村厨师：“赚钱再重要，也不能拿生命开玩笑”|[link](https://mp.weixin.qq.com/s/eqoQqaSfdfur6mJ5eB6cYA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1950.jpg)|[link](http://archive.ph/OyIe5)|/|
-|02-15|不安、惶恐与感动，一个武汉人滞留在云南的24天|[link](https://mp.weixin.qq.com/s/TwsQ58Cl9B-2rDXqVP7asQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1953.jpg)|[link](http://archive.ph/yB30k)|/|
-|02-14|二十多日煎熬，我的隔离日记|[link](https://mp.weixin.qq.com/s/I3msfuyEJ_BIYHNkf9-w-Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1954.jpg)|[link](http://archive.is/V94oi)|/|
-|02-13|戴着口罩，我卖了两天圣女果|[link](https://mp.weixin.qq.com/s/buSovJN-GFmj3im1O3-SBg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1955.jpg)|[link](http://archive.ph/wwJYW)|/|
-|02-11|武汉返乡大学生，都经历了什么?|[link](https://mp.weixin.qq.com/s/mcK5Y1rICZh6E2-A_uJAMA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1957.jpg)|[link](http://archive.is/RZqlw)|/|
-|02-10|春运返程高峰，我报名去收费站做志愿者|[link](https://mp.weixin.qq.com/s/xHWxGgEQkKCq3ed3qgHctg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1958.jpg)|[link](http://archive.is/3Lqxv)|/|
-|02-06|超市员工自述：别担心，你看我们存了多少菜|[❌]()<sup>*[转载](https://wemp.app/posts/af5916b6-317a-4c65-ac8f-21fc88e0c30a)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1959.jpg)|[link](http://archive.ph/Yx7t2)|/|
-|02-05|三十年来，我第一次没能回湖北过年|[link](https://mp.weixin.qq.com/s/A0MVuFX55N_VdDMpr3BpuQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1960.jpg)|[link](http://archive.ph/KGNgF)|/|
-|02-03|不能奔赴抗疫一线，普通人可以做什么?|[link](https://mp.weixin.qq.com/s/VOml5E4TWcvi6nMN2Shj-A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1962.jpg)|[link](http://archive.ph/vMN2B)|/|
-|02-02|武汉600多公里外，我在县城医院抗疫|[link](https://mp.weixin.qq.com/s/8yUupWJw_l-PYPDOzWCn6A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1963.jpg)|[link](http://archive.ph/HyOeA)|/|
-|01-31|疫情阴霾下，我亲历的郑州日常|[link](https://mp.weixin.qq.com/s/TYkAhmPy6ieI1bdw7C4CPQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1964.jpg)|[link](http://archive.is/Gv9dT)|/|
-
 ### 叶青
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 叶青武汉日记：民有所呼，官有所应|[link](http://mp.zhisland.com/fe/router/news/detail/200228001?uid=6576666161537089540)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2377.jpg)|[link](http://archive.ph/QJwyo)|/|
 |02-27|🔥 叶青日记：武汉死亡病例降到19|[link](http://mp.zhisland.com/fe/router/news/detail/200227004?uid=6576666161537089540)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2230.jpg)|[link](http://archive.ph/b5lTk)|/|
-|02-26|🔥 叶青武汉日记：终于有了一千多空床位！|[link](http://mp.zhisland.com/fe/router/news/detail/200226006?uid=6576666161537089540)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2152.jpg)|[link](http://archive.ph/d0gc3)|/|
+|02-26|叶青武汉日记：终于有了一千多空床位！|[link](http://mp.zhisland.com/fe/router/news/detail/200226006?uid=6576666161537089540)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2152.jpg)|[link](http://archive.ph/d0gc3)|/|
 |02-25|叶青武汉日记：全省居然查出“四类人员”9479人|[link](http://mp.zhisland.com/fe/router/news/detail/200225004?uid=6576666161537089540)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2071.jpg)|[link](http://archive.ph/3bNJo)|/|
 |02-24|叶青武汉日记：三天居然查出3500人|[link](http://mp.zhisland.com/fe/router/news/detail/200224002?uid=6576666161537089540)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1988.jpg)|[link](http://archive.is/YdaPi)|/|
 |02-23|叶青：武汉30天，有件遗憾的事|[link](https://mp.weixin.qq.com/s/tzHlOmuAGapxjIZ9S1n6FA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1936.jpg)|[link](http://archive.ph/aodoF)|/|
@@ -2471,23 +2571,90 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 |01-26|武汉疫区口述：非常时期，我的忠告|[link](https://mp.weixin.qq.com/s/G66QWohRM0VdME6OHgzr5A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1933.jpg)|[link](http://archive.is/M98LH)|/|
 |01-25|武汉真实口述：最无辜的人是他们……|[link](https://mp.weixin.qq.com/s/XXJ056ou87too_UVcTkX-A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1934.jpg)|[link](http://archive.is/L7tK0)|/|
 
-### 华生2019
+### 杭州帕勒芒行动者
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-16|🔥 ​​如果群殴高福是搞错了对象———我们要从新冠病毒疫情真正总结什么（上）|[link](https://weibo.com/ttarticle/p/show?id=2309404472606035148979)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2179.jpg)|[link](http://archive.ph/BQekj)|/|
+|02-27|🔥 疫情之下的众生相|[link](https://mp.weixin.qq.com/s/8UJ39EmLLhOlkzoIod2Cgg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2255.jpg)|[link](https://archive.li/rdVnj)|/|
+
+### 中国新闻周刊（个体）
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
+|---|:----------|:---|:---:|:---:|:---:|
+|02-22|🔥 记疫情时期一次安全的火锅|[link](https://www.sohu.com/a/374961772_220095?spm=smpc.author.fd-d.13.1582892817970SL5tFlm)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2250.jpg)|[link](https://web.archive.org/web/20200228124815/https://www.sohu.com/a/374961772_220095?spm=smpc.author.fd-d.13.1582892817970SL5tFlm)|/|
+
+### 实务学堂
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
+|---|:----------|:---|:---:|:---:|:---:|
+|02-26|🔥 工友笔下的疫情06：离家前，想把父母一年的东西都备上|[link](https://mp.weixin.qq.com/s/4kvkNUQKPmAcWWECy1U_Fg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2234.jpg)|[link](http://archive.ph/McgXd)|/|
+|02-25|🔥 女工笔下的疫情05：春分的忐忑返京记|[link](https://mp.weixin.qq.com/s/ygdxpFV1sCjk0463i_pi3w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2235.jpg)|[link](http://archive.ph/2KnkG)|/|
+|02-24|🔥 女工笔下的疫情04：没法定蛋糕，我给女儿写了一封信|[link](https://mp.weixin.qq.com/s/GWX3n19rYOcV7T7VX-IRBA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2236.jpg)|[link](http://archive.ph/mJbOA)|/|
+|02-23|🔥 女工笔下的疫情03：困在妹妹家，无法回北京，儿子量体温量出了阴影|[link](https://mp.weixin.qq.com/s/Bb6rCsb6x-Gzc6-n08zIIA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2237.jpg)|[link](http://archive.ph/F6x9M)|/|
+|02-22|🔥 女工笔下的疫情02：大年初一女儿发烧了，反反复复烧，我快吓死了|[link](https://mp.weixin.qq.com/s/PBOVRa2qxnh5uFfM4TIAew)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2238.jpg)|[link](http://archive.ph/MFfii)|/|
+|02-21|🔥 女工笔下的疫情01：我说北京医疗比老家好，侄女说也轮不到咱|[link](https://mp.weixin.qq.com/s/FTx7P0FSuDGoYLH84szDtg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2239.jpg)|[link](http://archive.ph/z9i9Y)|/|
+
+### 尖椒部落（个体）
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
+|---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 被打断的未来：疫情那么严峻，我还能找到工作吗？|[link](https://mp.weixin.qq.com/s/VejF_L4sE_5knjXObQKZzQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2233.jpg)|[link](https://mp.weixin.qq.com/s/VejF_L4sE_5knjXObQKZzQ)|/|
+|02-22|疫情开始前，我想接父母来北京｜北漂家政女工|[link](https://mp.weixin.qq.com/s/Q-Rrl1YktPRk08ltoIMaXw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2090.jpg)|[link](http://archive.ph/7JWA2)|/|
+|02-17|“我不怕疫情感染我，我怕的是丈夫对我的虐待”|[link](https://mp.weixin.qq.com/s/itNq_y3RDgfpbB55-Cljrw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2091.jpg)|[link](http://archive.ph/DXJB0)|/|
+
+### PlantifulSoul
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
+|---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 疫情日记 \| 武汉封城的第三十六天|[link](https://mp.weixin.qq.com/s/xiI1ew1rXaBqDF62npEO7g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2232.jpg)|[link](http://archive.ph/2HoM5)|/|
+|02-25|疫情日记 \| 武汉封城的第三十四天|[link](https://mp.weixin.qq.com/s/aPlzP7IkZpo-5kD3xyIMGA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2069.jpg)|[link](http://archive.ph/ytD4c)|/|
+|02-23|疫情日记 \| 武汉封城的第三十二天|[link](https://mp.weixin.qq.com/s/yNbd-M4P-V5OWTJeiQtweQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1968.jpg)|[link](http://archive.ph/GiVNq)|/|
+|02-21|疫情日记 \| 武汉封城的第三十天|[link](https://mp.weixin.qq.com/s/KjRYwLF4X9v8fOjnMb5Azg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1969.jpg)|[link](http://archive.ph/3QWbo)|/|
+|02-19|疫情日记 \| 武汉封城的第二十八天|[link](https://mp.weixin.qq.com/s/NDU0mavupJ_6VVKRn5qZfw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1970.jpg)|[link](http://archive.ph/wUYHb)|/|
+|02-17|疫情日记 \| 武汉封城的第二十六天|[link](https://mp.weixin.qq.com/s/E9w8RFc0YOcIj_enXBNZrQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1971.jpg)|[link](http://archive.ph/GBERM)|/|
+|02-15|疫情日记 \| 武汉封城的第二十四天|[link](https://mp.weixin.qq.com/s/Wj9MdyXKTJY6j_mX35lXtA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1972.jpg)|[link](http://archive.ph/qE0C1)|/|
+|02-13|疫情日记 \| 武汉封城的第二十二天|[link](https://mp.weixin.qq.com/s/oJJpWxSd9KybCiOE0_uaEw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1973.jpg)|[link](http://archive.ph/dQlql)|/|
+|02-11|疫情日记 \| 武汉封城的第二十天|[link](https://mp.weixin.qq.com/s/6L3o07Orww4-_UGkSxqAnw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1974.jpg)|[link](http://archive.ph/01GdF)|/|
+|02-09|疫情日记 \| 武汉封城的第十八天|[link](https://mp.weixin.qq.com/s/zTv1r0q9Xx0k8_TzpBKEOQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1975.jpg)|[link](http://archive.ph/7Anmb)|/|
+|02-07|疫情日记 \| 武汉封城的第十六天|[link](https://mp.weixin.qq.com/s/-0-Jl-UQtd6JjMquPlK6VQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1976.jpg)|[link](http://archive.ph/TI28O)|/|
+|02-05|疫情日记 \| 武汉封城的第十四天|[link](https://mp.weixin.qq.com/s/2vuVqo_JSvQeU2C5x_FeOA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1977.jpg)|[link](http://archive.ph/4soj6)|/|
+|02-03|疫情日记 \| 武汉封城的第十二天|[link](https://mp.weixin.qq.com/s/ImwvBXL6s-YlDZ9gID__qA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1978.jpg)|[link](http://archive.ph/AEpRY)|/|
+|02-01|疫情日记 \| 武汉封城的第十天|[link](https://mp.weixin.qq.com/s/jxV5omqtg3Hp4rYWycswpw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1979.jpg)|[link](http://archive.ph/W9Lff)|/|
+|01-30|疫情日记 \| 武汉封城的第八天|[link](https://mp.weixin.qq.com/s/qcYRnkUSKTRWl5LwMsdO5A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1980.jpg)|[link](http://archive.ph/8VLre)|/|
+|01-28|疫情日记 \| 武汉封城的第五天|[link](https://mp.weixin.qq.com/s/GmlTt5DLvJQg_Vqr_4_xIQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1981.jpg)|[link](http://archive.ph/3IsnL)|/|
+|01-25|疫情日记 \| 武汉封城的第三天|[link](https://mp.weixin.qq.com/s/D8msgSglUknae2aLG36xwg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1982.jpg)|[link](http://archive.ph/gw7Ar)|/|
+|01-23|武汉全面封城首日|[link](https://mp.weixin.qq.com/s/kljIX1EHWauAx6hOx1XcSQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1983.jpg)|[link](http://archive.ph/si7Mq)|/|
+
+### 我们是有故事的人（个体）
+
+| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
+|---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 身为普通病人，如何在疫情期及时求医问药?|[link](https://mp.weixin.qq.com/s/XaX9fvnXu8L-j4CsJlF3dg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2231.jpg)|[link](http://archive.ph/S0ICu)|/|
+|02-26|一个市场监管所所长的抗“疫”日记|[link](https://mp.weixin.qq.com/s/8OuhxFtUQGv7oPIXCBHJJQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2151.jpg)|[link](http://archive.ph/QsfO5)|/|
+|02-25|在纪委做实习生，枯燥且充满算计?|[link](https://mp.weixin.qq.com/s/dD1jVRHZev5j1oaIQFulxQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2070.jpg)|[link](http://archive.ph/xqY3v)|/|
+|02-24|在隔离点做了半个月保安，我发烧了|[link](https://mp.weixin.qq.com/s/nFUBwYK8z8MBOvN3C56ROA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1946.jpg)|[link](http://archive.ph/kukX9)|/|
+|02-22|回家后，你们都离我远一点|[link](https://mp.weixin.qq.com/s/eu6PbzDWsA103I_Pf13OpQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1947.jpg)|[link](http://archive.ph/H2ll7)|/|
+|02-21|差一点，我就举报了爸爸所在的工厂|[link](https://mp.weixin.qq.com/s/hIWOxv27P4fLn8-_djq8BQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1948.jpg)|[link](http://archive.ph/q216F)|/|
+|02-20|武汉封城后，我每天坐志愿者的车上下班|[link](https://mp.weixin.qq.com/s/mMihqE4awFtlRV8-2Z49bg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1949.jpg)|[link](http://archive.ph/eemTZ)|/|
+|02-19|乡村厨师：“赚钱再重要，也不能拿生命开玩笑”|[link](https://mp.weixin.qq.com/s/eqoQqaSfdfur6mJ5eB6cYA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1950.jpg)|[link](http://archive.ph/OyIe5)|/|
+|02-15|不安、惶恐与感动，一个武汉人滞留在云南的24天|[link](https://mp.weixin.qq.com/s/TwsQ58Cl9B-2rDXqVP7asQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1953.jpg)|[link](http://archive.ph/yB30k)|/|
+|02-14|二十多日煎熬，我的隔离日记|[link](https://mp.weixin.qq.com/s/I3msfuyEJ_BIYHNkf9-w-Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1954.jpg)|[link](http://archive.is/V94oi)|/|
+|02-13|戴着口罩，我卖了两天圣女果|[link](https://mp.weixin.qq.com/s/buSovJN-GFmj3im1O3-SBg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1955.jpg)|[link](http://archive.ph/wwJYW)|/|
+|02-11|武汉返乡大学生，都经历了什么?|[link](https://mp.weixin.qq.com/s/mcK5Y1rICZh6E2-A_uJAMA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1957.jpg)|[link](http://archive.is/RZqlw)|/|
+|02-10|春运返程高峰，我报名去收费站做志愿者|[link](https://mp.weixin.qq.com/s/xHWxGgEQkKCq3ed3qgHctg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1958.jpg)|[link](http://archive.is/3Lqxv)|/|
+|02-06|超市员工自述：别担心，你看我们存了多少菜|[❌]()<sup>*[转载](https://wemp.app/posts/af5916b6-317a-4c65-ac8f-21fc88e0c30a)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1959.jpg)|[link](http://archive.ph/Yx7t2)|/|
+|02-05|三十年来，我第一次没能回湖北过年|[link](https://mp.weixin.qq.com/s/A0MVuFX55N_VdDMpr3BpuQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1960.jpg)|[link](http://archive.ph/KGNgF)|/|
+|02-03|不能奔赴抗疫一线，普通人可以做什么?|[link](https://mp.weixin.qq.com/s/VOml5E4TWcvi6nMN2Shj-A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1962.jpg)|[link](http://archive.ph/vMN2B)|/|
+|02-02|武汉600多公里外，我在县城医院抗疫|[link](https://mp.weixin.qq.com/s/8yUupWJw_l-PYPDOzWCn6A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1963.jpg)|[link](http://archive.ph/HyOeA)|/|
+|01-31|疫情阴霾下，我亲历的郑州日常|[link](https://mp.weixin.qq.com/s/TYkAhmPy6ieI1bdw7C4CPQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1964.jpg)|[link](http://archive.is/Gv9dT)|/|
 
 ### 华生2020
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-22|🔥 让事实说话——​我们要从这次疫情真正总结什么（⼆）|[link](https://weibo.com/ttarticle/p/show?id=2309404474594747613260)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2178.jpg)|[link](http://archive.is/rktgU)|/|
-
-### 华生2021
-
-| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
-|---|:----------|:---|:---:|:---:|:---:|
 |02-27|🔥 关于不再参与有关高福个人作用与责任问题讨论的说明|[link](https://weibo.com/1223237202/Iw2WSkpDp)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2177.jpg)|[link](http://archive.ph/77mcr)|/|
+|02-22|🔥 让事实说话——​我们要从这次疫情真正总结什么（⼆）|[link](https://weibo.com/ttarticle/p/show?id=2309404474594747613260)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2178.jpg)|[link](http://archive.is/rktgU)|/|
+|02-16|🔥 ​​如果群殴高福是搞错了对象———我们要从新冠病毒疫情真正总结什么（上）|[link](https://weibo.com/ttarticle/p/show?id=2309404472606035148979)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2179.jpg)|[link](http://archive.ph/BQekj)|/|
 
 ### 南方都市报（个体）
 
@@ -2499,7 +2666,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-27|🔥 你是武汉人，你脏|[link](https://card.weibo.com/article/m/show/id/2309404476610785968264?_wb_client_=1)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2174.jpg)|[link](http://archive.ph/eVCKN)|/|
+|02-27|🔥 你是武汉人，你脏|[❌](https://card.weibo.com/article/m/show/id/2309404476610785968264?_wb_client_=1)<sup>*[转载](https://mp.weixin.qq.com/s/t_uva9BMFMLLHQlEhvX0_g)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2174.jpg)|[link](http://archive.ph/eVCKN)|/|
 
 ### 二湘的六维空间
 
@@ -2515,26 +2682,13 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 |01-29|🔥 【武汉特稿】围城的第五天，灯火可亲围城的第五天，灯火可亲 \| 舒飞廉|[link](http://www.whb.cn/zhuzhan/bihui/20200129/318423.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2171.jpg)|[link](https://web.archive.org/web/20200208121425/http://www.whb.cn/zhuzhan/bihui/20200129/318423.html)|/|
 |01-25|🔥 【武汉特稿】围城的第五天，灯火可亲围城的第三天 \| 舒飞廉|[link](http://www.whb.cn/zhuzhan/bihui/20200125/317604.html)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2172.jpg)|[link](https://web.archive.org/web/20200208121323/http://www.whb.cn/zhuzhan/bihui/20200125/317604.html)|/|
 
-### 知识分子
-
-| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
-|---|:----------|:---|:---:|:---:|:---:|
-|02-19|🔥 新冠肺炎｜值得严重关注的2019年12月31日|[link](http://zhishifenzi.com/news/view/8278)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2162.jpg)|[link](http://archive.ph/vhuLZ)|/|
-
 ### 艾老师工作室
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 哀乐拼团|[link](https://mp.weixin.qq.com/s/UxbQSiLwqN5CXhKHHHnaUg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2094.jpg)|[link](https://archive.li/xONGp)|/|
-|02-24|🔥 穿过疫城|[link](https://mp.weixin.qq.com/s/yk8-fy1tmos4obvWWwKERA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2095.jpg)|[link](https://archive.li/oIH7S)|/|
-|02-21|🔥 入夜，吾与妖精同行|[link](https://mp.weixin.qq.com/s/9XHZhJRNbUu3p_mnhMIESQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2096.jpg)|[link](https://archive.li/wip/eAO5i)|/|
-
-### 尖椒部落（个体）
-
-| 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
-|---|:----------|:---|:---:|:---:|:---:|
-|02-22|🔥 疫情开始前，我想接父母来北京｜北漂家政女工|[link](https://mp.weixin.qq.com/s/Q-Rrl1YktPRk08ltoIMaXw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2090.jpg)|[link](http://archive.ph/7JWA2)|/|
-|02-17|🔥 “我不怕疫情感染我，我怕的是丈夫对我的虐待”|[link](https://mp.weixin.qq.com/s/itNq_y3RDgfpbB55-Cljrw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2091.jpg)|[link](http://archive.ph/DXJB0)|/|
+|02-26|哀乐拼团|[link](https://mp.weixin.qq.com/s/UxbQSiLwqN5CXhKHHHnaUg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2094.jpg)|[link](https://archive.li/xONGp)|/|
+|02-24|穿过疫城|[link](https://mp.weixin.qq.com/s/yk8-fy1tmos4obvWWwKERA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2095.jpg)|[link](https://archive.li/oIH7S)|/|
+|02-21|入夜，吾与妖精同行|[link](https://mp.weixin.qq.com/s/9XHZhJRNbUu3p_mnhMIESQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2096.jpg)|[link](https://archive.li/wip/eAO5i)|/|
 
 ### 世风
 
@@ -2661,7 +2815,6 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-27|🔥 我在武汉街头入睡，请别对着我的被子浇水|[link](https://mp.weixin.qq.com/s/mHlW6EJKiemXvkTdjnMJ5Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2175.jpg)|[link](http://archive.ph/6uhGB)|/|
 |02-11|一个湖北村庄里的中国|[link](https://mp.weixin.qq.com/s/z_0DSf9Gyt4iX0GIs36NDw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1216.jpg)|[link](http://archive.is/LbX8i)|/|
 |02-11|滞留在武汉，我们想回家|[link](https://mp.weixin.qq.com/s/gi-U0HwWESZ4jxMdKPx6Qw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1215.jpg)|[link](http://archive.is/LkrVV)|/|
 |02-05|一个小小的口罩，反映出时代众生相|[link](https://mp.weixin.qq.com/s/qC_dD0e28mH2oSHJQrVJqw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1222.jpg)|[link](http://archive.is/wTq2W)|/|
@@ -2723,6 +2876,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 确诊人数暴增，韩国人终于戴起了口罩|[link](https://mp.weixin.qq.com/s/K4zhDUoUNokhZO1yszqAJA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2369.jpg)|[link](http://archive.is/OzfFz)|/|
 |02-14|分手时，他带走了我所有的口罩|[link](https://mp.weixin.qq.com/s/OaSrWoGOUnVqrghgARomGQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1088.jpg)|[link](http://archive.is/wosEc)|/|
 |02-11|一位武汉教师的14天隔离日记|[link](https://mp.weixin.qq.com/s/3f7q1d3Mf9qp-rQSlk-5xA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/778.jpg)|[link](http://archive.is/NmkUz)|/|
 
@@ -2741,7 +2895,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
 |02-27|🔥 “拯救世界”的武汉普通人|[link](https://mp.weixin.qq.com/s/xhFoNPaEUrTmg7YsztagJg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2212.jpg)|[link](http://archive.is/6v8na)|/|
-|02-26|🔥 我在武汉协和西院的30天|[link](https://mp.weixin.qq.com/s/RUTgUPIvemHp7giBbQB_oA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2143.jpg)|[link](http://archive.is/QumP2)|/|
+|02-26|我在武汉协和西院的30天|[link](https://mp.weixin.qq.com/s/RUTgUPIvemHp7giBbQB_oA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2143.jpg)|[link](http://archive.is/QumP2)|/|
 |02-18|奶奶的硬核抗疫|[link](https://mp.weixin.qq.com/s/aMObKKXq61AHiRXZBHWHRw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1473.jpg)|[link](http://archive.is/jcLvE)|/|
 |02-17|我不是病毒，我在巴黎街头与50位陌生人拥抱|[link](https://mp.weixin.qq.com/s/tETQGvyC0McQJPEwB-mZ2A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1415.jpg)|[link](http://archive.is/euKEX)|/|
 |02-17|妈妈在湖北当医生，我从美国寄口罩给她|[link](https://mp.weixin.qq.com/s/HBAiHptHptJ8vqothecjcA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1414.jpg)|[link](http://archive.is/9AaFQ)|/|
@@ -2761,6 +2915,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 疯狂的口罩丨人间骗局|[link](https://mp.weixin.qq.com/s/50lZvDrZqJEX5xwKoWvB_A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2370.jpg)|[link](http://archive.is/GFar0)|/|
 |02-27|🔥 我们和被困的宠物一起，等待主人归来|[link](https://mp.weixin.qq.com/s/-WssMUo9ai8BZbdac7Qwzg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2208.jpg)|[link](http://archive.is/IZTsi)|/|
 |02-22|去鹤岗买房的湖北小哥：开不了工，我想把房子卖了|[link](https://mp.weixin.qq.com/s/8fxPhPWsZTtKwHZ9oT6vHw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1863.jpg)|[link](http://archive.is/AvNne)|/|
 |02-20|只能上网课的日子，大家都急了|[link](https://mp.weixin.qq.com/s/aslm0otqBnqrWNGsTh4etg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1646.jpg)|[link](http://archive.is/p35O4)|/|
@@ -2799,7 +2954,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-19|🔥 封城后，我们回乡为外婆奔丧|[link](https://mp.weixin.qq.com/s/Yv0YrXR8AQsdERUKrimhyA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2159.jpg)|[link](https://archive.is/0Bde3)|/|
+|02-19|封城后，我们回乡为外婆奔丧|[link](https://mp.weixin.qq.com/s/Yv0YrXR8AQsdERUKrimhyA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2159.jpg)|[link](https://archive.is/0Bde3)|/|
 |02-14|一对武汉夫妻的抗疫记录：要是我有什么事，房子留给你|[link](https://mp.weixin.qq.com/s/jPqyGk_BvJktA1ucuf5pYg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1142.jpg)|[link](https://archive.is/RV9lR)|/|
 |02-13|我们这些被强制隔离的湖北人|[link](https://mp.weixin.qq.com/s/619w-ZNvzUgzNt7OlLA3iw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1034.jpg)|[link](https://archive.is/Pc7tH)|/|
 |02-12|封城后的武汉，我们在路上|[link](https://mp.weixin.qq.com/s/qWsdN2i0gMpfmZNav7RkKg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/966.jpg)|[link](https://archive.is/ARgiT)|/|
@@ -2889,7 +3044,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-26|🔥 世界，我们需要帮助：中国医务人员柳叶刀发文，请求国际医疗支援|[❌](https://mp.weixin.qq.com/s/lqSAMKHp0zsLXeE823TruQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2097.jpg)|[link](http://archive.li/lUgc9)|/|
+|02-26|世界，我们需要帮助：中国医务人员柳叶刀发文，请求国际医疗支援|[❌](https://mp.weixin.qq.com/s/lqSAMKHp0zsLXeE823TruQ)<sup>*[转载](https://github.com/Terminus2049/Terminus2049.github.io/blob/master/_posts/2020-02-26-correspondence-call-for-help.md)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2097.jpg)|[link](http://archive.li/lUgc9)|/|
 |02-18|我在抗疫一线，我们在政治正确的前提下治病救人！|[❌](https://www.dxy.cn/bbs/newweb/pc/post/42797110)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1637.jpg)|[link](http://archive.is/BQHTi)|/|
 |02-05|我来自抗疫一线，我有话说！|[❌](http://www.dxy.cn/bbs/thread/42773815)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1638.jpg)|[link](http://archive.is/P40WK)|/|
 
@@ -2922,7 +3077,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
-|02-23|🔥 武汉市中心医院第一个带着外科队伍“硬上岗十五天”的疼痛科主任管理医护团队，管理新冠患者的思考|[link](https://weibo.com/2897587701/IvtsGtVPb)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2093.jpg)|[link](http://archive.ph/qip8s)|/|
+|02-23|武汉市中心医院第一个带着外科队伍“硬上岗十五天”的疼痛科主任管理医护团队，管理新冠患者的思考|[link](https://weibo.com/2897587701/IvtsGtVPb)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2093.jpg)|[link](http://archive.ph/qip8s)|/|
 |02-17|我终于被逼“下岗”了！|[link](https://weibo.com/2897587701/IuEBMmoiL)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1452.jpg)|[link](http://archive.ph/lm2ot)|/|
 |02-14|女人长城|[link](https://weibo.com/2897587701/IuayB7dEp)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1450.jpg)|[link](http://archive.ph/b9vFS)|/|
 |02-11|林君走了|[❌](https://weibo.com/2897587701/ItKckAslO)<sup>*[转载](https://www.sohu.com/a/373429824_267160)*</sup>|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1451.jpg)|[link](https://web.archive.org/web/20200221054633/https://www.sohu.com/a/373429824_267160)|/|
@@ -2933,6 +3088,8 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 作家方方：是的，活下来就好|[link](http://fangfang.blog.caixin.com/archives/222491)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2258.jpg)|[link](https://web.archive.org/web/20200228091427/http://fangfang.blog.caixin.com/archives/222491)|/|
+|02-26|🔥 作家方方：“不惜一切代价”，本质上不是科学决策|[link](http://fangfang.blog.caixin.com/archives/222410)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2257.jpg)|[link](https://web.archive.org/web/20200227122046/http://fangfang.blog.caixin.com/archives/222410)|/|
 |02-26|作家方方：此曲终了，我们再寻解药|[link](http://fangfang.blog.caixin.com/archives/222328)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2050.jpg)|[link](http://archive.ph/Zxy4r)|/|
 |02-25|作家方方：检验你的只有一条，就是你对弱势人群的态度|[link](http://fangfang.blog.caixin.com/archives/222265)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2051.jpg)|[link](http://archive.ph/nwMko)|/|
 |02-24|作家方方：自己做的选择，自己就要勇于承担选择的结果|[link](http://fangfang.blog.caixin.com/archives/222190)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1801.jpg)|[link](https://web.archive.org/save/http://fangfang.blog.caixin.com/archives/222190)|/|
@@ -2968,9 +3125,9 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 |---|:----------|:---|:---:|:---:|:---:|
 |02-23|武汉战纪（十八）|[link](https://mp.weixin.qq.com/s/i069TgfIf_W_HYdUWgxa5g)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1895.jpg)|[link](http://archive.ph/aXXxV)|/|
 |02-19|武汉战纪（十七）|[link](https://mp.weixin.qq.com/s/8lo31Xa2ny3-rIPMTDPE9Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1542.jpg)|[link](http://archive.ph/RhwcF)|/|
-|02-17|🔥 这是我热爱的武汉啊（作者：秦小羊）|[link](https://mp.weixin.qq.com/s/LbVuGmQaDzg42hMVY-trDA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2085.jpg)|[link](http://archive.ph/SaCKd)|/|
-|02-16|🔥 武汉战纪（十六）|[link](https://mp.weixin.qq.com/s/TBJBD5TqkJB2QtrfMBcPUg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2084.jpg)|[link](http://archive.ph/p9fe7)|/|
-|02-14|🔥 武汉战纪（十五）|[link](https://mp.weixin.qq.com/s/_qNCkv8NKsPJzdNN7wAy6w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2083.jpg)|[link](http://archive.ph/JXOsi)|/|
+|02-17|这是我热爱的武汉啊（作者：秦小羊）|[link](https://mp.weixin.qq.com/s/LbVuGmQaDzg42hMVY-trDA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2085.jpg)|[link](http://archive.ph/SaCKd)|/|
+|02-16|武汉战纪（十六）|[link](https://mp.weixin.qq.com/s/TBJBD5TqkJB2QtrfMBcPUg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2084.jpg)|[link](http://archive.ph/p9fe7)|/|
+|02-14|武汉战纪（十五）|[link](https://mp.weixin.qq.com/s/_qNCkv8NKsPJzdNN7wAy6w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2083.jpg)|[link](http://archive.ph/JXOsi)|/|
 |02-11|一次闪电战|[link](https://mp.weixin.qq.com/s/ugvOpihrU2-Pp0Gi5wNYPQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1361.jpg)|[link](http://archive.is/Ettam)|/|
 |02-05|春天已经来了，离拥抱还远吗（武汉战纪十三）|[link](https://mp.weixin.qq.com/s/59vYCTjAmGMIT79ecoRQLg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1362.jpg)|[link](https://archive.is/DiIjH)|/|
 |02-04|现实的故事（作者：小P）|[link](https://mp.weixin.qq.com/s/5tteFWBkq4YR68AWBQd1MQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1364.jpg)|[link](https://archive.is/6ts91)|/|
@@ -3017,6 +3174,8 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 只能待在家里的人可能是“幸运”，但根本不是“幸福”\|郭晶的捂汗风尘日记\|2/24-2/28|[link](https://mp.weixin.qq.com/s/9hhQC5CEh7qOPBwdEzrDIA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2249.jpg)|[link](http://archive.ph/v9fVM)|/|
+|02-25|🔥 【重发】只能依靠物业的生活\|郭晶的捂汗风尘日记2/20-2/23|[link](https://mp.weixin.qq.com/s/Y2-KybUUUjtl09PW3W4Q4w)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2248.jpg)|[link](http://archive.ph/qeltE)|/|
 |02-22|疫期反家暴\|听到邻居打骂小孩后，我给ta们写了一封信|[link](https://mp.weixin.qq.com/s/IQs8fuTHXVUegwSNz6gU3Q)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1812.jpg)|[link](http://archive.ph/4VfHT)|/|
 |02-19|被迫需要帮助\|郭晶的捂汗风尘日记\|2/16-2/19|[link](https://mp.weixin.qq.com/s/wpPZHWo75T0wSeNJA6N8iw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1539.jpg)|[link](http://archive.ph/Ht7Hx)|/|
 |02-15|现在缺什么？缺自由\|郭晶的捂汗风尘日记\|2/12-2/15|[link](https://mp.weixin.qq.com/s/CX4MV55CMad3HX4h0lG_Tg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1278.jpg)|[link](https://archive.li/TcOt3)|/|
@@ -3031,6 +3190,7 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-27|🔥 武汉封城日记｜第三十六天|[link](https://mp.weixin.qq.com/s/szmM9SETEL6rqLh1IUIeNw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2256.jpg)|[link](https://archive.li/222Vo)|/|
 |02-24|武汉封城日记｜第三十三天|[link](https://mp.weixin.qq.com/s/XNhjypMU20Cf__wuSXmdWg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2053.jpg)|[link](http://archive.ph/ydKQk)|/|
 |02-23|武汉封城日记｜第三十二天|[link](https://mp.weixin.qq.com/s/raE1Fdou2vlo4xgxCzZulQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2054.jpg)|[link](http://archive.ph/aEGKX)|/|
 |02-22|武汉封城日记｜第三十一天|[link](https://mp.weixin.qq.com/s/giJd9ftpd8zaFQcZD9pxeA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1809.jpg)|[link](http://archive.ph/CA88r)|/|
@@ -3066,8 +3226,9 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 疫期特别篇（只有死了的基层干部才是好干部）|[link](https://mp.weixin.qq.com/s/Fq_cH0wFpKPK-lGuHGOQ7A)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2242.jpg)|[link](http://archive.ph/gogSZ)|/|
 |02-27|🔥 疫期特别篇（是组织意图，还是领导意志）|[link](https://mp.weixin.qq.com/s/XCvdXzx21fUeY7QaIGfZJw)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2163.jpg)|[link](http://archive.ph/ZxiJ3)|/|
-|02-26|🔥 疫期特别篇（倒霉孩子的约会）|[link](https://mp.weixin.qq.com/s/JZZfSRAJEAnnmulVOhiMfQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2088.jpg)|[link](http://archive.ph/r3fCo)|/|
+|02-26|疫期特别篇（倒霉孩子的约会）|[link](https://mp.weixin.qq.com/s/JZZfSRAJEAnnmulVOhiMfQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2088.jpg)|[link](http://archive.ph/r3fCo)|/|
 |02-26|疫期特别篇（无处安放的捐赠品）|[link](https://mp.weixin.qq.com/s/qeWfWGqmMYpX0LlKnRjfKA)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2049.jpg)|[link](http://archive.ph/ks8Xu)|/|
 |02-24|疫期特别篇（官僚主义的传承）|[link](https://mp.weixin.qq.com/s/filREdbr2ARagCfAVLgxhg)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1894.jpg)|[link](http://archive.ph/EQSRu)|/|
 |02-22|疫期特别篇（保障职工的正常福利需政策保驾护航）|[link](https://mp.weixin.qq.com/s/TZQ2B0Lba_hcQGmjqQx-VQ)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1893.jpg)|[link](http://archive.ph/UuN1T)|/|
@@ -3195,6 +3356,8 @@ This is an archive of in-depth reports and personal narratives on the COVID-19 o
 
 | 日期 | 标题 | 原始链接 | 截图 | 存档 | 翻译
 |---|:----------|:---|:---:|:---:|:---:|
+|02-28|🔥 七岁童的战疫全记录|[link](http://chenling.blog.caixin.com/archives/222543)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2245.jpg)|[link](https://web.archive.org/web/20200228165208/http://chenling.blog.caixin.com/archives/222543)|/|
+|02-24|🔥 医院打来的神秘电话|[link](http://chenling.blog.caixin.com/archives/222219)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/2246.jpg)|[link](https://web.archive.org/save/http://chenling.blog.caixin.com/archives/222219)|/|
 |02-20|美国小城的口罩风波|[link](http://chenling.blog.caixin.com/archives/221968)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1772.jpg)|[link](https://web.archive.org/save/http://chenling.blog.caixin.com/archives/221968)|/|
 |02-18|一个医生家属的眼泪|[link](http://chenling.blog.caixin.com/archives/221770)|[link](https://github.com/2019ncovmemory/nCovMemory/blob/master/archive/jpg/1534.jpg)|[link](https://web.archive.org/web/20200219044354/http://chenling.blog.caixin.com/archives/221770)|/|
 
