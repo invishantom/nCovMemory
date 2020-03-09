@@ -87,7 +87,7 @@ if __name__ == "__main__":
                         else:
                             nameAndURL.append((line[0], line[7]))
                     else:
-                        raise ValueError()
+                        print(line[0], 'No link can be used. Pass')
 
                     # print('line[{}] = {}'.format(i, line))
                     # if i > 5:
