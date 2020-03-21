@@ -7,7 +7,7 @@ let index = {};
 const getDirectories = (source) =>
   fs
     .readdirSync(source, { withFileTypes: true })
-    .filter((dirent) => dirent.hasOwnProperty('isDirectory') && dirent.isDirectory())
+    .filter((dirent) => 'isDirectory' in dirent && dirent.isDirectory())
     .map((dirent) => dirent.name);
 let categories = getDirectories(__dirname);
 for (category of categories) {
