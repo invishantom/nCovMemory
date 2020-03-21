@@ -51,14 +51,6 @@ function escapeTable(string) {
 
 Handlebars.registerHelper('table', escapeTable);
 
-function trimAttributes(object, attributes) {
-  attributes.forEach((a) => {
-    if (object.hasOwnProperty(a) && object[a]) {
-      object[a] = object[a].trim();
-    }
-  });
-}
-
 function parseDate(a) {
   return parse(a, 'yyyy-MM-dd', new Date());
 }
@@ -70,17 +62,12 @@ async function generate(language, template, path) {
 
   // Read csv & filter valid data
   let { data } = await Papa.parsePromise(DATA.data, { header: true });
-  data = data.filter(
-    (entry) =>
-      entry.id && entry.category && entry.title && entry.media && entry.date && entry.update
-  );
   if (language !== 'cn') {
     data = data.filter((entry) => entry.title_en);
   }
 
   // Calculate attributes
   data = data.map((entry) => {
-    trimAttributes(entry, ['title', 'title_en', 'media']);
     entry.is_new = differenceInDays(now, parseDate(entry.update)) <= 1;
     entry.is_deleted = entry.is_deleted === 'true' || entry.is_deleted === 'TRUE';
     if (ARCHIVE.hasOwnProperty(entry.id)) {
