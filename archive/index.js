@@ -7,7 +7,7 @@ let index = {};
 const getDirectories = (source) =>
   fs
     .readdirSync(source, { withFileTypes: true })
-    .filter((dirent) => dirent.isDirectory())
+    .filter((dirent) => 'isDirectory' in dirent && dirent.isDirectory())
     .map((dirent) => dirent.name);
 let categories = getDirectories(__dirname);
 for (category of categories) {
@@ -17,5 +17,4 @@ for (category of categories) {
     index[id][category] = `${PUBLIC_PATH}/${category}/${name}`;
   });
 }
-
 module.exports = index;
