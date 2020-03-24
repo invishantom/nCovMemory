@@ -47,8 +47,8 @@ def fullpage_screenshot(nameAndURL):
         height = driver.execute_script("return document.body.scrollHeight")
 
         # The trick for lazy loading of images in WeChat articles
-        driver.set_window_size(1000, height - 1000)
-        driver.execute_script("window.scrollTo(0, 1000)")
+        driver.set_window_size(1000, height - 700)
+        driver.execute_script("window.scrollTo(0, 700)")
         driver.execute_script("window.scrollTo(0, 0)")
         time.sleep(10) # new images need time to load
         new_height = driver.execute_script("return document.body.scrollHeight")
